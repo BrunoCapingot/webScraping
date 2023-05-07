@@ -8,8 +8,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from Pdf import Pdf
 
 class Web():
-    def __init__(self,links):
+    def __init__(self,links,title):
         print('Iniciando driver')
+        self.titulo = title
         options = EdgeOptions()
         self.driver = webdriver.Edge(
             service=EdgeService(EdgeChromiumDriverManager().install()),
@@ -30,7 +31,8 @@ class Web():
             urls.append(self.driver.current_url)
         for x in urls:
             if '.pdf' in x:
-                self.pdf = Pdf(x)
+                self.pdf = Pdf(x,self.titulo)
+                del self.pdf
     def comandoBuscaPorTipo(self,y):
         time.sleep(5)
 
