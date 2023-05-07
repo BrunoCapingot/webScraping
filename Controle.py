@@ -1,4 +1,10 @@
-from Web import Web
+from classes.Web import Web
+
+
+
+
+
+
 
 dicionarioPrintipal = {
     'BachareladoAgronomia': {'https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html': [
@@ -39,12 +45,16 @@ dicionarioPrintipal = {
             'pdfDownloadLinkUrl',
             'finishWeb',
         ]}
-
 }
+
+import concurrent.futures
+
 if __name__ == '__main__':
-    for x in dicionarioPrintipal.keys():
-        print('Etapa: ' + x + ' iniciada com sucesso')
-        web = Web(dicionarioPrintipal.get(x), x)
-        web.Scraping()
-        del web
-        print('Etapa: ' + x + ' finalizada com sucesso')
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        for x in dicionarioPrintipal.keys():
+            print('Etapa: ' + x + ' iniciada com sucesso')
+            web = Web(dicionarioPrintipal.get(x), x)
+            executor.submit(web.Scraping)
+            print('Etapa: ' + x + ' adicionada à lista de tarefas')
+
+        print('Aguardando a conclusão do scraping...')

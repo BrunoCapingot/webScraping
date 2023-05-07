@@ -4,8 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service as EdgeService
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.edge.options import Options as EdgeOptions
-from selenium.webdriver.support import expected_conditions as EC
-from Pdf import Pdf
+from classes.Pdf import Pdf
 
 class Web():
     def __init__(self,links,title):
@@ -51,6 +50,9 @@ class Web():
         elif 'finishWeb' in y:
             self.driverClose()
             return 'finishWeb'
+
+    def comandoBuscaPorTexto(self):
+        pass
 
 
     def Scraping(self):
