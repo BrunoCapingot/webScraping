@@ -15,7 +15,7 @@ class Web():
             service=EdgeService(EdgeChromiumDriverManager().install()),
             options=options
         )
-        self.dicionarioPrintipal = links
+        self.dicionarioPrincipal = links
 
 
     def driverClose(self):
@@ -59,9 +59,9 @@ class Web():
 
     def Scraping(self):
 
-        for x in self.dicionarioPrintipal.keys():
+        for x in self.dicionarioPrincipal.keys():
             self.driver.get(x)
-            [self.comandoBuscaPorTipo(y) for y in self.dicionarioPrintipal.get(x)]
+            [self.comandoBuscaPorTipo(y) for y in self.dicionarioPrincipal.get(x)]
 
 
 
