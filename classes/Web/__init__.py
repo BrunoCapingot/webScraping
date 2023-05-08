@@ -30,8 +30,10 @@ class Web():
             urls.append(self.driver.current_url)
         for x in urls:
             if '.pdf' in x:
+                print(self.titulo)
                 self.pdf = Pdf(x,self.titulo)
-                del self.pdf
+                #del self.pdf
+
     def comandoBuscaPorTipo(self,y):
         time.sleep(5)
 

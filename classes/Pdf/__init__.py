@@ -10,7 +10,7 @@ class Pdf():
 
         if response.status_code == 200:
             print('Baixando pdf')
-            with open('./pdfs/{}.pdf'.format(self.pdfTitle), 'wb') as f:
+            with open('./classes/pdfs/{}.pdf'.format(self.pdfTitle), 'wb') as f:
                 f.write(response.content)
                 f.close()
         else:
