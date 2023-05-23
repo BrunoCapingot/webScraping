@@ -741,13 +741,30 @@
 											"height": 13,
 											"text": "+ProcessosInternos",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGISYQ4eiRskUk=",
+											"_parent": {
+												"$ref": "AAAAAAGH+4YxvXogY10="
+											},
+											"model": {
+												"$ref": "AAAAAAGISYQ4YyRp/LU="
+											},
+											"font": "Arial;13;0",
+											"left": 3163,
+											"top": 1028,
+											"width": 153.89892578125,
+											"height": 13,
+											"text": "+dataInput",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 3158,
 									"top": 993,
 									"width": 163.89892578125,
-									"height": 38
+									"height": 53
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -770,7 +787,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 3163,
-											"top": 1036,
+											"top": 1051,
 											"width": 153.89892578125,
 											"height": 13,
 											"text": "-varreduraWeb()",
@@ -805,7 +822,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 3163,
-											"top": 1051,
+											"top": 1066,
 											"width": 153.89892578125,
 											"height": 13,
 											"text": "-processarObjetivos()",
@@ -832,7 +849,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 3158,
-									"top": 1031,
+									"top": 1046,
 									"width": 163.89892578125,
 									"height": 38
 								},
@@ -3769,7 +3786,7 @@
 											"top": 745,
 											"width": 124.998046875,
 											"height": 13,
-											"text": "-defineTipo()",
+											"text": "-getData()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3781,6 +3798,7 @@
 											"model": {
 												"$ref": "AAAAAAGICBh8lapKYZc="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 3172,
 											"top": 760,
@@ -3800,7 +3818,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 3172,
-											"top": 775,
+											"top": 760,
 											"width": 124.998046875,
 											"height": 13,
 											"text": "-preencheDicionario()",
@@ -3811,7 +3829,7 @@
 									"left": 3167,
 									"top": 740,
 									"width": 134.998046875,
-									"height": 53
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -5120,7 +5138,7 @@
 											"top": 1041,
 											"width": 116.29541015625,
 											"height": 13,
-											"text": "DefineArquivo"
+											"text": "Arquivo"
 										},
 										{
 											"_type": "LabelView",
@@ -8668,6 +8686,14 @@
 							},
 							"name": "ProcessosInternos",
 							"type": ""
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGISYQ4YyRp/LU=",
+							"_parent": {
+								"$ref": "AAAAAAGH+4YxvHoYB/g="
+							},
+							"name": "dataInput"
 						}
 					],
 					"operations": [
@@ -9806,7 +9832,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGICBaxPZuYyko="
 							},
-							"name": "defineTipo",
+							"name": "getData",
 							"visibility": "private"
 						},
 						{
@@ -10099,7 +10125,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "DefineArquivo",
+					"name": "Arquivo",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",

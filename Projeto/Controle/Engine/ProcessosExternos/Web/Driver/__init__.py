@@ -7,10 +7,18 @@ from selenium.webdriver.edge.options import Options as EdgeOptions
 
 class Driver():
     def __init__(self):
-        self.titulo = None
-        self.dicionarioPrincipal = None
         self.options = EdgeOptions()
         self.driver = webdriver.Edge(
             service=EdgeService(EdgeChromiumDriverManager().install()),
             options=self.options
         )
+
+
+
+
+    def driverClose(self):
+        pass
+    def driverOpen(self,link):
+        self.driver.get(link)
+    def driverQuit(self):
+        pass

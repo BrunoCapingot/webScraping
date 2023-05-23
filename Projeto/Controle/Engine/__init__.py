@@ -1,19 +1,18 @@
 from Projeto.Controle.Engine.ProcessosInternos import ProcessosInternos
 from Projeto.Controle.Engine.ProcessosExternos import ProcessosExternos
+from Projeto.Controle.Engine.DataInput import DataInput
 
 
 
 class Engine():
     def __init__(self):
-        pass
+        self.dataInput = DataInput()
+        #self.processosInternos = ProcessosInternos()
+        self.processosExternos = ProcessosExternos()
 
+    def varreduraWeb(self):
+        self.processosExternos.scraping(self.dataInput.getData())
+        input('segurou')
 
-    def buscaPorTipo(self):
-        pass
-
-    def buscaPorTexto(self):
-        pass
-
-
-    def defTypeCommand(self):
+    def processarObjetivos(self):
         pass
