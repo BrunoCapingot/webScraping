@@ -9,17 +9,29 @@ class ProcessosExternos():
         pass
 
 
-    def scraping(self,dataInput):
-        self.web = Web()
-
-        time.sleep(5)
+    def scrapingSequencial(self,dataInput):
+        #self.web = Web()
+        #time.sleep(5)
         for x in dataInput:
-            self.web.openLink(x[0])
-            time.sleep(5)
-
+            #self.web.openLink(x[0])
             for k in range(0,len(x[1])):
-                self.web.openLink(x[1][k])
-                print(x[1][k])
-        #self.download = Downloads()
+                for y in x[1][k]:
+                    for z in x[1][k][y]:
+                        print(z)
+                        #input('esperando'
+    def scrapingParalelo(self,dataInput):
+            self.web = Web()
+            #time.sleep(5)
+            for x in dataInput:
+                #self.web.openLink(x[0])
+                for k in range(0,len(x[1])):
+                    for y in x[1][k]:
+                        for z in x[1][k][y]:
+                            self.web.clickElementoPorComando(z)
+                            #input('esperando'
+
+
+
+            #self.download = Downloads()
 
 

@@ -3,7 +3,8 @@ class DataInput():
     def __init__(self):
         self.item = None
 
-        self.dicionarioPrincipal = {'https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html': {
+        self.dicionarioPrincipal = {
+            'https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html': {
                 0: {
                     'Bacharelado em Agronomia': [
 

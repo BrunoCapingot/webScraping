@@ -14,12 +14,14 @@ class Web():
 
 
     def openLink(self,link):
-        self.driver.driverOpen("{}".format(link))
-        time.sleep(50)
+        self.driver.open("{}".format(link))
+        time.sleep(5)
 
 
     def setTitle(self,title):
         pass
-    def getElementoPorComando(self):
-        pass
+
+    def clickElementoPorComando(self,comand):
+        print(comand)
+
 

@@ -13,12 +13,13 @@ class Driver():
             options=self.options
         )
 
+    def clickHtmlCompleto(self,comand):
+        self.driver.find_element(By.CSS_SELECTOR, comand).click()
 
 
-
-    def driverClose(self):
+    def close(self):
         pass
-    def driverOpen(self,link):
+    def open(self,link):
         self.driver.get(link)
-    def driverQuit(self):
+    def quit(self):
         pass
