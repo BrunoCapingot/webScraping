@@ -2,7 +2,7 @@ import requests
 
 class Pdf():
     def __init__(self):
-        self.pdfTitle = None
+        self.pdfTitle = 'teste'
         self.pdfLink = None
 
     def setTituloPdf(self,title):
@@ -11,12 +11,12 @@ class Pdf():
     def setPdfLink(self,link):
         self.pdfLink = link
 
-    def pdfDownload(self):
+    def pdfDownload(self,link):
+        self.pdfLink = link
         response = requests.get('' + str(self.pdfLink))
-
         if response.status_code == 200:
             print('Baixando pdf')
-            with open('./Donwloads/pdfs_matrizes_curriculares/{}.pdf'.format(self.pdfTitle), 'wb') as f:
+            with open('.\{}.pdf'.format(self.pdfTitle), 'wb') as f:
                 f.write(response.content)
                 f.close()
         else:

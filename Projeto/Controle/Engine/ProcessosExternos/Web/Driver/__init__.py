@@ -13,13 +13,23 @@ class Driver():
             options=self.options
         )
 
-    def clickHtmlCompleto(self,comand):
-        self.driver.find_element(By.CSS_SELECTOR, comand).click()
+    def getListLink(self):
+        urls = []
+        for handle in self.driver.window_handles:
+            self.driver.switch_to.window(handle)
+            urls.append(self.driver.current_url)
+        return urls
 
+
+    def clickFromCssSelector(self, comand):
+        self.driver.find_element(By.CSS_SELECTOR, value=str(comand)).click()
+
+    def clickFromXpath(self, comand):
+        self.driver.find_element(By.XPATH, value=str(comand)).click()
 
     def close(self):
-        pass
+        self.driver.close()
     def open(self,link):
         self.driver.get(link)
     def quit(self):
-        pass
+        self.driver.quit()

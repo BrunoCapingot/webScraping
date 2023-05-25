@@ -12,7 +12,6 @@ class Engine():
 
     def varreduraWeb(self):
         self.processosExternos.scrapingSequencial(self.dataInput.getData())
-        input('segurou')
 
     def processarObjetivos(self):
         pass

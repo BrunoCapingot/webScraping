@@ -1,6 +1,7 @@
 import time
-
 from Projeto.Controle.Engine.ProcessosExternos.Web.Driver import Driver
+
+
 
 
 
@@ -22,6 +23,20 @@ class Web():
         pass
 
     def clickElementoPorComando(self,comand):
-        print(comand)
+
+        if 'id' in comand:
+            self.driver.clickFromXpath(comand)
+            return 'xpath'
+        elif '/html' in comand:
+            self.driver.clickFromXpath(comand)
+            return 'xpath'
+        elif 'content' in comand:
+            self.driver.clickFromCssSelector(comand)
+            return 'css_selector'
+        elif 'pdfDownloadLinkUrl' in comand:
+            return self.driver.getListLink()
+        elif 'finishWeb' in comand:
+            self.driver.quit()
+            return 'finishWeb'
 
 
