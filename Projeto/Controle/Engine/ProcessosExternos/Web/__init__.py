@@ -36,7 +36,10 @@ class Web():
         elif 'pdfDownloadLinkUrl' in comand:
             return self.driver.getListLink()
         elif 'finishWeb' in comand:
+            print('Finalizando Web')
             self.driver.quit()
+            time.sleep(3)
+            print('Web finalizado')
             return 'finishWeb'
 
 
