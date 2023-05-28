@@ -5,4 +5,4 @@ class ProcessosInternos():
         self.defineArquivo = Arquivo()
 
     def construirArquivo(self):
-        pass
+        self.defineArquivo.defineCsv()
