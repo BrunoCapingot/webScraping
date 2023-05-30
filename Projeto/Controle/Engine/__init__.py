@@ -4,14 +4,16 @@ from Projeto.Controle.Engine.DataInput import DataInput
 
 
 
+
 class Engine():
     def __init__(self):
         self.dataInput = DataInput()
         self.processosInternos = ProcessosInternos()
-        self.processosExternos = ProcessosExternos()
+        self.processosExternos = ProcessosExternos(self.dataInput.getData())
 
     def varreduraWeb(self):
-        self.processosExternos.scrapingSequencial(self.dataInput.getData())
+        self.processosExternos.scrapingParalelo()
+        #self.processosExternos.scrapingParalelo(self.dataInput.getData())
         #self.processosInternos.construirArquivo()
 
     def processarObjetivos(self):
