@@ -4,6 +4,10 @@ class Estrutura():
         self.indexNumerico = 0
         self.indexString = ''
 
+
+    def getIndexString(self):
+        return self.indexString
+
     def setDataEstrutucture(self,dataInput):
         list = []
         for x in dataInput:
@@ -20,6 +24,9 @@ class Estrutura():
         self.estrutura = self.estrutura[0][1][self.indexNumerico][self.indexString]
 
     def getEstrutura(self):
+        return self.estrutura
+
+    def getEstruturaNumeric(self):
         return self.estrutura[self.indexNumerico]
 
     def getEstructureComand(self):

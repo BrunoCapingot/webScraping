@@ -4,16 +4,21 @@ class Imagem():
     def __init__(self):
         self.pdfName = None
 
+    #agronomia
+    #cienciasDaComputação
+    #tecnologiaEmAlimentos
+    #tecnologiaEmSistemasDaInternet
+
 
     def extractPdfToImage(self):
-        # Caminho para o arquivo PDF
-        pdf_path = './Projeto/Controle/Download/matrizes_curriculares/BachareladoemCienciadaComputacao.pdf'
+        listPath = [r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemAgronomia.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemCienciadaComputacao.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemAlimentos.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemSistemasparaInternet.pdf'
+                    ]
+        for pdf_path in listPath:
+            images = convert_from_path(pdf_path)
+            for i, image in enumerate(images):
+                image.save(f'{pdf_path.split("/")[-1]}_pagina_{i + 1}.jpg', 'JPEG')
 
-        # Converte as páginas do PDF em imagens
-
-        images = convert_from_path(pdf_path)
-
-        # Itera sobre as imagens e salva cada uma delas em um arquivo
-        for i, image in enumerate(images):
-            image.save(f'pagina_{i + 1}.jpg', 'JPEG')
 

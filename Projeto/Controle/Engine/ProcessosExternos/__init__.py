@@ -1,5 +1,4 @@
 import time
-import concurrent.futures
 from Projeto.Controle.Engine.ProcessosExternos.Web import Web
 from Projeto.Controle.Engine.ProcessosExternos.Downloads import Downloads
 from Projeto.Controle.Engine.DataInput.Estrutura import Estrutura
@@ -7,6 +6,7 @@ from Projeto.Controle.Engine.DataInput.Estrutura import Estrutura
 
 class ProcessosExternos():
     def __init__(self,dataInput):
+        self.est = Estrutura()
         self.dataInput = dataInput
         self.indexNumerico = 0
         self.list = []
@@ -15,14 +15,16 @@ class ProcessosExternos():
                 self.list.append(y)
         self.estrutura = self.list[1]
 
-    def defineIndexNumerico(self,numero):
-        self.indexNumerico = self.indexNumerico + numero
-        self.estrutura = self.list[1][self.indexNumerico]
-        print(self.estrutura)
 
+    def indexNumericoMais(self,numero):
+        self.indexNumerico = self.indexNumerico + numero
+
+    def defineIndexNumerico(self,numero):
+        self.indexNumerico = numero
+        self.estrutura = self.list[1][self.indexNumerico]
         return self.estrutura
 
-    def scrapingSequencial(self):
+    def scrapingVelho(self):
 
         time.sleep(5)
         list2 = []
@@ -43,16 +45,32 @@ class ProcessosExternos():
                             self.download.iniciarDownload(pdfLink, nomeAssunto)
 
 
-    def scrapingParalelo(self):
-        est = Estrutura()
-        est.setDataEstrutucture(self.dataInput)
-        est.setIndexNumerico(0)
-        est.setIndexString('Bacharelado em Agronomia')
-        print(est.getEstrutura())
-        input('esperando')
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-            executor.submit()
+
+    def scrapingSequencial(self):
+        #self.web = Web()
+        #self.download = Downloads()
+        #self.web.openLink('https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html')
+        self.est.setDataEstrutucture(self.dataInput)
+        self.est.setIndexNumerico(self.indexNumerico)
+        self.indexNumericoMais(self.indexNumerico + 1)
+        for x in self.est.getEstruturaNumeric():
+            self.est.setIndexString(x)
+        #print(self.est.getEstructureComand())
+        for comand in self.est.getEstructureComand():
+            print(comand)
+        #    links = self.web.clickElementoPorComando(comand)
+        #    for x in links:
+        #        if '.pdf' in x:
+        #            self.download.iniciarDownload(x,self.est.getIndexString())
+        #        time.sleep(3)
+
+
+
+
+
+
+
 
 
 

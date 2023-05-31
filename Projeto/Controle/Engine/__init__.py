@@ -12,9 +12,9 @@ class Engine():
         self.processosExternos = ProcessosExternos(self.dataInput.getData())
 
     def varreduraWeb(self):
-        self.processosExternos.scrapingParalelo()
-        #self.processosExternos.scrapingParalelo(self.dataInput.getData())
-        #self.processosInternos.construirArquivo()
+
+        self.processosExternos.scrapingVelho()
+        self.processosInternos.construirArquivo()
 
     def processarObjetivos(self):
         pass
