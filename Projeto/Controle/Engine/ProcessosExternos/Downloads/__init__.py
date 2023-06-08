@@ -13,14 +13,14 @@ class Downloads():
             'í': 'i', 'ì': 'i', 'î': 'i', 'ï': 'i',
             'ó': 'o', 'ò': 'o', 'õ': 'o', 'ô': 'o', 'ö': 'o',
             'ú': 'u', 'ù': 'u', 'û': 'u', 'ü': 'u',
-            'ç': 'c',
-            'ñ': 'n'
+            'ç': 'c', 'ñ': 'n', '.': ''
         }
 
         # Remove os acentos, caracteres especiais e espaços em branco
         texto_sem_acentos = ''.join(substituicoes.get(c, c) for c in texto)
         texto_sem_especiais = re.sub(r'[^a-zA-Z0-9]', '', texto_sem_acentos)
         texto_sem_espacos = texto_sem_especiais.replace(' ', '')
+
 
         return texto_sem_espacos
 

@@ -49,6 +49,7 @@ class ProcessosExternos():
 
     def scrapingSequencial(self):
         #self.web = Web()
+
         #self.download = Downloads()
         #self.web.openLink('https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html')
         self.est.setDataEstrutucture(self.dataInput)

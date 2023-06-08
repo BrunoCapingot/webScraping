@@ -17,6 +17,7 @@ class Imagem():
                     r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemSistemasparaInternet.pdf'
                     ]
         for pdf_path in listPath:
+            pdf_path = pdf_path.replace('.pdf','')
             images = convert_from_path(pdf_path)
             for i, image in enumerate(images):
                 image.save(f'{pdf_path.split("/")[-1]}_pagina_{i + 1}.jpg', 'JPEG')

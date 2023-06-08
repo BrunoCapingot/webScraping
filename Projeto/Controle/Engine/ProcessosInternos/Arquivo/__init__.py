@@ -9,5 +9,5 @@ class Arquivo():
 
 
     def defineCsv(self):
-        #self.imagem.extractPdfToImage()
-        self.escrita.imageToText()
+        self.imagem.extractPdfToImage()
+        #self.escrita.imageToText()
