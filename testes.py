@@ -1,19 +1,43 @@
-import pytesseract
-import cv2
-
-class Escrita():
-    def __init__(self):
-        self.dirImage = None
-
-
-    def imageToText(self):
-
-        output_dir = r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/textos'
-        pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-
-        dados = ''
-        with open('BachareladoemAgronomia.png', 'rb') as data:
-            dados = data.read()
-
-        text = pytesseract.image_to_string(dados)
-        print(text)
+webScraping
+    old
+    Projeto
+        Controle
+            Engine
+                DataInput
+                    __init__.py
+                    Estrutura.py
+                ProcessosExternos
+                    Downloads
+                        Pdf
+                        __init__.py
+                    __init__.py
+                Web
+                    Condicionais
+                    Driver
+                    __init__.py
+                __init__.py
+            __init__.py
+            ProcessosInternos
+                Arquivo
+                    __init__.py
+                Escrita
+                    __init__.py
+                Imagem
+                    __init__.py
+            Os
+                __init__.py
+            __init__.py
+    ImagePdf
+    Modelo
+    Banco
+    __init__.py
+    Modelo.py
+    PdfDownload
+    BachareladoemAgronomia.pdf
+    BachareladoemCienciadaComputacao.pdf
+    BachareladoemQuimicaIndustrial.pdf
+    BachareladoemZootecnia.pdf
+    LicenciaturaemPedagogia.pdf
+    LicenciaturaemQuimica.pdf
+    TecnologiaemAlimentos.pdf
+    TecnologiaemSistemasparaInternet.pdf

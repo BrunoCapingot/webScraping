@@ -13,7 +13,7 @@ class Engine():
 
     def varreduraWeb(self):
 
-        self.processosExternos.scrapingVelho()
+        #self.processosExternos.scrapingVelho()
         self.processosInternos.construirArquivo()
 
     def processarObjetivos(self):

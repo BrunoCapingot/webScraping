@@ -1,4 +1,5 @@
 from Projeto.Controle import Controle
 
-control = Controle()
-control.execEngine()
+if __name__ == '__main__':
+    controle = Controle()
+    controle.execEngine()

@@ -9,15 +9,15 @@ class Escrita():
 
     def imageToText(self):
 
-        output_dir = r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/textos'
+        output_dir = './Controle/ImageText/textos'
         pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-        imagem = cv2.imread("BachareladoemAgronomia.png")
+        imagem = cv2.imread("./Controle/PdfDownload/BachareladoemAgronomia.png")
         print(imagem)
 
         #imagem = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
         #text = pytesseract.image_to_string(imagem)
         text = ''
-        text = text.replace(' ', '')
+        #text = text.replace(' ', '')
         text = text.replace('\n', ' ')
         text = text.replace('/', '')
         text = text.replace('o', '')

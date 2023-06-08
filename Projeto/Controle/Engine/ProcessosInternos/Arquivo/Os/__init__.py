@@ -23,5 +23,10 @@ class Os():
         else:
             print(f"O diretório {self.caminho} não pôde ser limpo.")
 
-    def moveArqPara(self):
-        pass
+    def mover_arquivos(self, destino, dataInput):
+        for arquivos in dataInput:
+            for arquivo in arquivos:
+                print(os.listdir(os.getcwd()))
+                caminho_origem = os.path.join('PdfDownload', arquivo)
+                caminho_destino = os.path.join(destino, arquivo)
+                os.rename(caminho_origem, caminho_destino)
