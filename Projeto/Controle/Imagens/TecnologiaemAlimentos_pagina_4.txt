@@ -1,0 +1,45 @@
+SERVICO PUBLICO FEDERAL
+MINISTERIO DA EDUCAGAO
+SECRETARIA DE EDUCAGAO PROFISSIONAL E TECNOLOGICA
+INSTITUTO FEDERAL DE EDUCAGAO, CIENCIA E TECNOLOGIA GOIANO,
+CAMPUS MORRINHOS
+
+15.2 Nucleo Optativo
+
+Disciplinas Optativas
+
+Periodo | Codigo Nome Pré- Total de Aulas CH Total
+Requisito Aulas Semanais| (60 min)
+Optativa |BDDS | Banco de Dados Distribuidos BD 40 2 36,66
+Optativa |GBD | Geréncia de Banco de Dados BD 40 2 36,66
+Optativa |CE Comércio Eletrénico Nao 40 2 36,66
+Optativa /LB Libras Nao 40 2 36,66
+Optativa |RSMA |Responsabilidade Social e Meio Nao 40 2 36,66
+Ambiente
+Optativa | RE. Relacées Etnico-raciais e Nao 40 2 36,66
+Afrodescendéncia
+Optativa |SR Seguranca de Redes SSI 40 2 36,66
+Optativa |SM Semindrios Nao 40 2. 36,66
+Optativa |TOP | Tépicos em Informatica Nao 40 2 36,66
+15.3 Quantitativo de horas do curso
+Tabela com o quantitativo de horas do curso
+
+Descrigao Horas
+(60 min)
+
+Total de horas formativas em Unidades Curriculares Obrigatérias 2126,48
+Total de horas formativas em Unidades Curriculares Optativas 73,33
+Total de horas em Atividades Complementares 150,00
+Cargo Horaria Minima 2349,78
+Trabalho de Conclusaéo de Curso 80,00
+Cargo Horaria do Curso 2429,81
+Total de horas em Disciplinas do Nicleo Livre (Maximo) 80,00
+
+15.4 Matriz de Requisitos das Disciplinas
+
+A Revisao de 2015 feita pelo NDE identificou também a necessidade de se instituir 0 conceito de
+pré-requisitos das disciplinas, de forma a melhorar a qualidade do ensino-aprendizagem,
+principalmente no que tange as disciplinas mais avangadas do curso. Como a partir dessa
+
+35
+

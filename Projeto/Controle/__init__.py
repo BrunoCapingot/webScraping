@@ -7,8 +7,8 @@ class Controle():
 
     def execEngine(self):
         self.engine.varreduraWeb()
-
+        print('uma vez')
 
     def execParalelEngine(self):
-        pass
         #self.engine.varreduraWeb()
+        print('uma vez')

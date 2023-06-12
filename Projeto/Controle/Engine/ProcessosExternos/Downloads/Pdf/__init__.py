@@ -15,7 +15,7 @@ class Pdf():
         response = requests.get('' + str(self.pdfLink))
         if response.status_code == 200:
             print('Baixando pdf')
-            with open('./PdfDownload/{}.pdf'.format(self.pdfTitle), 'wb') as f:
+            with open('.\Download\matrizes_curriculares\{}.pdf'.format(self.pdfTitle), 'wb') as f:
                 f.write(response.content)
                 f.close()
         else:

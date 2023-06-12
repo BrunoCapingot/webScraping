@@ -1,0 +1,61 @@
+1° SEM 2° SEM 3° SEM 4° SEM 5° SEM
+
+SERVICO PUBLICO FEDERAL
+MINISTERIO DA EDUCAGAO
+SECRETARIA DE EDUCAGAO PROFISSIONAL E TECNOLOGICA
+INSTITUTO FEDERAL DE EDUCAGAO, CIENCIA E TECNOLOGIA GOIANO
+CAMPUS MORRINHOS
+
+reformulagao, todas as disciplinas serado ofertadas todos os semestres, isso proporcionara ao aluno
+que tenha ficado retido numa determinada disciplina, adquirir os conceitos basicos necessdrios e
+imprescindiveis para as disciplinas mais avangadas (Figura 8).
+
+Matriz de Requisitos
+
+m
+Be
+x
+i}
+o
+
+Programa¢ao
+
+6° SEM
+ail a Sem pré-requisitos
+
+DDS In
+
+Matematica
+
+Esl OPI OPII
+
+RCD [mses DCW
+
+Banco de Dados
+
+Engenharia de
+Software
+
+MPC IHC — ssl
+fis |
+
+PI
+
+Empreendedorismo
+
+Figura 8 — Matriz de Requisitos das disciplinas
+
+A matriz de requisitos foi dividida em eixos tematicos de acordo com cada vertente que comp6e a
+formacao necessaria do profissional. Os eixos apresentados no figura 8 representam que uma
+disciplina é pré-requisito para outra ou que possui algum pré-requisito. A seta ( — ) indica o sentido
+do requisito, conforme a disciplina avanca nos semestres, 0 numero de requisitos para a mesma
+aumenta.
+
+A indicagao dos requisitos norteara os alunos quanto a importancia das disciplinas cursadas para
+que nao haja retengdes no semestre, e que ao mesmo tempo nao dificulte 0 aprendizado do aluno
+nas disciplinas dos semestres posteriores.
+
+Independente dos requisitos apresentados, os alunos poderdo cursar entre 2 a 4 disciplinas em cada
+semestre que nao apresentam qualquer tipo de pré-requisitos .
+
+36

@@ -1,5 +1,6 @@
+import os
+from PIL import Image
 import pytesseract
-import cv2
 
 
 class Escrita():
@@ -7,41 +8,32 @@ class Escrita():
         self.dirImage = None
 
 
-    def imageToText(self):
+    def defineImagemPath(self):
+        diretorio = r'C:\Users\CPGT\Desktop\webScraping\Projeto\Controle\Imagens'
+        for nome in os.listdir(diretorio):
+            self.dirImage = nome
+            self.imageToText(diretorio, self.dirImage)
 
-        output_dir = './Controle/ImageText/textos'
+    def imageToText(self, caminho, arquivo):
+        input_dir = r'{}'.format(caminho)
         pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-        imagem = cv2.imread("./Controle/PdfDownload/BachareladoemAgronomia.png")
-        print(imagem)
+        imagem_path = os.path.join(caminho, arquivo)
+        try:
+            imagem = Image.open(imagem_path)
+            print("Tamanho da imagem:", imagem.size)
+            print("Modo da imagem:", imagem.mode)
 
-        #imagem = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
-        #text = pytesseract.image_to_string(imagem)
-        text = ''
-        #text = text.replace(' ', '')
-        text = text.replace('\n', ' ')
-        text = text.replace('/', '')
-        text = text.replace('o', '')
-        text = text.replace('°', '')
-        text = text.replace('=', '')
-        text = text.replace('[', '')
-        text = text.replace(']', '')
-        text = text.replace('(', '')
-        text = text.replace(')', '')
-        text = text.replace('|', ',')
-        text = text.replace(', ,', ',')
-        text = text.replace('i', '')
-        text = text.replace('=', '')
-        text = text.replace('!', '')
-        with open('dados.txt', 'w') as escrita:
-            escrita.write(text)
-            escrita.close()
-        """
-        text = text.replace('i', '')
-        
+            # Aplicar OCR na imagem usando pytesseract
+            texto = pytesseract.image_to_string(imagem)
+            print("Texto extraído:", texto)
 
-        text = text.replace('=', '')
-        text = text.replace('!', '')"""
+            # Salvar o texto em um arquivo
+            nome_arquivo = os.path.splitext(arquivo)[0] + ".txt"
+            caminho_arquivo = os.path.join(caminho, nome_arquivo)
+            with open(caminho_arquivo, 'w') as arquivo_texto:
+                arquivo_texto.write(texto)
+            print("Texto salvo em:", caminho_arquivo)
 
+        except IOError:
+            print("Erro ao abrir a imagem.")
 
-es = Escrita()
-es.imageToText()

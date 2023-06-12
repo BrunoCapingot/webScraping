@@ -1,0 +1,52 @@
+SERVICO PUBLICO FEDERAL
+MINISTERIO DA EDUCAGAO
+SECRETARIA DE EDUCAGAO PROFISSIONAL E TECNOLOGICA
+
+INSTITUTO FEDERAL DE EDUCAGAO, CIENCIA E TECNOLOGIA GOIANO,
+
+CAMPUS MORRINHOS
+
+3° Semestre
+
+Periodo | Codigo Nome Pré- Total de Aulas CH Total
+Requisito Aulas Semanais | (60 min)
+
+3 MSOO Modelagem de Sistemas Orientada a Nao 80 4 73,33
+
+Objetos
+
+3° BD Banco de Dados PBD 80 4 73,33
+
+3° POO Programacao Orientada a Objetos ED 80 4 73,33
+
+3 EI Empreendedorismo e Inovacdo Nao 40 2 36,66
+
+3° CL CAlculo AL, PC 80 4 73,33
+
+a MPC Metodologia de Pesquisa Cientifica Nao 40 2 36,66
+
+Total 400 20 366,63
+
+4° Semestre
+
+Periodo | Codigo Nome Pré- Total de Aulas CH Total
+Requisito Aulas Semanais | (60 min)
+
+4 LPM Linguagem de Programacao POO 80 4 73,33
+
+Multiplataforma
+
+4 DCW Desenvolvimento para Cliente WEB POO 80 4 73,33
+
+4 EST Estatistica Nao 40 2 36,66
+
+4 SO Sistemas Operacionais Nao 80 4 73,33
+
+4 THC Projeto de Interface Homem-Computador Nao 40 2 36,66
+
+4 ESI Engenharia de Software I MSOO 80 4 73,33
+
+Total 400 20 366,63
+
+33
+

@@ -1,0 +1,76 @@
+cop PRE SEM _DISCIPLINA NUCLEO? TEQ PRA TOTAL
+
+110
+
+z
+a
+Bb
+B
+=}
+°
+
+EXA-202 EXA N/A Calculo Diferencial e Integral |
+
+EXA-201 EXA N/A Geometria Analitica 73.33 0 73.33
+
+BCC-005 cc N/A Algoritmos e Programacao de Computadores 36.66 36.66 73.33
+
+SEGUNDO PERIODO
+
+BCC-001 EXA N/A Fisica para Computagao NE 73.33 0 73.33
+
+BCC-007 EXA N/A Sistemas Digitais NE 36.66 36.66 73.33
+
+BCC-009 ce N/A Metodologia Cientifica para Ciéncia da Computagao NE 36.66 O 36.66
+
+TERCEIRO PERIODO
+
+BCC-011 cc BCC-008 3 Programacao Orientada a Objetos 36.66 36.66 73.33
+
+BCC-003 EXA N/A Matematica Discreta 73.33 0 73.33
+
+BCC-PI1 cc N/A Pratica de Laboratorio de Pesquisa (Ambientagao) i 73.33 73.33
+
+QUARTO PERIODO
+
+BCC-015 cc BCC-010 4 Estruturas de Dados II 36.66 36.66 73.33
+
+BCC-019 Ge N/A Redes de Computadores | 36.66 36.66 73.33
+
+i
+fal
+ia
+i
+N
+fa)
+Oo
+<
+>
+z
+=
+“i
+oO
+~
+ead
+w
+oO
+
+Pratica de Laboratorio de Pesquisa (Fundamenta¢ao)
+
+QUINTO PERIODO
+
+BCC-017 Ge N/A Teoria da Computagao 73.33 0 73.33
+
+BCC-020 cc N/A Engenharia de Software | 36.66 36.66 73.33
+
+BCC-PI3. cc N/A Pratica de Laboratério de Pesquisa (Maturagao 1) i 73.33 73.33
+
+3 NC—Nucleo comum; NE — Nucleo especifico; O - Optativa; NPi — Nucleo de pesquisa.
+
+INSTITUTO FEDERAL GOIANO
+REITORIA
+Caixa Postal 50
+
+SoA FEDERAL 73.33.003-901 — Goidnia - GO
+
+55-62-3605-3601 — ensino@ifgoiano.edu.br

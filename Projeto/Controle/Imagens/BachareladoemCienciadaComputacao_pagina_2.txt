@@ -1,0 +1,265 @@
+45
+
+SEXTO PERIODO
+
+BCC-021
+BCC-023
+EXA-230
+BCC-024
+BCC-02
+BCC-PI4
+
+cc
+cc
+EXA
+cc
+cc
+cc
+
+SETIMO PERIODO
+
+BCC-027
+BCC-018
+BCC-022
+BCC-03
+
+BCC-PIS
+
+Ce
+(elas
+Ce
+cc
+Ce
+
+OITAVO PERIODO
+
+BCC-030
+BCC-032
+BCC-031
+BCC-PI6
+
+Ce
+(elas
+Ce
+(elas
+
+N/A
+N/A
+BCC-007
+BCC-017
+N/A
+N/A
+
+N/A
+BCC-015
+BCC-019
+
+N/A
+
+N/A
+
+N/A
+BCC-013
+N/A
+N/A
+
+DISCIPLINAS OPTATIVAS
+
+BCC-034
+BCC-035
+BCC-036
+
+BCC-
+036.66
+
+BCC-038
+BCC-039
+BCC-040
+BCC-041
+BCC-042
+EDU-208
+HUM-223
+
+BCC-045
+
+EXA-231
+
+cc
+
+cc
+
+cc
+
+cc
+
+ce
+
+cc
+
+(le:
+
+cc
+
+ce
+
+EDU
+
+HUM
+
+cE.
+
+EXA
+
+N/A
+BCC-020
+N/A
+
+N/A
+
+N/A
+BCC-013
+N/A
+N/A
+EXA-202
+N/A
+N/A
+
+N/A
+
+EXA-201;
+EXA-202
+
+Ba INSTITUTO FEDERAL
+GOIANO
+
+DAAAAD
+
+Nv NNN
+
+© 00 00 ©
+
+N/A
+N/A
+N/A
+
+N/A
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+
+N/A
+
+Sistemas Operacionais
+
+Computac¢do Grafica
+
+Automacao, Simulagao e Controle
+Compiladores
+
+Disciplina Optativa
+
+Pratica de Laboratorio de Pesquisa (Matu
+
+Projeto de Software
+Inteligéncia Artificial
+Sistemas Distribuidos
+Disciplina Optativa
+
+Pratica de Laboratorio de Pesquisa (TC - parte 1)
+
+Seguranca e Auditoria de Sistemas
+Programacao Paralela
+
+Disciplina Optativa
+
+Pratica de Laboratorio de Pesquisa (TC pa
+
+Paradigmas de Bancos de Dados
+Engenharia de Software II
+Interagdo Humano - Computador
+
+Recuperacao da Informacgao
+
+Fundamento de Jogos Digitais
+Microcontroladores e Microprocessadores
+Aplicagédes na Web Semantica
+
+Engenharia Web
+
+Métodos Computacionais Avancgados
+LIBRAS
+
+Educac&o e Cultura Etnico-racial Brasileira
+
+Computac¢do Sustentavel
+
+Calculo II
+
+NE 36.66 36.66 73.33
+NE 18.33 18.33 36.66
+NE 57.33 16 73.33
+NE 18.33 18.33 36.66
+[e) 73.33 0 13,33)
+racao 2) NPi i?) 73.33 73.33
+366.64
+
+NE 36.66 36.66 73.33
+NE 36.66 36.66 73.33
+NE 36.66 36.66 73.33
+Oo 73.33 0 73.33
+NPi ie} 73.33 73.33
+366.65
+
+NE 36.66 36.66 73.33
+
+NE 36.66 36.66 1333,
+
+[e) 36.66 0 36.66
+
+rte 2) NPi i?) 73.33 13:33,
+256.65
+Carga Horaria Total 3043.17
+
+Atividades Complementares 100
+Estagio 160
+
+Total Geral 3303.17
+
+O 18.33 18.33 36.66
+
+QO 57.33 16 73.33
+
+O 18.33 18.33 36.66
+
+O 18.33 18.33 36.66
+
+O 18.33 18.33 36.66
+
+QO 36.66 36.66 73.33
+
+O 18.33 18.33 36.66
+
+QO 36.66 36.66 73.33
+
+O 36.66 36.66 73.33
+
+O 36.66 0 36.66
+
+O 36.66 (e) 36.66
+
+19) 18.33 18.33 36.66
+
+oO 36.66 36.66 73.33
+
+INSTITUTO FEDERAL GOIANO
+REITORIA
+Caixa Postal 50
+73.33.003-901 — Goiania - GO
+55-62-3605-3601 — ensino@ifgoiano.edu.br
