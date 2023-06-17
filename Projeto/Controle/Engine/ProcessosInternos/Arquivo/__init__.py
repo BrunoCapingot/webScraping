@@ -1,6 +1,6 @@
-from .Os import Os
-from .Imagem import Imagem
-from .Escrita import Escrita
+
+from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Imagem import Imagem
+from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Escrita import Escrita
 
 class Arquivo():
     def __init__(self):
@@ -9,5 +9,6 @@ class Arquivo():
 
 
     def defineCsv(self):
-        self.imagem.extractPdfToImage()
-        self.escrita.defineImagemPath()
+        #self.imagem.extractPdfToImage()
+        #self.escrita.defineImagemPath()
+        self.escrita.defineTextPdfPath()

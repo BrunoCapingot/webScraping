@@ -1,8 +1,6 @@
-class DataInput():
-
+class DataInput:
     def __init__(self):
         self.item = None
-
         self.dicionarioPrincipal = {
             'https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-morrinhos.html': {
                 0: {
@@ -67,9 +65,3 @@ class DataInput():
 
     def getData(self):
         return self.dicionarioPrincipal.items()
-
-    def definePosicao(self):
-        pass
-
-    def preencheDicionario(self):
-        pass

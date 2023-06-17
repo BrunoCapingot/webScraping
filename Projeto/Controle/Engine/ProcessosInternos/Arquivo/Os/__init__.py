@@ -1,10 +1,14 @@
 import os
 
-class Os():
+
+class Os:
     def __init__(self):
         self.caminho = None
+        self.suportList = []
+        self.ponteiro = None
+        self.txtName = None
 
-    def setDiretorio(self,caminho):
+    def setDiretorio(self, caminho):
         self.caminho = caminho
 
     def limpaDir(self):
@@ -23,5 +27,30 @@ class Os():
         else:
             print(f"O diretório {self.caminho} não pôde ser limpo.")
 
-    def moveArqPara(self):
-        pass
+    def setTxtName(self,name):
+        self.txtName = name
+
+
+    def getDirNameItens(self):
+        for nomes in os.listdir(self.caminho):
+            self.suportList.append(nomes)
+        return self.suportList
+
+    def getArqPath(self, arquivo):
+        return os.path.join(self.caminho, arquivo)
+    def homeDir(self):
+        self.ponteiro = os.path.join(os.path.expanduser("~"), "Desktop")
+        return self.ponteiro
+
+    def saveArqTxtInDir(self, conteudoTxt, caminhoString):
+        caminho = os.path.join(self.homeDir() + caminhoString)
+        file_path = os.path.join(caminho, '{}.txt'.format(self.txtName  ))
+        with open(file_path, 'w') as arquivo:
+            arquivo.write(conteudoTxt)
+        print(f"O arquivo foi salvo em: {file_path}")
+
+
+
+
+
+
