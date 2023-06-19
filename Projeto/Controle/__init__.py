@@ -9,5 +9,5 @@ class Controle():
         self.engine.varreduraWeb()
 
     def execParalelEngine(self):
-        #self.engine.varreduraWeb()
+        self.engine.varreduraWeb()
         print('uma vez')

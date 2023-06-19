@@ -44,10 +44,13 @@ class Os:
 
     def saveArqTxtInDir(self, conteudoTxt, caminhoString):
         caminho = os.path.join(self.homeDir() + caminhoString)
-        file_path = os.path.join(caminho, '{}.txt'.format(self.txtName  ))
+        file_path = os.path.join(caminho, '{}.txt'.format(self.txtName))
+        #print('Salvando arquivo txt gerado em: {}'.format(file_path))
         with open(file_path, 'w') as arquivo:
             arquivo.write(conteudoTxt)
         print(f"O arquivo foi salvo em: {file_path}")
+
+
 
 
 
