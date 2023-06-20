@@ -1,4 +1,5 @@
 import os
+import os
 
 
 class Os:
@@ -7,9 +8,12 @@ class Os:
         self.suportList = []
         self.ponteiro = None
         self.txtName = None
+        self.arquivoOpen = None
+        self.arquivoClose = None
 
     def setDiretorio(self, caminho):
         self.caminho = caminho
+        print('Diretorio convertido para: {}'.format(self.caminho))
 
     def limpaDir(self):
         for file_name in os.listdir(self.caminho):
@@ -27,17 +31,18 @@ class Os:
         else:
             print(f"O diretório {self.caminho} não pôde ser limpo.")
 
-    def setTxtName(self,name):
+    def setTxtName(self, name):
         self.txtName = name
 
-
     def getDirNameItens(self):
+        self.suportList = []
         for nomes in os.listdir(self.caminho):
             self.suportList.append(nomes)
         return self.suportList
 
     def getArqPath(self, arquivo):
         return os.path.join(self.caminho, arquivo)
+
     def homeDir(self):
         self.ponteiro = os.path.join(os.path.expanduser("~"), "Desktop")
         return self.ponteiro
@@ -45,15 +50,13 @@ class Os:
     def saveArqTxtInDir(self, conteudoTxt, caminhoString):
         caminho = os.path.join(self.homeDir() + caminhoString)
         file_path = os.path.join(caminho, '{}.txt'.format(self.txtName))
-        #print('Salvando arquivo txt gerado em: {}'.format(file_path))
+        # print('Salvando arquivo txt gerado em: {}'.format(file_path))
         with open(file_path, 'w') as arquivo:
             arquivo.write(conteudoTxt)
         print(f"O arquivo foi salvo em: {file_path}")
 
-
-
-
-
-
-
-
+    def buscaConteudoTxt(self, caminho, modo):
+        arquivo = open(caminho, modo)
+        conteudo = arquivo.read()
+        arquivo.close()
+        return conteudo

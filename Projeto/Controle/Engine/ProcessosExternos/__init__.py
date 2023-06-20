@@ -1,6 +1,6 @@
 import time
 from Projeto.Controle.Engine.ProcessosExternos.Web import Web
-from Projeto.Controle.Engine.ProcessosExternos.Downloads import Downloads
+from Projeto.Controle.Engine.ProcessosExternos.Download import Downloads
 
 
 class ProcessosExternos():

@@ -14,12 +14,12 @@ class Imagem:
 
 
     def extractPdfToImage(self):
-        listPath = [r'C:/Users/CPGTEnterprise/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemAgronomia.pdf',
-                    r'C:/Users/CPGTEnterprise/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemCienciadaComputacao.pdf',
-                    r'C:/Users/CPGTEnterprise/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemAlimentos.pdf',
-                    r'C:/Users/CPGTEnterprise/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemSistemasparaInternet.pdf'
+        listPath = [r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemAgronomia.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemCienciadaComputacao.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemAlimentos.pdf',
+                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemSistemasparaInternet.pdf'
                     ]
-        camino_destino = r'C:\Users\CPGTEnterprise\Desktop\webScraping\Projeto\Controle\Download\Imagens'
+        camino_destino = r'C:\Users\CPGT\Desktop\webScraping\Projeto\Controle\Download\Imagens'
         for pdf_path in listPath:
             pdf_name = pdf_path.replace('.pdf','')
             images = convert_from_path(pdf_path)

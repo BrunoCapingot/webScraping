@@ -7,28 +7,28 @@ class DataInput:
                     'Bacharelado em Agronomia': [
 
                         '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div/div[2]/form/div[2]/div[1]/div[1]/h2/a',
-                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div[1]/ul[2]/li[4]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[8]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 1: {
                     'Bacharelado em Ciência da Computação': [
                         '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div/div[2]/form/div[2]/div[2]/div[1]/h2/a',
-                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div[1]/ul[2]/li[2]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[4]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 2: {
                     'Bacharelado em Química Industrial': [
                         '//*[@id="adminForm"]/div[2]/div[4]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[4]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[3]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 3: {
                     'Bacharelado em Zootecnia': [
                         '//*[@id="adminForm"]/div[2]/div[4]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[4]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[2]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
@@ -42,21 +42,21 @@ class DataInput:
                 5: {
                     'Licenciatura em Química': [
                         '//*[@id="adminForm"]/div[2]/div[7]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[3]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[2]/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 6: {
                     'Tecnologia em Alimentos': [
                         '//*[@id="adminForm"]/div[2]/div[8]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[3]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[6]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 7: {
                     'Tecnologia em Sistemas para Internet': [
                         '//*[@id="adminForm"]/div[2]/div[8]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[3]/strong/a',
+                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[6]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
