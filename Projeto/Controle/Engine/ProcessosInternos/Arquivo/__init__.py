@@ -9,8 +9,5 @@ class Arquivo():
 
 
     def defineCsv(self):
-        pass
-        #self.imagem.extractPdfToImage()
-        #self.escrita.defineImagemPath()
-        #self.escrita.defineTextPdfPath()
-        #self.escrita.organizaTxtToCsv()
+        self.escrita.extrairTexto()
+        #self.escrita.prepararArquivos()

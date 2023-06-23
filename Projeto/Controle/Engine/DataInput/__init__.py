@@ -34,15 +34,15 @@ class DataInput:
                     ]},
                 4: {
                     'Licenciatura em Pedagogia': [
-                        '//*[@id="adminForm"]/div[2]/div[5]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/p[12]/strong/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div/div[2]/form/div[2]/div[5]/div[1]/h2/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div[1]/p[12]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},
                 5: {
                     'Licenciatura em Química': [
-                        '//*[@id="adminForm"]/div[2]/div[7]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[2]/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div/div[2]/form/div[2]/div[6]/div[1]/h2/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div[1]/ul[2]/li[2]/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},

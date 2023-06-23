@@ -17,11 +17,13 @@ class ProcessosExternos():
             for nomeAssunto in list[1][k]:
                 self.web = Web()
                 self.web.openLink(list[0])
+                print('Abrindo link: ' + list[0])
                 for comando in list[1][k][nomeAssunto]:
+                    print('Ação em: {} indentificando -> {}'.format(nomeAssunto, comando))
                     retorno = self.web.clickElementoPorComando(comando)
                     time.sleep(3)
                     for pdfLink in retorno:
                         if '.pdf' in pdfLink:
                             self.download = Downloads()
-                            cond = True
+                            #print('Iniciando download do PDF: {}'.format(pdfLink))
                             self.download.iniciarDownload(pdfLink, nomeAssunto)

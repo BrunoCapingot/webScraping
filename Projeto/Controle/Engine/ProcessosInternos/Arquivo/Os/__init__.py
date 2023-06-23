@@ -13,7 +13,10 @@ class Os:
 
     def setDiretorio(self, caminho):
         self.caminho = caminho
-        print('Diretorio convertido para: {}'.format(self.caminho))
+        self.ponteiro = self.ponteiro + caminho
+        print('Os-> Diretorio convertido para: {}'.format(self.caminho))
+        print('Os-> Ponteiro diretorio aponta para: {}'.format(self.ponteiro))
+
 
     def limpaDir(self):
         for file_name in os.listdir(self.caminho):
@@ -36,22 +39,23 @@ class Os:
 
     def getDirNameItens(self):
         self.suportList = []
-        for nomes in os.listdir(self.caminho):
+        for nomes in os.listdir(self.ponteiro):
             self.suportList.append(nomes)
         return self.suportList
 
     def getArqPath(self, arquivo):
-        return os.path.join(self.caminho, arquivo)
+        return self.ponteiro+'\\'+arquivo
 
-    def homeDir(self):
+
+    def setHomeDir(self):
         self.ponteiro = os.path.join(os.path.expanduser("~"), "Desktop")
         return self.ponteiro
 
     def saveArqTxtInDir(self, conteudoTxt, caminhoString):
-        caminho = os.path.join(self.homeDir() + caminhoString)
+        caminho = os.path.join(caminhoString)
         file_path = os.path.join(caminho, '{}.txt'.format(self.txtName))
         # print('Salvando arquivo txt gerado em: {}'.format(file_path))
-        with open(file_path, 'w') as arquivo:
+        with open(file_path, 'w', encoding='utf-8') as arquivo:
             arquivo.write(conteudoTxt)
         print(f"O arquivo foi salvo em: {file_path}")
 
@@ -60,3 +64,6 @@ class Os:
         conteudo = arquivo.read()
         arquivo.close()
         return conteudo
+
+
+

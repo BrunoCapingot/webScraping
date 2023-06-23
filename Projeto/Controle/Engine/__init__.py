@@ -15,8 +15,8 @@ class Engine():
 
     def varreduraWeb(self):
         print(time.localtime())
-        self.processosExternos.scrapingVelho()
-        #self.processosInternos.construirArquivo()
+        #self.processosExternos.scrapingVelho()
+        self.processosInternos.construirArquivo()
         print(time.localtime())
 
     def processarObjetivos(self):
