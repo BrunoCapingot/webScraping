@@ -1,10 +1,11 @@
 from pdf2image import convert_from_path
-import os
+from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Os import Os
 
 
 
 class Imagem:
     def __init__(self):
+        self.os = Os()
         self.pdfName = None
 
     #agronomia
@@ -14,18 +15,22 @@ class Imagem:
 
 
     def extractPdfToImage(self):
-        listPath = [r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemAgronomia.pdf',
-                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/BachareladoemCienciadaComputacao.pdf',
-                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemAlimentos.pdf',
-                    r'C:/Users/CPGT/Desktop/webScraping/Projeto/Controle/Download/matrizes_curriculares/TecnologiaemSistemasparaInternet.pdf'
-                    ]
-        camino_destino = r'C:\Users\CPGT\Desktop\webScraping\Projeto\Controle\Download\Imagens'
-        for pdf_path in listPath:
-            pdf_name = pdf_path.replace('.pdf','')
-            images = convert_from_path(pdf_path)
+
+        diretorio_fracionado = 'r/webScraping/Projeto/Controle/Download/matrizes_curriculares/'
+        self.os.setHomePonteiro()
+        self.os.setDiretorio(diretorio_fracionado)
+        camino_destino_fracionado = r'C:\Users\CPGTEnterprise\Desktop\webScraping\Projeto\Controle\Download\Imagens'
+        listDir = self.os.getDirNameItens()
+        for item in listDir:
+            #self.os.setHomePonteiro()
+            #self.os.setDiretorio(pdf_path)
+            pdf_name = item.replace('.pdf', '')
+            images = convert_from_path(self.os.getPonteiro())
             print('Convertendo pdf: {}'.format(pdf_name))
             for i, image in enumerate(images):
                 image = image.convert('L')
-                image.save(os.path.join(camino_destino, f'{pdf_name.split("/")[-1]}_pagina_{i + 1}.jpg'), 'JPEG')
+                #conteudo caminho nome no metodo saveArqInDir
+                self.os.saveArqInDir(image, camino_destino_fracionado, f'{pdf_name.split("/")[-1]}_pagina_{i + 1}.jpg')
+                #image.save(os.path.join(camino_destino_fracionado, f'{pdf_name.split("/")[-1]}_pagina_{i + 1}.jpg'), 'JPEG')
 
 

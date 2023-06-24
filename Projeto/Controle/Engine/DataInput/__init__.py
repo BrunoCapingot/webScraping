@@ -48,8 +48,8 @@ class DataInput:
                     ]},
                 6: {
                     'Tecnologia em Alimentos': [
-                        '//*[@id="adminForm"]/div[2]/div[8]/div[1]/h2/a',
-                        '//*[@id="content-section"]/div/div[1]/ul[2]/li[6]/strong/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div/div[2]/form/div[2]/div[7]/div[1]/h2/a',
+                        '/html/body/div[2]/main/div/div[2]/div[2]/section/div/div[1]/ul[2]/li[6]/strong/a',
                         'pdfDownloadLinkUrl',
                         'finishWeb',
                     ]},

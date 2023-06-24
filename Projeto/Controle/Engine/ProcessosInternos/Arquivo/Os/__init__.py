@@ -1,5 +1,4 @@
 import os
-import os
 
 
 class Os:
@@ -47,8 +46,10 @@ class Os:
         return self.ponteiro+'\\'+arquivo
 
 
-    def setHomeDir(self):
+    def setHomePonteiro(self,):
         self.ponteiro = os.path.join(os.path.expanduser("~"), "Desktop")
+
+    def getPonteiro(self):
         return self.ponteiro
 
     def saveArqTxtInDir(self, conteudoTxt, caminhoString):
@@ -57,6 +58,17 @@ class Os:
         # print('Salvando arquivo txt gerado em: {}'.format(file_path))
         with open(file_path, 'w', encoding='utf-8') as arquivo:
             arquivo.write(conteudoTxt)
+        print(f"O arquivo foi salvo em: {file_path}")
+
+    def saveArqInDir(self, conteudo, caminho, name):
+        caminho = os.path.join(caminho)
+        nome = str(name).split('.')
+        extensao = nome[1]
+        nome = nome[0]
+        file_path = os.path.join(caminho, '{}.{}'.format(nome, extensao))
+        # print('Salvando arquivo txt gerado em: {}'.format(file_path))
+        with open(file_path, 'w', encoding='utf-8') as arquivo:
+            arquivo.write(conteudo)
         print(f"O arquivo foi salvo em: {file_path}")
 
     def buscaConteudoTxt(self, caminho, modo):
