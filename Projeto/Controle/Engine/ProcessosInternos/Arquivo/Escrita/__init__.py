@@ -1,3 +1,4 @@
+from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Escrita.Mapa.Condicional import Condicional
 from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Os import Os
 # import pytesseract
 import PyPDF2
@@ -5,6 +6,7 @@ import PyPDF2
 
 class Escrita:
     def __init__(self):
+        self._mapaCondicional = Condicional()
         self.os = Os()
         self._dirSaveEscrita = None
         self._dirOrigemEscrita = None
@@ -67,16 +69,39 @@ class Escrita:
             self.os.setDiretorio(diretorio_textos)
             self.os.saveArqTxtInDir(str(tabelas), self.os.getPonteiro())
 
-
-def prepararArquivos(self):
-    diretorio_fracionado = r'\webScraping\Projeto\Controle\Download\Textos'
-    self.os.setHomePonteiro()
-    self.os.setDiretorio(diretorio_fracionado)
-    nomes = self.os.getDirNameItens()
-    texto = ''
-    for nome in nomes:
-        path_arquivo = self.os.getArqPath(nome)
-        with open(path_arquivo, 'r', encoding='utf-8') as arquivo:
-            texto = arquivo.read()
-        print(texto)
-        input('Esperando')
+    def prepararArquivos(self):
+        diretorio_fracionado_textos = r'\webScraping\Projeto\Controle\Download\Textos'
+        diretorio_fracionado_csv = r'\webScraping\Projeto\Controle\Download\Csv'
+        self.os.setHomePonteiro()
+        self.os.setDiretorio(diretorio_fracionado_textos)
+        nomes = self.os.getDirNameItens()
+        texto = ''
+        self._mapaCondicional.preencheMapa('BachareladoemAgronomia.txt', [])
+        self._mapaCondicional.preencheMapa('BachareladoemQuimicaIndustrial.pdf', [])
+        self._mapaCondicional.preencheMapa('BachareladoemQuimicaIndustrial.pdf', [])
+        self._mapaCondicional.preencheMapa('LicenciaturaemPedagogia.pdf', [])
+        self._mapaCondicional.preencheMapa('LicenciaturaemQuimica.pdf', [])
+        self._mapaCondicional.preencheMapa('TecnologiaemAlimentos.pdf', [])
+        self._mapaCondicional.preencheMapa('TecnologiaemSistemasparaInternet.pdf', [])
+        mapa = self._mapaCondicional.getMapaCondicional()
+        for nomeArq in nomes:
+            string = ''
+            for nomeMapa in mapa:
+                if nomeArq == nomeMapa:
+                    condicaos = self._mapaCondicional.getMapaCondicional()
+                    condicaos = condicaos[nomeArq]
+                    print('Condições para busca: {}'.format(condicaos))
+                    with open(self.os.getPonteiro() + '\\{}'.format(nomeArq), 'r', encoding='utf-8') as arquivo:
+                        linhasDados = arquivo.readlines()
+                        for line in range(0, len(linhasDados)):
+                            listLine = linhasDados[line].strip('\n')
+                            listLine = listLine.replace(' ', ',')
+                            listLine = listLine.replace(',,', ',')
+                            for index in range(0, len(listLine)):
+                                if listLine[index] != '':
+                                    if listLine[index] != ' ':
+                                        string += listLine[index]
+            self.os.setHomePonteiro()
+            self.os.setDiretorio(diretorio_fracionado_csv)
+            self.os.saveArqInDir(string, self.os.getPonteiro(), nomeArq.replace('.txt', '.csv'))
+            print(nomeArq)
