@@ -22,6 +22,7 @@ class Pdf:
             print('Baixando pdf')
             self.os.setHomePonteiro()
             self.os.setDiretorio('\webScraping\Projeto\Controle\Download\projetoPedagogicoCurso\{}.pdf'.format(self.pdfTitle))
+
             with open(r'{}'.format(self.os.getPonteiro()), 'wb') as f:
                 f.write(response.content)
                 f.close()

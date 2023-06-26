@@ -9,5 +9,5 @@ class Arquivo():
 
 
     def defineCsv(self):
-        #self.escrita.extrairTexto()
+        self.escrita.extrairTexto()
         self.escrita.prepararArquivos()

@@ -13,7 +13,7 @@ class Engine:
     def varreduraWeb(self):
         start_time = time.time()
         print("----Início da execução----", time.localtime())
-        #self.processosExternos.scrapingVelho()
+        self.processosExternos.scrapingVelho()
         self.processosInternos.construirArquivo()
         print("Fim da execução:", time.localtime())
         end_time = time.time()
