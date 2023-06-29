@@ -1,3 +1,4 @@
+import encodings.utf_8
 import os
 
 
@@ -7,7 +8,7 @@ class Os:
         self.suportList = []
         self.ponteiro = None
         self.txtName = None
-        self.arquivoOpen = None
+        self.arquivo = None
         self.arquivoClose = None
 
     def setDiretorio(self, caminho):
@@ -15,7 +16,6 @@ class Os:
         self.ponteiro = self.ponteiro + caminho
         print('Os-> Diretorio convertido para: {}'.format(self.caminho))
         print('Os-> Ponteiro diretorio aponta para: {}'.format(self.ponteiro))
-
 
     def limpaDir(self):
         for file_name in os.listdir(self.caminho):
@@ -45,7 +45,6 @@ class Os:
     def getArqPath(self, arquivo):
         return self.ponteiro+'\\'+arquivo
 
-
     def setHomePonteiro(self,):
         self.ponteiro = os.path.join(os.path.expanduser("~"), "Desktop")
 
@@ -71,11 +70,17 @@ class Os:
             arquivo.write(conteudo)
         print(f"O arquivo foi salvo em: {file_path}")
 
-    def buscaConteudoTxt(self, caminho, modo):
-        arquivo = open(caminho, modo)
-        conteudo = arquivo.read()
-        arquivo.close()
+    def getConteudoArquivo(self):
+        conteudo = self.arquivo.read()
         return conteudo
 
+    def openArq(self, caminho, modo, codificacao):
+        self.setHomePonteiro()
+        self.arquivo = open(self.getPonteiro()+'\\'+caminho, modo, encoding=codificacao)
+        return None
+
+    def closeArq(self):
+        self.arquivo.close()
+        return None
 
 

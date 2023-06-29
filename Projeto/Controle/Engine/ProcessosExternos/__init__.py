@@ -5,7 +5,9 @@ from Projeto.Controle.Engine.ProcessosExternos.Download import Downloads
 
 class ProcessosExternos():
     def __init__(self, dataInput):
+        self.web = None
         self.dataInput = dataInput
+        self.download = None
 
     def scrapingVelho(self):
         time.sleep(5)
