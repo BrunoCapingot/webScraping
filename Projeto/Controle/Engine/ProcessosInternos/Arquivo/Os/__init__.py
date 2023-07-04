@@ -1,4 +1,4 @@
-import encodings.utf_8
+import csv
 import os
 
 
@@ -16,6 +16,13 @@ class Os:
         self.ponteiro = self.ponteiro + caminho
         print('Os-> Diretorio convertido para: {}'.format(self.caminho))
         print('Os-> Ponteiro diretorio aponta para: {}'.format(self.ponteiro))
+
+    def escreverInArq(self, caminho, modo, codificacao, conteudo):
+        """caminho modo codificação"""
+        self.openArq(caminho=caminho, modo=modo, codificacao=codificacao)
+        self.arquivo.write(conteudo+'\n')
+        self.closeArq()
+        return None
 
     def limpaDir(self):
         for file_name in os.listdir(self.caminho):
@@ -83,4 +90,14 @@ class Os:
         self.arquivo.close()
         return None
 
+    def save_arq_csv_in_dir(self, conteudo_csv, caminho, nome_arquivo):
+        caminho = os.path.join(caminho)
+        nome = str(nome_arquivo).split('.')
+        extensao = nome[1]
+        nome = nome[0]
+        file_path = os.path.join(caminho, '{}.{}'.format(nome, extensao))
+        with open(file_path, 'w', encoding='utf-8', newline='') as arquivo:
+            writer = csv.writer(arquivo)
+            writer.writerows(conteudo_csv)
+        print(f"O arquivo CSV foi salvo em: {file_path}")
 
