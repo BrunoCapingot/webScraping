@@ -13,7 +13,7 @@ class Pdf:
         self._conteudo = None
         self._linha = None
         self._text = None
-        self.pdf = None
+        self._pdf = None
 
     def setLocal(self, caminhoFracionado):
         self._local = caminhoFracionado
@@ -23,15 +23,15 @@ class Pdf:
         self._os.setDiretorio(self._local)
         path_arquivo = self._os.getArqPath(self._nome)
         print(path_arquivo)
-        self.pdf = PyPDF2.PdfReader(path_arquivo)
-        return self.pdf
+        self._pdf = PyPDF2.PdfReader(path_arquivo)
+        return self._pdf
+
     def setNome(self, nomeArquivo):
         self._nome = nomeArquivo
 
     def getConteudo(self):
-        qtd_paginas = len(self.pdf.pages)
         conteudo = ""
-        for pagina in self.pdf.pages:
+        for pagina in self._pdf.pages:
             conteudo += pagina.extract_text()
         self._conteudo = conteudo
         return self._conteudo
@@ -57,3 +57,6 @@ class Pdf:
                                 tabelas += page.extract_text()
         self._conteudo = tabelas
         return self._conteudo
+
+    def getInvertaloTexto(self, inicio, fim):
+        return self._pdf.extract_text(int(inicio), int(fim))
