@@ -5,6 +5,7 @@ from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Os import Os
 
 import csv
 
+
 class Escrita:
     def __init__(self):
         self.os = Os()
@@ -30,6 +31,9 @@ class Escrita:
     def setDirOrigemExcrita(self, caminho):
         self._dirOrigemEscrita = caminho
 
+    def setDados(self, dados):
+        self._dados = dados
+
     def extrairTexto(self):
         diretorio_textos = r'\webScraping\Projeto\Controle\Download\Textos'
         diretorio_pdf = r'\webScraping\Projeto\Controle\Download\projetoPedagogicoCurso'
@@ -45,6 +49,7 @@ class Escrita:
             self.pdf.setLocal(caminhoFracionado=diretorio_pdf)
             self.pdf.setNome(nomeArquivo=x)
             arquivo = self.pdf.open()
+            self.setDados(self.pdf.getConteudo())
             conteudo = self.pdf.getContentInCondicao(condicao='extrairTexto', x=x, pdf=arquivo)
             self.os.setTxtName(str(x).replace('.pdf', ''))
             self.os.setHomePonteiro()
@@ -72,8 +77,6 @@ class Escrita:
         print('\nIniciando mapeamento dos Dados  {}  em relação a condicionais--|\n'.format(nomeArq))
         self.mapearDados()
 
-
-
     def mapearDadosCondicionados(self, condicoesPack):
         diretorioDestino = r'webScraping\Projeto\Controle\Download\Csv'
         suport = 0
@@ -83,11 +86,26 @@ class Escrita:
                 if condicoesPack.index(condicoes) == 0:
                     for palavraDeBusca in condicoes:
                         if palavraDeBusca in linha:
-                            self._elementos[palavraDeBusca].push(str(suport)+','+palavraDeBusca)
+                            self._elementos[palavraDeBusca].push(str(suport) + ',' + palavraDeBusca)
                             # self.os.escreverInArq(diretorioDestino + '\\' + nomeArq.replace('txt', 'csv'), 'w', 'utf-8',str(dados_separados))
             # Marcador de linha
             suport += 1
             self.ordenarPilha(dict=self._elementos)
+
+    def prepararCondicionais(self, condicoes):
+        for zero in condicoes.keys():
+            camadaZero = condicoes[zero]
+            print(camadaZero)
+            for um in camadaZero.keys():
+                camadaUm = camadaZero[um]
+                print(camadaUm)
+            """
+                self.mapa.setArquivoEndereco(camadaZero=camadaZero)
+                self.mapa.setArquivoVerificacao(camadaUm=y)
+                self.mapa.setArquivoCondicoes(camadaDois=camadaUm)
+                self.mapa.adcionarElementos()
+            """
+            input('carma fio')
 
     def ordenarPilha(self, dict):
         lista = list()
@@ -97,16 +115,32 @@ class Escrita:
                 lista.append(a)
         lista = sorted(lista)
         lista.reverse()
-        for x in range(0,len(lista)):
+        for x in range(0, len(lista)):
             self._mapa_pilha.push(lista[x])
-        #print('Pilha mapeada -> {}'.format(self._mapa_pilha))
+        # print('Pilha mapeada -> {}'.format(self._mapa_pilha))
         # self.os.setHomePonteiro()
         # self.os.saveArqInDir(str(self.csv.getList()), diretorioDestino, nomeArq.replace('.txt', '.csv'))
 
+
     def mapearDados(self):
-        while not self._mapa_pilha.isEmpty():
-            dado = self._mapa_pilha.pop().split(',')
-            print(dado)
-            print(self._dados[dado[0]])
-            suport = dado[0]
-            palavra_de_busca = dado[1]
+        diretorioFracionado = r'\webScraping\Projeto\Controle\Download\projetoPedagogicoCurso'
+        self.os.setHomePonteiro()
+        self.os.setDiretorio(diretorioFracionado=diretorioFracionado)
+        nomes = self.os.getDirNameItens()
+        for nomeArquivo in nomes:
+            self.os.setHomePonteiro()
+            self.os.setDiretorio(diretorioFracionado=diretorioFracionado)
+            self.pdf.setNome(nomeArquivo=nomeArquivo)
+            self.pdf.setLocal(caminhoFracionado=diretorioFracionado)
+            pdf = self.pdf.open()
+            self.setDados(self.pdf.getContentInCondicao('extrairTexto', nomeArquivo, pdf))
+            self._dados = self._dados.split('\n')
+            while not self._mapa_pilha.isEmpty():
+                dado = self._mapa_pilha.pop().split(',')
+                suport = int(dado[0])
+                palavra_de_busca = dado[1]
+                # print('Linha {}-> {}'.format(suport, self._dados[suport]))
+                if palavra_de_busca == 'BIBLIOGRAFIA BÁSICA':
+                    print(suport)
+                    # print('Linha {}-> {}'.format(suport, self._dados[suport]))
+                # input('xarma')

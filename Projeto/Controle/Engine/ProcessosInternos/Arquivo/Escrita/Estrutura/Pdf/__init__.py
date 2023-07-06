@@ -22,7 +22,7 @@ class Pdf:
         self._os.setHomePonteiro()
         self._os.setDiretorio(self._local)
         path_arquivo = self._os.getArqPath(self._nome)
-        print(path_arquivo)
+        print('Abrindo Pdf caminho-> {}'.format(path_arquivo))
         self._pdf = PyPDF2.PdfReader(path_arquivo)
         return self._pdf
 

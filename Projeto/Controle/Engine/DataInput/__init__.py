@@ -65,3 +65,4 @@ class DataInput:
 
     def getData(self):
         return self.dicionarioPrincipal.items()
+

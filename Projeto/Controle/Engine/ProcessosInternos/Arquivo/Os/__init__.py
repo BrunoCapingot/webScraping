@@ -11,9 +11,9 @@ class Os:
         self.arquivo = None
         self.arquivoClose = None
 
-    def setDiretorio(self, caminho):
-        self.caminho = caminho
-        self.ponteiro = self.ponteiro + caminho
+    def setDiretorio(self, diretorioFracionado):
+        self.caminho = diretorioFracionado
+        self.ponteiro = self.ponteiro + diretorioFracionado
         print('Os-> Diretorio convertido para: {}'.format(self.caminho))
         print('Os-> Ponteiro diretorio aponta para: {}'.format(self.ponteiro))
 
