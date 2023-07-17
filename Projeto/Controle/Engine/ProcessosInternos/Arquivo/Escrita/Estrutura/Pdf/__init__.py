@@ -1,13 +1,12 @@
 from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Os import Os
 from Projeto.Controle.Engine.ProcessosInternos.Arquivo.Escrita.Estrutura.Mapa import Mapa
-
 import PyPDF2
 
 
 class Pdf:
     def __init__(self):
         self._os = Os()
-        self._estrutura = Mapa()
+        self._mapa = Mapa()
         self._nome = None
         self._local = None
         self._conteudo = None
@@ -18,6 +17,12 @@ class Pdf:
     def setLocal(self, caminhoFracionado):
         self._local = caminhoFracionado
 
+    def setMapa(self, mapaCondicional):
+        self._mapa.setEstruturaPrincipal(mapaCondicional)
+
+    def setNome(self, nomeArquivo):
+        self._nome = nomeArquivo
+
     def open(self):
         self._os.setHomePonteiro()
         self._os.setDiretorio(self._local)
@@ -26,8 +31,7 @@ class Pdf:
         self._pdf = PyPDF2.PdfReader(path_arquivo)
         return self._pdf
 
-    def setNome(self, nomeArquivo):
-        self._nome = nomeArquivo
+
 
     def getConteudo(self):
         conteudo = ""
@@ -39,8 +43,7 @@ class Pdf:
     def getContentInCondicao(self, condicao, x, pdf):
         tabelas = ''
         paginas = len(pdf.pages)
-        self._estrutura.setEstrutura(condicao)
-        mapa_arquivos = self._estrutura.getCondicional()
+        mapa_arquivos = self._mapa.getCamadaUm(referencia_zero=condicao)
         for mapa in mapa_arquivos:
             if x == mapa_arquivos[mapa][0]:
                 valor = mapa_arquivos[mapa][1]

@@ -25,5 +25,6 @@ class Engine:
         print("Horas: {:.2f} h".format(execution_time / 3600))
         print("Dias: {:.2f} d".format(execution_time / 86400))
         print("----Algoritimo Finalizado----")
+
     def processarObjetivos(self):
         pass

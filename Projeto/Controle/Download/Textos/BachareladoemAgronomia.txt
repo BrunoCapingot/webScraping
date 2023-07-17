@@ -1,0 +1,3067 @@
+ 
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ANEXO I  - Matriz Curricular de Disciplinas - Modelo  
+ 
+Período  Código  Disciplina  Aulas 
+Teóricas  Aulas 
+Práticas  C. H. Total  Aulas se-
+manais  Pré-requisitos  
+1º AGR -223 Introdução a Agronomia  40 - 36,67  2 - 
+EXA -202 Cálculo Diferencial e Integral I  80 - 73,33  4 - 
+QUI-202 Química Geral  50 10 55,00  3 - 
+ENG -201 Desenho Técnico  20 40 55,00  3 - 
+BIO-201 Biologia Celular  40 20 55,00  3 - 
+HUM -201 Metodologia Científica  40 20 55,00  3 - 
+BIO-255 Ecologia  30 10 36,67  2 - 
+INF-201 Informática  10 30 36,67  2 - 
+  Total      403,34      
+2º EXA -225 Física  80 - 73,33  4 EXA -202 
+EXA -214 Estatística Básica  60 - 55,00  3 - 
+QUI-208 Química Orgânica  60 - 55,00  3 - 
+BIO-257 Microbiologia  50 10 55,00  3 BIO-201 
+BIO-256 Zoologia  50 10 55,00  3 - 
+BIO-210 Anatomia Vegetal  40 20 55,00  3 BIO-201 
+AGR -201 Gênese e Morfologia do solo  30 10 36,67  3 - 
+  Total      385,00      
+3º BIO-211 Organografia e Sistemática Vegetal  40 20 55,00  3 - 
+ENG -213 Mecânica Agrícol a 30 10 36,67  2 EXA -225 
+QUI-222 Química Analítica  30 30 55,00  3 QUI-202 
+QUI-214 Bioquímica  50 10 55,00  3 QUI-208 
+EXA -215 Estatística Experimental  40 20 55,00  3 EXA -214 
+BIO-207 Microbiologia Agrícola  40 20 55,00  3 BIO-201 - BIO-257 
+AGR -202 Física e Classificação do solo  40 20 55,00  3 AGR -201  
+AGRONOMIA  
+Bacharelado  
+ 
+42  
+ ENG -227 Topografia – Planimetria  20 40 55,00  3 ENG -201 
+  Total      421,67      
+Semestre  Código  Disciplina  Aulas 
+Teóricas  Aulas 
+Práticas  C. H. Total  
+(55 min.)  Aulas se-
+manais  Pré-requisitos  
+4º BIO-204 Genéti ca 60 - 55,00  3 EXA -214 - BIO-201 
+ENG -214 Máquinas e Implementos Agrícolas  60 20 73,33  4 ENG -213 
+AGR -228 Entomologia Geral  40 20 55,00  3 BIO-256 
+ENG -228 Topografia – Altimetria  10 30 36,67  2 ENG -201 
+BIO-213 Fisiologia Vegetal  60 30 82,5 5 BIO-210 - QUI-214 
+AGR -203 Fertilidade do Solo  60 20 73,33  3 QUI-222 
+ENG -218 Agrometeorologia  40 20 55,00  3 - 
+  Total      430,83      
+5º AGR -204 Nutrição Mineral de Plantas  40 - 36,67  2 BIO-213 
+ENG -206 Hidráulica  40 20 55,00  3 EXA -225 
+AGR -224 Fitopatologia  I 40 20 55,00  3 BIO-207 
+AGR -229 Entomologia Agrícola  40 20 55,00  3 AGR -228 
+ZOO -230 Anatomia e Fisiologia Animal  30 10 36,67  2 QUI-214 
+AGR -227 Melhoramento de Plantas  48 12 55,00  3 BIO-204 
+AGR -205 Manejo e Conservação do Solo e da 
+Água  40 20 55,00  3 AGR -202 
+GAM -203 Geoprocessamento  40 20 55,00  3 ENG -227 - ENG -228 
+  Total      403,34      
+6º AGR -225 Fitopatologia II  40 20 55,00  3 AGR -224 
+ENG -207 Irrigação e Drenagem  40 20 55,00  3 ENG -206 - ENG -218 
+AGR -226 Plantas Daninhas  40 20 55,00  3 BIO-213 
+ZOO -226 Zootecnia Geral  30 10 36,67  2 ZOO -230 
+AGR -214 Propagação de Plantas  20 20 36,67  2 BIO-213 
+AGR -218 Produção e Tecnologia de Sementes  40 20 55,00  3 BIO-213  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ENG -208 Construções e Instalações Rurais  40 20 55,00  3 ENG -201 - EXA -225 
+AGR -211 Culturas I (Milho, Arroz, Trigo e 
+Sorgo)  60 20 73,3 4 AGR - 203 - BIO-213 
+  Total      421,64      
+Semestre  Código  Disciplina  Aulas 
+Teóricas  Aulas 
+Práticas  C. H. Total  
+(55 min.)  Aulas se-
+manais  Pré-requisitos  
+7º AGR -219 Forragicultura e Pastagens  40 20 55,00  3 AGR -203 - BIO-213 
+AGR -216 Olericultura  60 20 73,33  4 AGR -203 - BIO-213 
+BIO-258 Biotecnologia  30 10 36,67  2 BIO-213 
+AGR -217 Silvicultura  45 15 55,00  3 AGR -214 
+AGR -221 Agroecologia  20 20 36,67  2 - 
+HUM -206 Economia Agrícola  40 - 36,67  2 - 
+ZOO -234 Aves e Suínos  40 20 55,00  3 ZOO -226 
+AGR -237 Culturas II (Soja, Feijão, Girassol, Al-
+godão)  60 20 73,33  4 AGR -203 - BIO-213 
+OPT -1 Optativa I  30 10 36,67  2 - 
+  Total      458,34      
+8º AGR -215 Fruticultura  60 20 73,33  4 AGR -203 - AGR -214 
+ENG -230 Secagem e Armazenamento de Grãos  50 10 55,00  3 AGR -218- EXA -225 
+EAL -231 Tecnologia de Produtos Agropecuários  60 20 73,33  4 - 
+ZOO -235 Bovinos  20 20 36,67  2 ZOO -226 
+HUM -218 Administração Rural  40 20 55,00  3 HUM -206 
+GAM -221 Sistemas de Gestão Ambiental  30 10 36,67  2 - 
+AGR -238  Culturas III (Cana -de-Açúcar, Café e 
+Mandioca)  50 10 55,00  3 AGR -203 - BIO-213 
+OPT -2 Optativa II  30 10 36,67  2 - 
+  Total      421,67      
+9º CÓDIGO  DISCIPLINA  A. TEÓRI-
+CAS  A. PRÁTI-
+CAS  C. H.TOTAL  CRÉDITOS  PRÉ-REQUESITOS  
+AGR -222 Avaliação e Perícia Rural  20 20 36,67  2 - 
+AGR -239 Parques e Jardins  30 10 36,67  2 AGR -214  
+AGRONOMIA  
+Bacharelado  
+ 
+44  
+ HUM -215 Elaboração e Gestão de Projetos  20 40 55,00  3 HUM -206 
+HUM -205 Sociologia e Extensão Rural  50 10 55,00  3 - 
+AGR -209 Proteção de Plantas e Receituário 
+Agronômico  20 20 36,67  2  AGR -225 - AGR -226 - 
+AGR - 229 
+AGR -230 Fisiologia e Manejo de Pós Colheita  30 10 36,67  2 BIO-213 
+HUM -203 Ética Profissional  40 - 36,67  2 - 
+OPT -3 Optativa III  30 10 36,67  2 - 
+  Total      330,02      
+Atividades de TC, Estagio  curricular obrigatório e Atividades complementares a matriz curricular  
+10º TC-202 Trabalho de Curso      60,00  3 80% das unidades 
+curriculares  
+EST-202 Prática profissional (estágio curri-
+cular obrigatório)      320,00  9 50% das unidades 
+curriculares  
+ATC -202 Atividades Complementares      90,00  5   
+  Total      470,00      
+      - 
+Carga Horária Total das Disciplinas do Curso  3.675,85     
+Carga Horária Total do Curso  4.145,85     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ANEXO II  - Matriz Curricular de Disciplinas Optativas - Modelo  
+Discip linas do Núcleo Livre (optativas)  
+Códigos  Disciplinas  C. H.  Pré-requisito  
+AGN 227  Marketing e Comercialização Agrícola  36,67  HUM 206  
+AGR 231  Fruticultura II  55,00  AGR 215  
+AGR 232  Hidroponia e Ambiente Protegido  36,67  AGR 216  
+AGR 233  Plantas Medicinais  e Aromáticas  36,67  BIO 213, AGR 203  
+AGR 234  Sistemas Agroflorestais  55 AGR 217  
+AGR 235  Tecnologia de Produção de Açúcar e Álcool  36,67  AGR 238  
+AGR 236  Floricultura  36,67  AGR 203, AGR 214  
+AGR 237  Nematologia Agrícola  36,67  BIO-207 
+AGR 238  Adubos e adu bação  36,67  AGR 203  
+AGR 239  Hidrologia Aplicada a gestão de recursos hídricos  36,67  ENG 227, ENG 228, ENG 218, 
+AGR 205  
+AGR 240  Manejo da Irrigação em sistemas agrícolas de produção  36,67  ENG 227, ENG 228, ENG 218, 
+AGR 205, ENG 206, ENG 207  
+AGR 241  Contr ole de águas naturais nos sistemas agrícolas  36,67  AGR 205, ENG 207, ENG 218  
+BIO 244  Biologia Molecular  55 BIO 258  
+BIO 259  Plantas Nativas do Cerrado  36,67  AGR 203, AGR 214  
+EAL 232  Controle de Qualidade de Produtos Agropecuários  36,67  EAL 231  
+ENG 219  Agricultura de Precisão  36,67  AGR 203, ENG 214, ENG 227, 
+ENG 228   
+AGRONOMIA  
+Bacharelado  
+ 
+46  
+ ENG 220  Quimigação  36,67  ENG 207, AGR 203  
+] ENG 221  Tratamentos e Reuso de Resíduos Agroindustriais  55 - 
+ENG 222  Energia na Agricultura  55 EXA 255  
+GAM  Planejamento Territorial Urbano e Rur al 55 BIO 255  
+GAM 217  Recuperação de Áreas Degradadas  55 AGR 205  
+GAM 228  Educação Ambiental  36,67  BIO 255  
+GAM 233  Avaliação de Impactos Ambientais  36,67  BIO 255, AGR 205  
+LET100  Português instrumental  36,67  - 
+LET 215  Inglês instrumental  36,67  - 
+HUM 2 19 Cooperativismo e Associativismo  36,67  - 
+HUM 220  Direito Agrário  36,67  - 
+TAL 017  Métodos de Conservação de Alimentos  55 EAL 231  
+TAL 022  Tecnologia de Frutas e Hortaliças  110 - 
+TAL 028  Tecnologia de Derivados de Leite  55 EAL 231, ZOO 235  
+TAL 031  Tratamento de Efluentes  55 GAM 221  
+TAL 032  Tecnologia de Carnes e Derivados  55 ZOO 234, ZOO 235  
+TAL 035  Tecnologia de Bebidas  55 EAL 231  
+ZOO 205  Bioclimatologia e Etologia  55 ZOO 226, ENG 218  
+ZOO 209  Aquicultura  55 ZOO 226   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ZOO 222  Bromatologia  73,33  AGR 2 19 
+ZOO 221  Melhoramento Genético Animal  73,33  BIO 204, ZOO 226  
+ZOO 212  Alimentos e Alimentação  73,33  AGR 219  
+ZOO 210  Nutrição de Não Ruminantes  55 ZOO 234  
+ZOO 214  Equideocultura  55 ZOO 234  
+ZOO 211  Apicultura, Cunicultura e Animais Silvestres  55 ZOO 23 4 
+ZOO 225  Nutrição de Ruminantes  55 ZOO 235  
+ZOO 218  Caprinocultura e Ovinocultura  73,33  ZOO 235  
+SAGRO 26  Redação Científica  36,67  - 
+SAGRO 12  Tecnologia de Aplicação de Defensivos  36,67  AGR 229. AGR 225  
+SAGRO 27  Eletrificação Rural  36,67  
+ ENG 208  
+ Libras 36,67  - 
+ 
+  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ ANEXO  III - Ementa  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Introdução à Agronomia  1º 36,67  
+EMENTA  
+Projeto político pedagógico do curso de Agronomia. Regulamentação do exercício profissional e mercado 
+de trabalho. Evolução da agricultura. Fator es e sistemas de produção agropecuária. Empreendedorismo e 
+economia rural. Industrialização e comercialização. Pesquisa e extensão na agropecuária.  
+BIBLIOGRAFIA BÁSICA  
+CAMPANHOLA, C.; SILVA, J. G. (eds.) O novo rural brasileiro: rendas das famílias rurai s. Brasília: 
+Embrapa Informação Tecnológica, 2004. V. 5. 121 p.  
+PAULA JÚNIOR, Trazilbo José de; VENZON, Madelaine. EMPRESA DE PESQUISA AGROPECUÁRIA 
+DE MINAS GERAIS. 101 culturas: manual de tecnologias agrícolas . Belo Horizonte: EPAMIG, 2007. 
+800 p.  
+PRIMAV ESI, Ana. Agricultura sustentável: manual do produtor rural: maior produtividade, maiores 
+lucros, respeito à terra.  São Paulo, SP: Nobel, 1992. 142 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BOREM, A. (ed.) Melhoramento de espécies cultivadas.  Viçosa: Editora UFV, 200 5. 969 p.  
+TEDESCO, J. C. (org.) Agricultura familiar, realidades e perspectivas.  Passo Fundo: EDIUPF, 2001 406 
+p. 
+CONFEA/CREA.  Regulamentação da atribuição de títulos profissionais, atividades, competências e 
+caracterização do âmbito de atuação dos profis sionais no Sistema Confea/Crea, para efeito de fiscali-
+zação do exercício profissional.  Resolução no 1.010, de 22 de agosto de 2005. 7p. Disponível em: 
+http://normativos.confea.org.br/ementas/visualiza.asp?idEmenta=550.  
+PARRON, L. M.; AGUIAR, L. M. S.; DUBO C; E.; OLIVEIRA -FILHO, E. C.; CAMARGO, A. J. A.; 
+AQUINO, F. G. (eds.) Cerrado: desafios e oportunidades para o desenvolvimento sustentável.  Planal-
+tina: Embrapa Cerrados, 2008. 464 p.  
+SOUSA, J. L. Manual de horticultura orgânica . 2 ed. Viçosa: Editora Apren da Fácil, 2006. 843 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Cálculo Diferencial e Integral I  1º 73,33  
+EMENTA  
+Funções e gráficos. Funções exponenciais e logarítmicas. Limite e continuidade. Derivadas e suas aplica-
+ções. Integrais.  
+BIBLIOGRAFIA BÁSICA  
+GUID ORIZZI, Hamilton Luiz. Um curso de cálculo. Rio de Janeiro: LTC, 2002. v. 1.  
+GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Rio de Janeiro: LTC, 2002. v. 2.  
+GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Rio de Janeiro: LTC, 2002. v. 3.  
+BIBLIOGRAFIA COM PLEMENTAR   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ IEZZI, Gelson; DOLCE, Oswaldo; MURAKAMI, Carlos. Fundamentos de matemática elementar: conjun-
+tos, funções. 9. ed. São Paulo: Atual, 2006.  
+LEITHOLD, Louis; PATARRA, Cyro de Carvalho. O cálculo com geometria analítica. 3. ed. São Paulo: 
+Ed. Harbra,  1994. v. 1.  
+LEITHOLD, Louis; PATARRA, Cyro de Carvalho. O cálculo com geometria analítica. 3. ed. São Paulo: 
+Ed. Harbra, 1994. v. 2.  
+MUNEM, Mustafa A; FOULIS, David J. Cálculo. Rio de Janeiro, RJ: LTC, 2013. V. 1.  
+MUNEM, Mustafa A; FOULIS, David J. Cálcul o. Rio de Janeiro, RJ: LTC, 2013. V. 2.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Química Geral  1º 55 
+EMENTA  
+Modelos atômicos, Estrutura da matéria e suas propriedades, Classificação periódica dos elementos quími-
+cos, Ligações químicas, Teoria da Ligação de Val ência e Interações Moleculares, Interações moleculares, 
+Geometria Molecular, Funções inorgânicas, Fórmula Química e Estequiométrica, Reações químicas, Nor-
+mas de Segurança em Laboratório, Manuseio de Equipamentos de Laboratório, Medidas de Massa e Volume 
+e Temperatura, Preparo de soluções, Cálculo estequiométrico, Titulometria.  
+BIBLIOGRAFIA BÁSICA  
+KOTZ, John C.; TREICHEL, Paul M.; WEAVER, Gabriela C. Química geral e reações químicas. São Paulo: 
+Cengage Learning, 2010. v. 1.  
+KOTZ, John C.; TREICHEL, Paul M. ; WEAVER, Gabriela C. Química geral e reações químicas. São Paulo: 
+Cengage Learning, 2010. v. 2.  
+MÁXIMO, Leandro Nériton Cândido. Práticas de química geral. Pires do Rio, GO: Gráfica e Editora Pires 
+do Rio, 2012. 76 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BRADY, Ja mes E; HUMISTON, Gerard E. Química geral. 2. ed. Rio de Janeiro, RJ: LTC, 2011. v. 1.  
+BRADY, James E; HUMISTON, Gerard E. Química geral. 2. ed. Rio de Janeiro, RJ: LTC, 2011. v. 2.  
+RUSSELL, John Blair. Química geral. 2. ed. São Paulo: Pearson, 1994. v. 1.  
+RUSSELL, John Blair. Química geral. 2. ed. São Paulo: Pearson, 1994. v. 2.  
+ROSENBERG, Jerome L. Química geral. Porto Alegre, RS: Bookman, 2013. xi; 377 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Desenho Técnico  1º 55 
+EMENTA  
+Materiais de desenho e suas utiliz ações. Geometria descritiva. Escalas numérica e gráfica. Vistas ortogonais. 
+Desenho arquitetônico. Normas da ABNT.  
+BIBLIOGRAFIA BÁSICA  
+SIMMONS, C. H. Desenho técnico. São Paulo: Hemus, 2004. 257 p  
+FABICHAK, Irineu. Pequenas construções rurais. São Paulo:  Nobel, 1983. 129 p.  
+GOMES, Edaldo; PESSOA, Luciano Montenegro da Cunha; SILVA JUNIOR, Lucílio Barbosa da. Me-
+dindo imóveis rurais com GPS. Brasília, DF: LK, 2001. 136 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA COMPLEMENTAR  
+BAÊTA, Fernando da Costa; SOUZA, Cecília de Fátima. Ambiên cia em edificações rurais: conforto animal. 
+2. ed. Viçosa, MG: UFV, 2010. 269 p.  
+GOUVEIA, Aurora Maria Guimarães; ARAUJO, Erbert Correira; ULHOA, Mauricio Fonseca Pimental. 
+Instalações para a criação de ovinos tipo corte: nas regiões centro -oeste e sudeste  do Brasil. Brasília, DF: 
+LK editora, 2007. 95 p.  
+LOPES, José Dermeval Saraiva; LIMA, Francisca Zenaide de. Pequenas barragens de terra: planejamento, 
+dimensionamento e construção. Viçosa, MG: Aprenda Fácil, 2005. 274 p.  
+MCCORMAC, Jack C. Topografia. 5. ed . Rio de Janeiro, RJ: LTC, 2011. xv, 391 p.  
+PEREIRA, Milton Fischer. Construções rurais. São Paulo: Nobel, c1976. 330 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Biologia Celular  1º 55 
+EMENTA  
+Organização e caracterização das células e vírus. Métodos de estudo  da célula. Composição química da 
+célula. Membranas biológicas e digestão intracelular. Organelas celulares. Célula Vegetal e Animal. Ciclo 
+celular.  
+BIBLIOGRAFIA BÁSICA  
+ALBERTS, B. et al. FUNDAMENTOS DA BIOLOGIA CELULAR. 3 ed. Porto Alegre: ARTMED, 2011  
+ALBERTS,B. et al. Biologia molecular da célula. 5 ed. Porto Alegre: ARTMED, 2010.  
+RAVEN P.H.; EVERT,R.F. & EICHHORNS,S.E. Biologia Vegetal. 7 ed. Rio de Janeiro: Guanabara Koo-
+gan, 2007.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BERKALOFF, A. et al. Biologia e Fisiologi a Celular. São Paulo: Edgard Blücher, 1975. 287p.  
+ROBERTIS, E.D.P. de; ROBERTIS, E.M.F. de. Bases da Biologia Celular e Molecular. 3.ed. Rio de Ja-
+neiro: Guanabara Koogan, 2001. 418p.  
+CURTIS, H. Biologia. 2. ed. Rio de Janeiro: Guanabara Koogan, 1977. 964p.  
+JUNQUEIRA, L. C.; CARNEIRO, J.. Histologia Básica. 11. ed.. Rio de Janeiro: Guanabara Koogan, 2008.  
+MOORE, K.L.; PERSAUD, T.V.N. Embriologia Básica. 6. ed. Rio de Janeiro: Elsevier, 2004. 480p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Metodologia Científica  1º 55 
+EMENTA  
+Conhecer as metodologias e técnicas de pesquisa; Identificar fundamentos de lógica e a analogia; interpretar 
+citações e referenciais bibliográficos; Identificar as etapas do processo de pesquisa e suas dimensões; Iden-
+tificar tipos e técnicas d e pesquisa; Encaminhamento para a elaboração de projetos.  
+BIBLIOGRAFIA BÁSICA  
+LAKATOS, E. Maria; MARCONI, Marina de Andrade. Fundamentos de metodologia científica. 7. ed. São 
+Paulo: Atlas, 2010. 297 p.  
+ANDRADE, Maria Margarida de. Introdução à metodologi a do trabalho científico: elaboração de trabalhos 
+na graduação. 10. ed. São Paulo: Atlas, 2010. 158 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ KÖCHE, José Carlos. Fundamentos de metodologia científica/ Teoria da ciência e iniciação à pesquisa. 28. 
+ed. Petrópolis, RJ: Vozes, 2009.  
+BIBLIOGRAFIA C OMPLEMENTAR  
+BARROS, Aidil Jesus da Silveira; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia: 
+um guia para a iniciação científica. 3. ed. São Paulo: Pearson, 2007. 158 p.  
+CERVO, Amado L.; BERVIAN, Pedro A.; SILVA, Roberto da. Metodologia cie ntífica. 6. ed. São Paulo: 
+Pearson, 2007. 162 p.  
+SANTOS, Izequias Estevam dos. Manual de métodos e técnicas de pesquisa científica. 8. ed. Niterói, RJ: 
+Impetus, 2011. 384 p.  
+MARTINS, Dileta Silveira. Português instrumental. 29. ed. Sao Paulo: Atlas, 2010. 558 p.MARCONI, M. 
+A. Técnicas de Pesquisa. 6. ed. São Paulo: Atlas, 2007.  
+POPPER, Karl Raimund. A lógica da pesquisa científica. 2.ed. São Paulo: Cultrix, 2013. 454 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Ecologia  1º 36,67  
+EMENTA  
+Ecologia e sua importânc ia, Conceitos ecológicos, Organismos vivos e interações ecológicas, Comunidades 
+ecológicas, Fluxo de energia, Ciclo de elementos, Susseção ecológica, Seleção natural e evolução, Ecologia 
+comportamental e comunicação, Ecologia de populações, Biomas Brasilei ros, Questões ambietais da atua-
+lidade, Ecologia e agricultura, Método científico.  
+BIBLIOGRAFIA BÁSICA  
+DAJOZ, Roger. Princípios de ecologia. 7. ed. Porto Alegre, RS: Artmed, 2005.  
+DIBLASI FILHO, Italo. Ecologia geral. Rio de Janeiro, RJ: Ciência Moderna,  2007. xlii, 650 p.  
+TOWNSEND, Colin R.; BEGON, Michael; HARPER, John L. Fundamentos em ecologia. 3. ed. Porto Ale-
+gre, RS: Artmed, 2010. viii, 576 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+SANO, S. M.; ALMEIDA, S. P.; RIBEIRO, J. F. CERRADO: ecologia e flora. Brasília , DF: EMBRAPA, 
+2008. V. 1.  
+LEFF, Enrique. Epistemologia ambiental. 5.ed. São Paulo: Cortez, 2010. 239 p.  
+M. BEGON, C. R. TOWNSEND, E J. L. HARPER. 2007. Ecologia: de indivíduos a ecossistemas. 4a Edi-
+ção*  
+MANAHAN, Stanley E. Química ambiental. 9. ed. Porto Alegre, RS: Bookman, 2013. xxxii, 912 p.  
+LEPSCH, Igo F. Formação e conservação dos solos. 2. ed. São Paulo: Oficina de textos, 2010. 216 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Informática  1º 36,67  
+EMENTA  
+Introdução a computação. Introdução as Redes de co mputadores. Sistemas operacionais. Ambiente de tra-
+balho com interface gráfica. Uso de aplicativos: editor de texto, planilhas eletrônicas e apresentações.  
+BIBLIOGRAFIA BÁSICA  
+TANENBAUM, Andrew S. Sistemas operacionais modernos. 2. ed. Rio de Janeiro, RJ:  Pearson Prentice  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Hall, 2007. xvii, 695 p.  
+SANTOS, Rafael. Introdução à programação orientada a objetos usando Java. Rio de Janeiro, RJ: Elsevier, 
+2003. 319 p.  
+SAWAYA, Márcia Regina. Dicionário de informática & internetinglês/português. São Paulo: Nobel, 2 007. 
+BIBLIOGRAFIA COMPLEMENTAR  
+ARAÚJO, Everton Coimbra de. Algoritmos: fundamento e prática. 3. ed. Florianópolis: Visual Books, 2007. 
+414 p.  
+DANESH, Arman. Dominando o Linux: a bíblia. São Paulo: Makron Books, 2000. xxxv, 574 p.  
+DEITEL, H. M.; DEITEL, P aul J. C++: como programar. 5. ed. São Paulo: Prentice Hall, 2006. 1163 p.  
+DEITEL, H. M.; DEITEL, P. J. Java: como programar. 6. ed. São Paulo: Pearson, 2005. xl, 1110 p.  
+KUNZE, R. Treinamento em Informática: Redes 2000. 2. ed. Cuiabá: KCM, 2004. 192 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Física  2º 73,33  
+EMENTA  
+Cinemática; Dinâmica; Conservação de energia e da quantidade de movimento linear; Hidrostática; Termo-
+logia e Termodinâmica; Eletrostática; Eletrodinâmica; Magnetismo e Eletromagnetismo.  
+BIBLIOGRAF IA BÁSICA  
+YOUNG, Hugh D; FREEDMAN, Roger A. Física I: MECÂNICA. São Paulo, 12 ed. Addison Wesley, 
+2008.  
+YOUNG, Hugh D; FREEDMAN, Roger A. Física II: Termodinâmica e Ondas. São Paulo, 12 ed. Addison 
+Wesley, 2008.  
+YOUNG, Hugh D; FREEDMAN, Roger A. Física II I: Eletromagnetismo. São Paulo, 12 ed. Addison Wes-
+ley, 2008.  
+BIBLIOGRAFIA COMPLEMENTAR  
+HALLIDAY, D., Resnick, R. Fundamentos da física. Mecânica. 8 ed. Rio de Janeiro: LTC, 2009. v.1.  
+HALLIDAY, D., Resnick, R. Fundamentos da física. Gravitação, Ondas e T ermodinâmica. 8 ed. Rio de 
+Janeiro: LTC, 2009. v.2.  
+HALLIDAY, D., Resnick, R. Fundamentos da física. Eletromagnetismo. 8 ed. Rio de Janeiro: LTC, 2009. 
+v.3. 
+MÁXIMO, A.; ALVARENGA, B. Física - Contexto & Aplicações - 1º Ano. v.1, 1ª Ed, São Paulo: editora 
+scipione, 2011.  
+MÁXIMO, A.; ALVARENGA, B. Física - Contexto & Aplicações - 1º Ano. v.2, 1ª Ed, São Paulo: editora 
+scipione, 2011.  
+MÁXIMO, A.; ALVARENGA, B. Física - Contexto & Aplicações - 1º Ano. v.3, 1ª Ed, Sã o Paulo: editora 
+scipione, 2011.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Estatística Básica  2º 55 
+EMENTA  
+Estatística descritiva, elementos de probabilidade e de inferência estatística; base conceitual, métodos e  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ aplicações da estatística em ciência e tecnologia.  
+BIBLIOGRAFIA BÁSICA  
+FONSECA, J.S. MARTI NS, G. A. Curso de Estatística.6.ed. São Paulo, 2010.  
+PIMENTEL - GOMES, Frederico. Estatística aplicada à experimentos agronômicos e florestais: exposição 
+com exemplos e orientações para uso de aplicativos. Piracicaba, SP: FEALQ, 2002. 309 p.  
+SPIEGEL, Murr ay R. Estatística. 3. ed. São Paulo: Bookman, 2008. 643 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MINGOTI, Sueli Aparecida. Análise de dados através de métodos estatística multivariada: uma abordagem 
+aplicada . Belo Horizonte: Ed. UFMG, 2005. 295 p.  
+MOORE, David S. A  estatística básica e sua prática. 5. ed. Rio de Janeiro, RJ: LTC, 2011. xxviii, 658 p.  
+BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística básica. 8. ed. São Paulo: Saraiva, 
+c2014. 548 p.  
+BARBETTA, Pedro Alberto. Estatística aplicada às ciênc ias sociais. 8. ed. rev. Florianópolis: UFSC, 2012. 
+315 p.  
+PIMENTEL -GOMES, Frederico. Curso de estatística experimental. 15. ed. Piracicaba, SP: FEALQ, 2009. 
+451 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Química Orgânica  2º 55 
+EMENTA  
+Ligação química. Resson ância. Forças intermoleculares. Análise conformacional. Estereoquímica. Ácidos 
+e bases orgânicos. Estudo de mecanismo de reações de substituição nucleofílica em carbono saturado, eli-
+minação, adição eletrofílica em duplas ligações. Compostos aromáticos. Rea ções de substituição nucleofí-
+lica e eletrofílica em aromáticos.  
+BIBLIOGRAFIA BÁSICA  
+SOLOMONS, T. W. Graham; FRYHLE, Craig B. Química orgânica. 10. ed. Rio de Janeiro, RJ: LTC, 2012. 
+2 v. 
+ALLINGER, N. L.. Química Orgânica . 2 ed. Rio de Janeiro. Guanabara  Dois, 1976.  
+MCMURRY, John. Química orgânica. 7. ed. São Paulo: Cengage Learning, 2011. 2 v.  
+BIBLIOGRAFIA COMPLEMENTAR  
+KOROLKOVAS, A. Química Farmacêutica. Rio de Janeiro. Guanabara -Koogan, 1988.  
+VOLLHARDT, KPC, SCHORE, NE. Química Orgânica. 4ed. Porto A legre, Brookman, 2004.  
+BARBOSA, Luiz Cláudio de Almeida. Introdução à química orgânica. 2. ed. São Paulo: Pearson, 2011. xx, 
+331 p.  
+MANO, Eloisa Biasotto; SEABRA, Affonso P. Práticas de química orgânica. 3. ed. São Paulo: Edgard 
+Blucher, c1987. 245, [1] p.  
+BRUICE, Paula Yurkanis. Química orgânica. 4. ed. Sao Paulo: Pearson/Prentice Hall, [2006]. 2 v.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Microbiologia  2º 55 
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Caracterização e classificação dos microrganismos. Nutrição e cultivo. Metabolismo microbiano.  Ecologia 
+microbiana. Controle de microrganismos. Microrganismos e Engenharia Genética. Técnicas de coleta, ma-
+nipulação e análise de microrganismos.  
+BIBLIOGRAFIA BÁSICA  
+MADIGAN, M.T.; MARTINKO, J.M.; PARKER, J. Microbiologia de brock. Editora: Pearson Ed ucation 
+do Brasil LTDA, 2004. 624p.  
+PELCZAR JR, Michael J; CHAN, E.C.S; KRIEG, Noel R. Microbiologia/ conceitos e aplicações. 2. ed. São 
+Paulo: Makron Books, 1997. 2 v.  
+TORTORA, Gerard J.; FUNKE, Berdell R.; CASE, Christine L. Microbiologia. 10. ed. Porto Alegre, RS: 
+Artmed, 2012. xxviii, 934 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MADIGAN, Michael T. Microbiologia de Brock. 12. ed. Porto Alegre, RS: Artmed, 2010. xxxii, 1128 p.  
+GAVA, Altanir Jaime; SILVA, Carlos Alberto Bento de; FRIAS, Jenifer Ribeiro Gava. Tecnol ogia de ali-
+mentos: princípios e aplicações. São Paulo: Nobel, 2008. 511 p.  
+FRANCO, Bernadette Dora Gombossy de Melo; LANDGRAF, Mariza. Microbiologia de alimentos. São 
+Paulo, SP: Atheneu, 2008. 182 p.  
+JAY, James M. Microbiologia de alimentos. 6. ed. Porto A legre, RS: Artmed, 2005. 711 p.  
+FORSYTHE, Stephen J. Microbiologia da segurança alimentar. Porto Alegre, RS: Artmed, 2002. 424 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Zoologia  2º 55 
+EMENTA  
+Sistemática, taxonomia, fisiologia e aspectos biomorfológicos dos protistas, metazoários, acelomados, pseu-
+docelomados e celomados.  
+BIBLIOGRAFIA BÁSICA  
+BRUSCA, R. C.; BRUSCA, G. J. Invertebrados 2ªed. Guanabara Koogan, 2007.  1098p.  
+HICKMAN JR., C.P.; ROBERTS, L. S.; LARSON,  A.  Princípios Integrados de Zoologia. 11ª ed. Editora 
+Guanabara Koogan, 2004, 884 p.  
+RIBEIRO -COSTA, C.S.; ROCHA, R. M. Invertebrados: manual de aulas práticas. 2. ed. Ribeirão Preto, 
+SP: Holos, 2006. 272 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ALMEIDA, Lúcia Massutti; RIBEIRO -COSTA, Cibele S.; MARINONI, Lu ciane. Manual de coleta, con-
+servação, montagem e identificação de insentos. Ribeirão Preto, SP: Holos, 2003. viii, 78 p.  
+ATHIÉ, Ivânia; PAULA, Dalmo Cesar de. Insetos de grãos armazenados aspectos biológicos e identifica-
+ção. 2. ed. Campinas, SP: Varela, 20 02. 244 p.  
+GALLO, D., NAKANO, O., SILVEIRA -NETO, S., CARVALHO, R., BAPTISTA, G., BERTI FILHO, E., 
+PARRA, J., ZUCCHI, R., ALVES, S., VENDRAMIM, J., MARCHINI, L., LOPES, J., OMOTO, C.2002. 
+Entomologia Agrícola. Fealq. Vol. 10.920 p.  
+PARRA, João Roberto Posta li; OLIVEIRA, Heraldo Negri; PINTO, Alexandre de Sene. Guia de campo de 
+pragas e insetos benéficos dos citros. Piracicaba, SP: A. S. Pinto, 200 64 p.  
+TACLA, Almenor; MORELLO, Maria Cecília Mattos. Como vivem os insetos. São Paulo, SP: Scipione, 
+[19--?]. 55  p.  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+  
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Anatomia Vegetal  2º 55 
+EMENTA  
+Desenvolvimento das plantas com sementes. Diferenciação, especialização e morfogênese da célula vegetal, 
+componentes protoplasmáticos e não protoplasmáticos, parede celular. Meristema apical e lateral, tecidos 
+simples e complexos, células de transferência e estrutura de secreção. Anatomia dos órgãos vegetativos e 
+reprodutivos, estrutura primária e secundária das raízes e dos caules. Estrutura básica e desenvolvimento da 
+folha, e variaçã o estrutural. Estrutura de KRANZ. Estrutura e desenvolvimento da flor, do fruto e da se-
+mente.  
+BIBLIOGRAFIA BÁSICA  
+CUTTER, E. G. 2002. Anatomia Vegetal. Parte 1. Células e Tecidos. São Paulo, Tradução Roca, 2°ed., 
+304p.  
+CUTTER, E. G. 2002. Anatomia Vegeta l. Parte2. Órgãos. São Paulo, Tradução Roca, 336p.  
+FERRI, M. G. Botânica: Morfologia externa das plantas. 15 ed. Nobel, 1983. 152 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+VANNUCCI, L. V. & REZENDE, M. H. 2003. Anatomia Vegetal: noções básicas. Goiânia: 190p  
+RAVEN P. H.; EVERT,R.F. & EICHHORNS,S.E. Biologia Vegetal. 7 ed. Rio de Janeiro: Guanabara Koo-
+gan, 2007.  
+GONÇALVES, E. G. & LORENZI, H. Morfologia Vegetal – Organografia e  Dicionário Ilustrado de Mor-
+fologia das Plantas Vasculares. São Paulo : Instituto Plantarum d e Estudos da Flora, 2007. 416p.  
+SOUZA, V. C.; LORENZI, H. Chave de Identificação – Para as principais famílias de Angiospermas nativas 
+e cultivadas do Brasil. São Paulo : Instituto Plantarum de Estudos da Flora, 2007. 32p.  
+SOUZA, V. C.; LORENZI, H. Botânic a Sistemática. Guia ilustrado para identificação das famílias de Fa-
+nerógamas nativas e exóticas no Brasil, baseado em APG II. 2ª. ed. Nova Odessa, SP : Instituto Plantarum, 
+2008. 704p.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Gênese e Morfologia do solo  2º 36,67 
+EMENTA  
+Rochas, minerais e intemperismo. Fatores e processos de formação do solo. Propriedades físicas, químicas 
+e morfologia do solo. O perfil do solo.  O solo na paisagem  
+BIBLIOGRAFIA BÁSICA  
+LEPSCH, I. F. Formação e Conservação dos Solos. 20ed. São  Paulo. Oficina de Textos. 2010. 216p.  
+SCHNEIDER, P.; KLAMT, E.; GIASSON, E. Morfologia do solo, subsídios para caracterização e interpre-
+tação de solos a campo. 10 Ed. Porto Alegre, RS. Agrolivros. 2007. 66p.  
+POPP, J.H. Geologia Geral. 6. Ed. LTC, 2010. 3 25p. 
+BIBLIOGRAFIA COMPLEMENTAR  
+GROTZINGER, J. JORDA N, T. (tradução: Iuri D. Abreu). Para entender a Terra. 6. Ed. Porto Alegre:  
+Bookman, 2013. 738p.  
+SALGADO, V. L. Manual da ciência do solo: com ênfase aos solos tropicais. 2. ed. São Paulo, Ed. Agro-
+nômi ca Ceres, 1988. 464p.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ PRIMAVESI, A. Manejo ecológico do solo: A agricultura em regiões tropicais. São Paulo: Nobel, 1999.  
+TEIXEIRA, W. et al. (organizadores) Decifrando a Terra. São Paulo: Oficina de textos, 2009. 568 p.  
+TROEH, FR. & THOMPSON, L. Solos e f ertilidade do solo. Ed. Andrei. 2007, 718 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Organografia e Sistemática Vegetal  3º 55 
+EMENTA  
+Caracterização das espermatófitas. Morfologia externa dos órgãos vegetativos e reprodutivos. Sistemas de 
+classificação e nome nclatura botânica. Herbário e técnicas de herborização. Principais famílias de Angios-
+permas de interesse agrícola.  
+BIBLIOGRAFIA BÁSICA  
+BARROSO, G. M. et al. Sistemática de Angiospermas do Brasil. Viçosa: Ed. UFV, 2002.  
+FERRI, M. G. Morfologia externa da s plantas: Organografia. São Paulo: Ed. Nobel, 1973.  
+RAVEN, P. H. EVERT, R. F.; EICHHORN, S. E. Biologia Vegetal. 5 ed. Rio de Janeiro: Guanabara Koo-
+gan, 2007. 738 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+CUTTER, L. A. Anatomia vegetal: parte I - células e tecidos. S ão Paulo: Roca, 1986.  
+CUTTER, L. A. Anatomia vegetal: parte II - órgãos: experimentos e interpretação. São Paulo: Roca, 1986.  
+JOLY, A.B. Botânica: Introdução a Taxonomia Vegetal. São Paulo: Ed. Nacional, 2002.  
+SOUZA, L. A. Morfologia anatomia vegetal: célu la, tecidos, órgãos e plântula. Ponta Grossa: Ed. UEPG, 
+2003.  
+VIDAL, W. N. & VIDAL, M. R. R. Botânica: Organografia. Viçosa: Ed. UFV, 2007. 4 ed. 124 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Mecânica Agrícola  3º 36,67  
+EMENTA  
+Elementos básicos de mecânica. Mecanismos de transmissão de potência. Lubrificação e lubrificantes. Mo-
+tores de combustão interna. Tratores e máquinas agrícolas. Capacidade operacional. Operação e Manutenção 
+de tratores. Abrigo e ferramentas para maquinário agrícola.  Segurança nas opera ções mecanizadas.  
+BIBLIOGRAFIA BÁSICA  
+BALASTREIRE, L. A. Máquinas agrícolas, Ed. Manole; São Paulo, 1987.  
+BARGER, E. L.; LILJEDAHL, J. B.; CARLETON, W. M.; McKIBBEN, E. G. Tratores e seus motores; 
+Ed. Edgard Blucher; São Paulo; 1963.  
+MIALHE, L. G. Manual  de mecanização agrícola. São Paulo. Ceres. 1980.  
+BIBLIOGRAFIA COMPLEMENTAR  
+TEIXEIRA, M. M.; RUAS, R. A. A.; GOIS, J. M. Operação e manutenção de pulverizador costal motori-
+zado. LK Editora e comércio de bens editoriais e autorais, Brasília (DF), 156 p, 2 008. 
+MORAES, G. S. Os cuidados com o trator. Viçosa: Aprenda fácil; 2001, 321 p.  
+MORAES, G.S. O preparo do solo: implementos corretos; 3ª ed. São Paulo, Ed. Globo, 1989.  
+COAN, O. Ferramentas para manutenção de máquinas e implementos agrícolas. Funep, 1997.  37 p.   
+COAGRI. Tratos culturais: Pulverização e polvilhamento motorizados. São Paulo. Abril educação, 1980.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+  
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Química Analítica  3º 55 
+EMENTA  
+Soluções e equilíbrio químico. Análise qualitativa. Análise gravimétrica. Anál ise volumétrica.  Análise ins-
+trumental. Erros.  
+BIBLIOGRAFIA BÁSICA  
+BACCAN, Nivaldo et al. Química analítica quantitativa elementar. 3ª. ed. São Paulo: Edgard Blucher, 2001. 
+308 p  
+SKOOG, WEST, HOLLER E CROUCH. Fundamentos de Química Analítica. Ed. Cengae.  8ª ed. 2006. 
+999p.  
+HIGSON, Séamus. Química analítica. São Paulo: McGraw -Hill, 2009. 452. P  
+BIBLIOGRAFIA COMPLEMENTAR  
+BRAATHEN, Per Christian. Química geral. 3ª. ed. Viçosa, MG: [s.n.], 2011. 701 p.  
+HARRIS, Daniel C. Análise química quantitativa. 8ª. ed.  Rio de Janeiro, RJ: LTC, 2012.  898 p.  
+LEITE, Flávio. Práticas de química analítica. 5ª. ed. Campinas, SP: Átomo, 2012. 165 p.  
+VOGEL, Arthur I. Química analítica qualitativa. 5ª. ed. São Paulo: Mestre Jou, 1981. 665 p.  
+VOGEL, Arthur Israel. Análise químic a quantitativa. 6ª. ed. Rio de Janeiro, RJ: LTC, 2002.  462 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Bioquímica  3º 55 
+EMENTA  
+Carboidratos. Lipídios. Ácidos nucléicos. Aminoácidos e Proteínas. Enzimas. Vitaminas e coenzimas. Me-
+tabolismo de carboidratos. Bio ssíntese de carboidratos (Fotossíntese). Metabolismo de lipídeos, aminoáci-
+dos, proteínas e nucleotídeos.  
+BIBLIOGRAFIA BÁSICA  
+CONN, Eric Edward; STUMPF, P.K. Introdução a bioquímica. 4ª. ed. São Paulo: Edgard Blücher, 1980. 
+525 p.  
+MARZZOCO, A.; TORRES, B.  B.  Bioquímica básica. 3ª ed. Rio de Janeiro: Guanabara Koogan, 2007. 
+386p.  
+NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger. 5ª.ed. Porto Alegre, RS: 
+Artmed, 2011. 1273 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BERG, Jeremy Mark. Bioquímica. 6ª. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2008. 1114 p.  
+CAMPBELL, Mary K. Bioquímica, 3ª. ed. Porto Alegre: Artmed, 2000.  
+KAMOUN, P.; LAVOINNE A.; VERNEUIL H. Bioquímica e Biologia Molecular. Rio de janeiro: Guana-
+bara Koogan, 2006. 420p.  
+KOBLITZ, M. G. B. Bioquímica de alimentos: Teoria e aplicações práticas. Rio de Janeiro: Guanabara 
+Koogan, 2008. 242 p.  
+MAHAN, Bruce M.; MYERS, Rollie J. Química: um curso universitário. São Paulo: Edgard Blucher, c1995. 
+582 p.  
+  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Estatística Experimental  3º 55 
+EMENTA  
+Testes de hipóteses (F e t). Princípios básicos da experimentação. Comparações múltiplas: testes de média. 
+Contrastes. Delineamentos experimentais. Experimentos fatoriais. Experimentos em parcelas subdivididas. 
+Regressão  linear e Correlação.  
+BIBLIOGRAFIA BÁSICA  
+CARNEIRO, A.P.S.; RIBEIRO JR., J.I.; SANTOS, N.T.; MARTINS FILHO, S.; Estatística Experimental 
+(Apostila), UFV, 2010, 214p.  
+PIMENTEL -GOMES, Frederico. Curso de estatística experimental. 15. ed. Piracicaba, SP: FE ALQ, 2009. 
+451 p.  
+PIMENTEL - GOMES, Frederico. Estatística aplicada à experimentos agronômicos e florestais: exposição 
+com exemplos e orientações para uso de aplicativos. Piracicaba, SP: FEALQ, 2002. 309 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+FONSECA, Jairo Simon  da; MARTINS, Gilberto de Andrade. Curso de estatística. 6. ed. São Paulo: Atlas, 
+1996. 320 p.  
+MINGOTI, Sueli Aparecida. Análise de dados através de métodos estatística multivariada: uma abordagem 
+aplicada . Belo Horizonte: Ed. UFMG, 2005. 295 p.  
+SPIEGEL,  Murray R. Estatística. 3. ed. São Paulo: Bookman, 2008. 643 p.  
+MOORE, David S. A estatística básica e sua prática. 5. ed. Rio de Janeiro, RJ: LTC, 2011. xxviii, 658 p.  
+BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística básica. 8. ed. São Pau lo: Saraiva, 
+c2014. 548 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Microbiologia Agrícola  3º 55 
+EMENTA  
+Comunidade microbiana do solo. Processos microbiológicos e bioquímicos no solo. Fatores que afetam a 
+microbiota do solo.  Interações biológicas na rizosfer a.  Enzimas do solo. Interações microrganismos -plan-
+tas. Transformações do carbono, nitrogênio, enxofre e fósforo no solo. Recuperação de áreas degradadas.  
+BIBLIOGRAFIA BÁSICA  
+MADIGAN, Michael T. Microbiologia de Brock. 12. ed. Porto Alegre, RS: Artmed, 2 010. xxxii, 1128 p.  
+PELCZAR JR, Michael J; CHAN, E.C.S; KRIEG, Noel R. Microbiologia/ conceitos e aplicações. 2. ed. São 
+Paulo: Makron Books, 1997. V. 1.  
+PELCZAR JR, Michael J; CHAN, E.C.S; KRIEG, Noel R. Microbiologia/ conceitos e aplicações. 2. ed. São 
+Paulo: Makron Books, 1997. V. 2.  
+BIBLIOGRAFIA COMPLEMENTAR  
+PRIMAVESI, Ana. Manejo ecológico do solo: a agricultura em regiões tropicais. São Paulo: Nobel, c1979. 
+549 p.  
+MELO, Itamar Soares de; AZEVEDO, João Lucio de. (BRASIL). Controle biológico. CENTRO N ACIO-
+NAL DE PESQUISA DE MONITORAMENTO E AVALIAÇÃO DE IMPACTO AMBIENTAL: Jaguari-
+úna, 1998.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ROMEIRO, Reginaldo da Silva. Métodos em bacteriologia de plantas. Viçosa, MG: Ed. UFV, 2001. 279 p.  
+SIQUEIRA, José Oswaldo; FRANCO, Avílio Antonio. Biotecnologia do s olo: fundamentos e perspectivas. 
+Brasília, DF: Ministério da Educação, 1988. 235 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Física e Classificação do solo  3º 55 
+EMENTA  
+O solo como um sistema trifásico. Propriedades físicas do solo, água no solo, aeração, tem peratura do solo. 
+Compactação do solo. Mineralogia do solo. Atributos e horizontes diagnósticos do solo. Sistemas de clas-
+sificação de solos, reconhecimento e descrição do solo a campo. Solos e ambientes brasileiros. Interpretação 
+de mapas pedológicos.  
+BIBLIOGRAFIA BÁSICA  
+BRADY, N. C.; BUCKMAN, H. O. Natureza e propriedades dos Solos; compendio universitário sobre 
+edafologia.  3a Ed. Rio de Janeiro: Freitas Bastos, 1974. 594p.  
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA – EMBRAPA/CNPS. Sistema brasileiro d e 
+classificação de solos. Brasilia, 1999. 412p.  
+OLIVEIRA, J. B. de. Pedologia Aplicada. FEALQ, 40 ed. Piracicaba, 2011. 592p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+GALETI, P.A. Práticas de conservação dos solos. Campinas, IAC, 1985.  
+LEPSCH, I. F. 19 Lições de Pedolo gia. Ed. Oficina de Texto, 2011. 456p.  
+PRADO, H. Manual de classificação de solos do Brasil. 3a Ed. Piracicaba: H. do Prado, 2003. 275p.  
+PRIMAVESI, A. Manejo ecológico do solo: A agricultura em regiões tropicais. São Paulo: Nobel, 1999.  
+TROEH, FR. & THOMPS ON, L. Solos e fertilidade do solo. Ed. Andrei. 2007, 718 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Topografia - Planimetria  3º 55 
+EMENTA  
+Definição, histórico e divisão da Topografia. Introdução à planimetria. Processos e instrumentos de medição 
+de distânci as. Goniologia e goniografia. Levantamentos planimétricos convencionais e pelo Sistema de Po-
+sicionamento Global (GPS). Cálculo da planilha analítica, das coordenadas e áreas. Confecção da planta 
+topográfica e memorial descritivo. Divisão e demarcação de ár eas. Informática aplicada à topografia. No-
+ções de cartografia e geoposicionamento.  
+BIBLIOGRAFIA BÁSICA  
+COMASTRI, J. A. & TULER, J. C., Topografia; Altimetria. 3ª Ed. Viçosa:UFV, 2005. 200p. ISBN: 
+978857269 -035-5 
+LIMA, D. V. Topografia um Enfoque Pratico.  Rio Verde – Go, 2006.104 p.  
+McCORMAC, J. Tradução Daniel Carneiro da Silva. Topografia. 5a Edição, LTC, Rio de Janeiro, 2007.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ABNT – Associação Brasileira de Normas Técnicas – Execução de Levantamentos Topográficos – NBR 
+13133.  Rio de Janeiro – RJ, 1994.  
+Borges, A. de C.; Topografia. São Paulo: Edgard Blucher, v.1.1977. 187p   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BORGES, A. de C. Topografia Aplicada a Engenharia Civil. Volume 1. ED. Blucher. 2a Ed. São Paulo – 
+SP, 2010.  
+GODOY, R. Topografia. Piracicaba – SP, 10a Ediç ão, 1988.  
+SILVA, I. da. Curso de Topografia – Detalhes e Instalação de um instrumento Topográfico. EESC – Escola 
+de Engenharia de São Carlos. São Carlos – SP, 2002.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Genética  4º 55 
+EMENTA  
+Bases físicas da herança: Mitos e, Meiose, Gametogênese. Bases químicas da herança: Código genético, 
+Ação primária do gene. Mutação: Mutação gênica, Mutação cromossômica. Mecanismo de distribuição de 
+genes: Monoibridismo, diibridismo e poliibridismo, Alelos multiplos, Interação gênica, D eterminação do 
+sexo e herança relacionada ao sexo. Ligação e mapeamento cromossômico: Ligação e permuta gênica, Ma-
+peamento cromossômico. Efeito maternal: Herança extracromossômica, Macho -esterilidade. Controle da 
+expressão gênica: Penetrância e expressivid ade, Pleiotropia, Regulação gênica, Diferenciação em organis-
+mos multicelulares, Engenharia genética, Cultura de tecidos. Herança quantitativa: Bases genéticas dos ca-
+racteres quantitativos, Tipos de ação gênica, Análise estatítica da segregação quantitativa . Genética de po-
+pulações: Equilíbrio de Hardy -Weinberg, Fatores evolutivos em genética, Frequências gênicas e genotípicas 
+em populações alógamas e autógamas.  
+BIBLIOGRAFIA BÁSICA  
+ALBERTS, Bruce. Fundamentos da biologia celular. 3. ed. Porto Alegre, RS: Ar tmed, 2011. xx, 843 p.  
+FREITAS, Loreta Brandão de; BERED, Fernanda. Genética & evolução vegetal. Porto Alegre, RS: Ed. da 
+UFRGS, 2003. 463 p.  
+FROTA -PESSOA, Oswaldo. Genética e evolução, biologia no ensino médio. Rio de Janeiro, RJ: Scipione, 
+2001 311p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BORÉM, A.; MIRANDA, G.V. Melhoramento de plantas. 5. ed., rev. e ampl. Viçosa, MG: Ed. UFV, 2005. 
+525 p.  
+BROWN, T.A.; Genética: um enfoque molecular. 3ª ed. Editora: Guanabara Koogan, 2009.  
+CRUZ, Cosme Damião. Princípios de genéti ca quantitativa. Viçosa, MG: Ed. UFV, 2005. 394 p.  
+JUNQUEIRA, Luiz Carlos Uchoa. Biologia celular e molecular. 9. ed. Rio de Janeiro, RJ: Guanabara Ko-
+ogan, 2012. 364 p.  
+NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger. 5ª.ed. Porto A legre, RS: 
+Artmed, 2011. 1273 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Máquinas e Implementos Agrícolas  4º 73,33  
+EMENTA  
+Seleção e uso de máquinas e implementos para preparo do solo, plantio, cultivo, aplicação de defensivos 
+agrícolas, colheita, transporte e beneficiamento de produtos agrícolas. Custo operacional dos conjuntos me-
+canizados. Agricultura de precisão.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ BIBLIOGRAFIA BÁSICA  
+BALASTREIRE, L. A. Máquinas agrícolas, Ed. Manole; São Paulo, 1987.  
+BARGER, E. L.; LILJEDAHL, J. B.; CARLETON, W. M.; McKIBB EN, E. G. Tratores e seus motores; 
+Ed. Edgard Blucher; São Paulo; 1963.  
+BIBLIOGRAFIA COMPLEMENTAR  
+TEIXEIRA, M.M.; RUAS, R.A.A.; GOIS, J. M. Operação e manutenção de pulverizador costal motorizado. 
+LK Editora e comércio de bens editoriais e autorais, Bras ília (DF), 156 p, 2008.  
+MORAES, G. S. Os cuidados com o trator. Viçosa: Aprenda fácil; 2001, 321 p.  
+MORAES, G.S. O preparo do solo: implementos corretos; 3ª ed. São Paulo, Ed. Globo, 1989.  
+COAN, O. Ferramentas para manutenção de máquinas e implementos agrí colas. Funep, 1997. 37 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Entomologia Geral  4º 55 
+EMENTA  
+Caracterização, identificação e diversidade dos insetos. Morfologia externa e interna. Fisiologia. Reprodu-
+ção e desenvolvimento. Ecologia. Taxonomia. Coleta, mon tagem e coleção de insetos.  
+BIBLIOGRAFIA BÁSICA  
+ALMEIDA, Lúcia Massutti; RIBEIRO -COSTA, Cibele S.; MARINONI, Luciane. Manual de coleta, con-
+servação, montagem e identificação de insentos. Ribeirão Preto, SP: Holos, 2003. viii, 78 p.  
+GALLO, D., NAKANO, O. , SILVEIRA -NETO, S., CARVALHO, R., BAPTISTA, G., BERTI FILHO, E., 
+PARRA, J., ZUCCHI, R., ALVES, S., VENDRAMIM, J., MARCHINI, L., LOPES, J., OMOTO, C.2002. 
+Entomologia Agrícola. Fealq. Vol. 10.920 p.  
+BUZZI, Zundir José. Coletânea de termos técnicos de entom ologia. Curitiba: Ed. UFPR, 2003. 221p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ATHIÉ, Ivânia; PAULA, Dalmo Cesar de. Insetos de grãos armazenados aspectos biológicos e identifica-
+ção. 2. ed. Campinas, SP: Varela, 2002. 244 p.  
+BRUSCA, R. C.; BRUSCA, G. J. Invertebrados  2ªed. Guanabara Koogan, 2007.  1098p.  
+PARRA, João Roberto Postali; OLIVEIRA, Heraldo Negri; PINTO, Alexandre de Sene. Guia de campo de 
+pragas e insetos benéficos dos citros. Piracicaba, SP: A. S. Pinto, 200 64 p.  
+SILVEIRA NETO, Sinval. Manual de ecologia dos insetos. São Paulo: Agronômica Ceres, 1976. 419 p.  
+TACLA, Almenor; MORELLO, Maria Cecília Mattos. Como vivem os insetos. São Paulo, SP: Scipione, 
+[19--?]. 55 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Topografia – Altimetria  4º 36,67  
+EMENTA  
+Referências d e nível. Métodos gerais de nivelamentos. Levantamento altimétrico. Representação gráfica do 
+relevo. Sistematização de terrenos. Locação de curvas em nível e com gradiente. Estradas, represas, rego 
+dágua.  
+BIBLIOGRAFIA BÁSICA  
+COMASTRI, J. A. & TULER, J. C. , Topografia; Altimetria. 3ª Ed. Viçosa:UFV, 2005. 200p. ISBN:  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ 978857269 -035-5 
+LIMA, D. V. Topografia um Enfoque Pratico. Rio Verde – Go, 2006.104 p.  
+McCORMAC, J. Tradução Daniel Carneiro da Silva. Topografia. 5a Edição, LTC, Rio de Janeiro, 2007.  
+BIBLIOG RAFIA COMPLEMENTAR  
+ABNT – Associação Brasileira de Normas Técnicas – Execução de Levantamentos Topográficos – NBR 
+13133. Rio de Janeiro – RJ, 1994.  
+Borges, A. de C.; Topografia. São Paulo: Edgard Blucher, v.1.1977. 187p  
+BORGES, A. de C. Topografia Aplicad a a Engenharia Civil. Volume 1. ED. Blucher. 2a Ed. São Paulo – 
+SP, 2010.  
+GODOY, R. Topografia. Piracicaba – SP, 10a Edição, 1988.  
+SILVA, I. da. Curso de Topografia – Detalhes e Instalação de um instrumento Topográfico. EESC – Escola 
+de Engenharia de São C arlos. São Carlos – SP, 2002.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fisiologia Vegetal  4º 82,5 
+EMENTA  
+Fotossíntese. Respiração. Nutrição mineral. Assimilação do Nitrogênio. Relações hídricas. Dinâmica de 
+solutos orgânicos nas plantas. Crescimento e desenvo lvimento. Hormônios e reguladores do crescimento 
+vegetal. Senescência e abscisão. Ecofisiologia e respostas das plantas às condições adversas.  
+BIBLIOGRAFIA BÁSICA  
+FERRI, M.G. Fisiologia Vegetal, Volumes 1  e  2 .  Editora Pedagógica e Universitária Ltda.  São Paulo, SP. 
+362 p., 1985.  
+LEHNINGER, A. L.; NELSON, D. L.; COX, M. M.  Princípios de Bioquímica. 2008, 1100p.  
+TAIZ, L.; ZEIGER, E. Fisiologia Vegetal. 5ª Edição, Editora Artmed, Porto Alegre. 2013, 954p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+LARCHER, W. Ecofisio logia Vegetal. São Carlos: RIMA. 2004. 531p.  
+RAVEN, Peter H. Biologia vegetal. 7. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2007. xxii, 830 p.  
+MARCOS FILHO, Júlio. Fisiologia de sementes de plantas cultivadas. Piracicaba, SP: FEALQ, 2005. 495 
+p. 
+CHITARRA,  Maria Isabel Fernandes; CHITARRA, Adimilison Bosco. Pós -colheita de frutas e hortaliças: 
+fisiologia e manuseio. 2. ed. Lavras, MG: UFLA, 2005. 783 p.  
+APPEZZATO -DA-GLÓRIA, Beatriz; CARMELLO -GUERREIRO, Sandra Maria. Anatomia vegetal. 2. ed. 
+Viçosa, MG: Ed. UFV, 2006. 438 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fertilidade do Solo  4º 73,33  
+EMENTA  
+Introdução à fertilidade do solo; conceitos básicos de fertilidade do solo; leis da fertilidade do solo; dinâmica 
+e disponibilidade dos nutrientes no sistema solo -planta; Coleta de solo, análise química do solo e sua inter-
+pretação; Acidez e calagem; Recomendação de calagem e adubação. Estudo dos macro e micronutrientes; 
+Adubação orgânica; Introdução ao estudo dos fertilizantes; adubação foliar.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ BIBLIOGRAFIA BÁSICA  
+MALAVOLTA, E. Manual de Nutrição Mineral de Plantas. São Paulo. Ed: Agronômica Ceres. 2006, 638p.  
+NOVAIS, R. F. et al. Fertilidade do Solo. Sociedade Brasileira de Ciência do Solo, Viçosa -MG, 2007, 
+1017p.  
+RAIJ, B. V.; ANDRADE, J. C.; CANTARELLA, H.; QUAGGI O, J. A.; Análise Química Para Avaliação 
+da Fertilidade de Solos Tropicais. Campinas, SP.  Instituto Agronômico (IAC). 2001. 284p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MALAVOLTA, E. ABC da adubação. 50 ed. São Paulo. Agronômica Ceres. 1989.  
+MALAVOLTA, E.; PIMENTEL,  F.; ALCARDE, J. C. Adubos e Adubações. São Paulo. Nobel. 2002.  
+QUAGGIO, J. A. Acidez e Calagem em Solos Tropicais. Campinas, SP.  Instituto Agronômico (IAC). 2000. 
+111p.  
+SILVA, F. C. Manual de Análises Químicas de Solos, Plantas e Fertilizantes. 20ed. Bra sília. Embrapa. 2009.  
+SOUSA, D. M. G.; LOBATO, E. Cerrado: Correção do Solo e Adubação. 20 ed. Brasília. Embrapa. 2004.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Agrometeorologia  4º 55 
+EMENTA  
+Estrutura e composição da atmosfera terrestre. Relações astronômicas  de Terra -sol. Radiação solar e terres-
+tre. Temperatura do ar e do solo. Umidade do ar. Evaporação e evapotranspiração. Precipitação atmosférica. 
+Balanço hídrico. Ventos. Mudanças climáticas e adversidades climáticas. Estações metereológicas. Classi-
+ficação climática. Ambientação e manejo de plantas e animais.  
+BIBLIOGRAFIA BÁSICA  
+MENDONÇA, Francisco; DANNI -OLIVEIRA, Inês Moresco. Climatologia: noções básicas e climas do 
+Brasil. São Paulo: Oficina de Textos, 2007. 206 p.  
+GALETI, Paulo Anestar. Conservação do  solo: reflorestamento -clima . 2. ed. Campinas, SP: Instituto Cam-
+pineiro de Ensino Agrícola, 1973. viii, 285 p.  
+TEIXEIRA, Wilson; FAIRCHILD, Thomas Rich; TOLEDO, M. Cristina Motta de; TAIOLI, Fábio. Deci-
+frando a terra. 2. ed. São Paulo: Companhia Editora N acional, 2009. 623 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+VALENTE, Osvaldo Ferreira; GOMES, Marcos Antônio. Conservação de nascentes: hidrologia e manejo 
+de bacias hidrográficas de cabeceiras. Viçosa, MG: Aprenda Fácil, 2005. 210 p.  
+GROTZINGER, John P.; JORDAN, Th omas H. Para entender a Terra. 6. ed. Porto Alegre, RS: Bookman, 
+2013. xxix, 738 p. I  
+MANTOVANI, Evandro Chartuni.; BERNARDO, Salassier; PALARETTI, Luiz Fabiano. Irrigação: prin-
+cípios e métodos . 3. ed. Viçosa, MG: Ed. UFV, 2009. 358 p.  
+POPP, José Henrique . Geologia geral. 6. ed. Rio de Janeiro, RJ: LTC, c2010. 309 p.  
+VIANELLO, R. L.; ALVES, A. R. Meteorologia básica e aplicações. Viçosa: Imprensa Universitária, 1991.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Nutrição Mineral de Plantas  5º 36,67  
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Nutrient es minerais essenciais. Composição mineral das plantas. Cultivo de plantas em solução nutritiva. 
+Absorção e transporte de nutrientes. Diagnose do estado nutricional das plantas. Nutrição foliar. Nutrição e 
+qualidade de produtos agrícolas. Relações entre nu trição mineral, fertilidade do solo e adubação.  
+BIBLIOGRAFIA BÁSICA  
+MALAVOLTA, E. Manual de nutrição mineral de plantas . São Paulo: Ed. Agronômica Ceres, 2006. 
+638p.  
+RAIJ, B.V.  Análise química para avaliação da fertilidade de solos tropicais . Campinas, S P: Instituto 
+Agronômico, 2001. 284 p.  
+SILVA, F. C. Manual de Análises Químicas de Solos, Plantas e Fertilizantes . 20ed. Brasilia. Embrapa. 
+2009. 627p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MALAVOLTA, E.; PIMENTEL, F.; ALCARDE, J. C. Adubos e Adubações . São Paulo. No bel. 2002.  
+MALAVOLTA, E.  ABC da adubação . 5. ed. São Paulo: Agronômica Ceres, 1989. 292 p., [12]p. de estam-
+pas (Edições Ceres; 2).  
+KERBAUY, G.B.  Fisiologia vegetal . 2. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2008. xx, 431 p.  
+TAIZ, L.; ZEIGER, E.  Fisiol ogia vegetal . 5. ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 p.  
+VILELA, H.  Pastagem:  seleção de plantas forrageiras, implantação e adubação . Viçosa, MG: Aprenda 
+Fácil, 2005. 283 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Hidráulica  5º 55 
+EMENTA  
+Estudo dos  principais conceitos e unidades de pressão e vazão; Propriedade dos Fluidos; Hidrostática; Hi-
+drodinâmica, Conceitos básicos ao escoamento em condutos; escoamento em condutos forçados (principais 
+equações, tipos sistemas de condutos, golpe de aríete, dispo sitivos de segurança); escoamento em condutos 
+livres (dimensionamento de seções usuais em movimento uniforme, rugosidade e seção composta); sistemas 
+de recalque (tipos de bombas, seleção, associação, manutenção);Barragens; Hidráulica Aplicada a Irrigação 
+e Principais métodos e dimensionamento.  
+BIBLIOGRAFIA BÁSICA  
+AZEVEDO NETO, J. M. de. Manual de Hidráulica. 8 ed. Blucher, São Paulo -SP, 1998. 669 p.  
+BAPTISTA, M.; LARA, M. Fundamentos de Engenharia Hidráulica. 3a Ed., UFMG, 2010.  
+DELMÉE, G. J. Manual de Me dição de Vazão. 3 ed. Ed Edgard Blucher LTDA. São Paulo – SP, 2003, 346 
+p. 
+BIBLIOGRAFIA COMPLEMENTAR  
+BERNADO. S. Manual de Irrigação . UFV. Viçosa – MG, 1995, 657 p.  
+MONTOVANI, E. C.; BERNARDO, S.; PALARETTI, L. F. Irrigação princípios e métodos . 2 ed, Ed  
+UFV, Viçosa – MG, 2007. 358 p.  
+MANTOVANI, E.C.; BERNARDO, S.; PALARETTI, L.F.  Irrigação:  princípios e métodos  . 3. ed. Vi-
+çosa, MG: Ed. UFV, 2009. 358 p.  
+FRIZZONE, J.A.; ANDRADE JUNIOR, A.S . Planejamento de irrigação: análise de decisão de investi-
+mento , Brasilia: Embrapa Informação Tecnológica, 2005. 626p.  
+LOPES, J.D.S.; LIMA, F. Z. de. Pequenas Barragens de Terra – Planejamento, Dimensionamento e  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ Construção . Ed. Aprenda Facil. Viçosa – MG, 2005. 274 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fitopatologia I  5º 55 
+EMENTA  
+Histórico, conceitos, importância e sintomatologia de doenças de plantas. Etiologia. Doenças de causas não 
+parasitárias. Micologia e fungos patogênicos. Epidemiologia. Princípios gerais e práticas de controle de 
+doenças de plantas. Fungicidas.  
+BIBLIOGRAFIA BÁSICA  
+BERGAMIN FILHO, Armando; KIMATI, H.; AMORIM, Lilian. Manual de fitopatologia: princípios e 
+conceitos. 3. ed. São Paulo: Agronômica Ceres, 1995. 919 p.  
+KIMATI, H.; AMORIM, L.; RESENDE, J.A.M. BERGAMIN FILHO, A.; CAMARGO, L.E.A. Manual  de 
+Fitopatologia. Vol. 2. Doenças das plantas cultivadas. 4. ed. São Paulo. Ceres, 2005. 663p.  
+SOUZA, Paulo Estevão de; DUTRA, Marcos Roberto. Fungicidas no controle e manejo de doenças de 
+plantas. Lavras, MG: Ed. UFLA, 2003. iv, 165 p.  
+BIBLIOGRAFIA COMP LEMENTAR  
+BETTIOL, Wagner; TRATCH, Renato; GALVÃO, José A. H. Controle de doenças de plantas com biofer-
+tilizantes. Jaguariúna, SP: Embrapa, 1998. 22p.  
+MACHADO, José da Cruz. Patologia de sementes: fundamentos e aplicações. Brasília, DF: Ministério da 
+Educa ção, 1988. 106 p.  
+MEDEIROS, Ênio Carneiro de; GODINHO, Francisco de Paula; FREITAS, Gilberto Bernardo de; VIEIRA, 
+Jackson A. Gomes; BUENO, Oswaldo Francisco; SOUTO, Rosilene Ferreira. Controle de pragas e doenças. 
+Brasília, DF: Senar, 1999. 76 p.  
+REIS, Erl ei Melo (Coord). Previsão de doenças de plantas. Passo Fundo, RS: Ed. Universidade de Passo 
+Fundo, 2004. 316 p  
+STADNIK, Marciel João; RIVERA, Marta C. Oídios. Jaguariúna, SP: Embrapa Meio Ambiente, 2001. 
+vii,484p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Entomo logia Agrícola  5º 55 
+EMENTA  
+Importância do manejo de insetos -praga, Métodos de controle, Manejo integrado de pragas (MIP), Toxico-
+logia de inseticidas e modo de ação, Mecâncismos de resistência, Manejo da resistência, Métodos alternati-
+vos de controle, Int eração inseto -planta, Sistemática dos principais grupos, Introdução ao receituário 
+agronômico. MIP grandes culturas (soja, milho, cana, café, algodão, feijão), MIP olerícolas (tomate, batata, 
+cucurbitáceas, pimenta e pimentão), MIP das fruteiras (citrus, m aracujá, banana, goiaba), MIP das plantas 
+ornamentais e pragas de grãos armazenados.  
+BIBLIOGRAFIA BÁSICA  
+GALLO, D., NAKANO, O., SILVEIRA -NETO, S., CARVALHO, R., BAPTISTA, G., BERTI FILHO, E., 
+PARRA, J., ZUCCHI, R., ALVES, S., VENDRAMIM, J., MARCHINI, L.,  LOPES, J., OMOTO, C.2002. 
+Entomologia Agrícola . Fealq. Vol. 10.920 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ ATHIÉ, Ivânia; PAULA, Dalmo Cesar de. Insetos de grãos armazenados aspectos biológicos e identifica-
+ção. 2. ed. Campinas, SP: Varela, 2002. 244 p.  
+PARRA, João Roberto Postali; OLIVEIRA, Heraldo Negri; PINTO, Alexandre de Sene. Guia de campo de 
+pragas e insetos benéficos dos citros. Piracicaba, SP: A. S. Pinto, 200 64 p.  
+ 
+BIBLIOGRAFIA COMPLEMENTAR  
+ALMEIDA, Lúcia Massutti; RIBEIRO -COSTA, Cibele S.; MARINONI, Luciane. Manual de coleta, con-
+servação, montagem e identificação de insentos. Ribeirão Preto, SP: Holos, 2003. viii, 78 p.  
+PARRA, José Roberto Postali (Ed.). Trichogramma e o controle biológico aplicado. São Paulo: 324 p.  
+OLIVEIRA -FILHO, E., MONNERAT, R. 2006. Fundamentos para a regula ção de semioquímicos, inimigos 
+naturais e agentes microbiológicos de controle de pragas. 351 p.  
+PINTO, Alexandre de Sene; NAVA, Dori Edson; ROSSI, Marta Maria; MALERBO -SOUZA, Darclet Te-
+resinha (Coord). Controle biológico de pragas na prática. Piracicaba, S P: CP 2, 2006. 287 p.  
+ZAMBOLIM, L., LOPES, C., PICANÇO, M., COSTA, H. 2007. Manejo integrado de doenças e pragas de 
+hortaliças. Editora UFV. 627 P.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Anatomia e Fisiologia Animal  5º 36,67  
+EMENTA  
+Classificação e caracteri zação dos tecidos animais. Aspectos anatômicos e fisiológicos dos sistemas: esque-
+lético, muscular, articular, nervoso, circulatório, respiratório, digestivo, excretor, endócrino e reprodutor.  
+BIBLIOGRAFIA BÁSICA  
+CUNNINGHAM, J.G. Tratado de Fisiologia Vet erinária. 4a. ed. Rio de Janeiro: Guanabara Koogan, 2008.  
+DYCE; SACK; WENSING, KM; WO; CJG. Tratado de Anatomia Veterinária. 2a. ed. Rio de Janeiro: Gua-
+nabara Koogan, 2010.  
+FRANDSON, R.D., WILKE, W.L. e FAILS, A.D. Anatomia e Fisiologia dos Animais de Faz enda. 6ª. ed. 
+Rio de Janeiro: Guanabara Koogan, 2005.  
+BIBLIOGRAFIA COMPLEMENTAR  
+GETTY, R. , SISSON.S en GROSSMAN, J.D.   Anatomia dos Animais Domésticos. 5ª. Ed. Rio de Janeiro: 
+Guanabara -Koogan, 1986.  
+KONIG, H. E.; LIEBICH, H. Anatomia dos Animais Domés ticos. - Textos e Atlas Colorido - 4ª  ed. Porto 
+Alegre: Artmed, 2011.  
+NEVES et al. Anatomia Veterinária: Princípios Gerais em Anatomia Animal. Série cadernos didáticos, 76. 
+Viçosa: UFV, 2000.  
+REECE, W. O. Dukes. Fisiologia dos animais domésticos. 12º.ed. Rio de Janeiro: Guanabara Koogan, 2006.  
+TORTORA,  G.  J.;  DERRICKSON, B.  Princípios de Anatomia e Fisiologia - 12ª ed. Guanabara Koogan,  
+2010.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Melhoramento de Plantas  5º 55 
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ Evolução, centro de origem e divers idade das plantas. Sistemas de reprodução. Métodos de controle de 
+polinização. Estrutura genética das populações. Endogamia e heterose. Bases genéticas e métodos de me-
+lhoramento de plantas autógamas, alógamas e de reprodução assexuada. Melhoramento de plan tas visando 
+resistência à doenças, pragas e adaptação a ambientes adversos. Biotecnologia aplicada ao melhoramento 
+de plantas.  
+BIBLIOGRAFIA BÁSICA  
+BORÉM, A.; MIRANDA, G.V.  Melhoramento de plantas.  5. ed., rev. e ampl. Viçosa, MG: Ed. UFV, 2005. 
+525 p.  
+BORÉM, A. (ed.) Melhoramento de espécies cultivadas. Viçosa: Editora UFV, 2005. 969 p.  
+FREITAS, Loreta Brandão de; FREITAS, Loreta Brandão de; BERED, Fernanda. Genética & evolução 
+vegetal. Porto Alegre, RS: Ed. da UFRGS, 2003. 463 p.  
+BIBLIOGRAFIA COMPLEMENT AR 
+ALBERTS, Bruce. Fundamentos da biologia celular. 3. ed. Porto Alegre, RS: Artmed, 2011. xx, 843 p.  
+BROWN, T. A. Genética: um enfoque molecular. 4. ed. Rio de Janeiro: Editora Guanabara Koogan, 2009.  
+CRUZ, Cosme Damião. Princípios de genética quantitat iva. Viçosa, MG: Ed. UFV, 2005. 394 p.  
+FALEIRO, F. G., BRAGA, M. F. & JUNQUEIRA, N. T. V. Maracujá: germoplasma e melhoramento ge-
+nético. Brasília: Embrapa Cerrados, 2005. 677 p.  
+PATERNIANI, Ernesto; VIÉGAS, Glauco Pinto. Melhoramento e produção do milho. C ampinas, SP: Fun-
+dação Cargill, 1987. 409 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Manejo e Conservação do Solo e da Água  5º 55 
+EMENTA  
+Erosão. Práticas de conservação do solo e da água. Planejamento conservacionista. Capacidade de uso e 
+aptidão agrícola das  terras. Qualidade do solo e da água. Bacia hidrográfica como unidade de planejamento 
+e manejo. Legislação.  
+BIBLIOGRAFIA BÁSICA  
+BERTONI, J.; LOMBARDI NETO, F. Conservação do solo . São Paulo, 7ª. edição. Icone, 2010. 355p.  
+LEPSCH, Igo F. Formação e conse rvação dos solos . 2. ed. São Paulo: Oficina de textos, 2010. 216 p.  
+PRUSKI, F. F. Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica . 2ª 
+ed. Viçosa: Ed. UFV. 2009. 279p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BAIRD, C.  Química ambiental . 4. ed. Porto Alegre, RS: Bookman, 2011. 844 p.  
+PRIMAVESI, Ana. Manejo ecológico do solo: a agricultura em regiões tropicais. São Paulo: Nobel, c1979. 
+549 p.  
+SOUSA, Djalma Martinhão Gomes de (Coord). Cerrado: correção do solo e adubação. 2. ed. Brasília, DF: 
+EMBRAPA Informação Tecnológica, 416 p.  
+SCHNEIDER, P.; GIASSON, E.; KLAMT, E. Classificação da aptidão agrícola das terras: um sistema 
+alternativo . Agrolivros, 2007. 72p  
+VIEIRA, Lúcio Salgado. Manual da ciência do solo: com ênfase aos solos tropicais. 2 . ed. São Paulo: Agro-
+nômica Ceres, 1988. 464 p.  
+  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Geoprocessamento  5º 55 
+EMENTA  
+Conceitos e fundamentos. Sistemas de posicionamento global (navegação e geodésico). Levantamento por 
+coordenadas geográficas utilizando esta ções totais. Utilização de imagens de satélites. Aplicação de imagens 
+de satélites em softwares de geoprocessamento. Softwares mapsource, gnss solutions e data geosis, nos 
+levantamentos utilizando coordenadas geográficas e no tratamento de imagens de satél ites. Sistema de in-
+formação geográfica (SIG) e georreferenciamento.  
+BIBLIOGRAFIA BÁSICA  
+KALINOWSKI, S. R. Utilização do GPS em trilhas e cálculos de áreas . Ed LK. Brasília – DF. 2006. 190 
+p. 
+GOMES, E.; PESSOA, L. M. da C.; SILVA JUNIOR, L. B. da. GPS – Medindo imóveis rurais com GPS . 
+Ed LK. Brasília – DF. 2001. 139 p.  
+SILVA, A.B.  Sistemas de informações geo -referenciadas:  conceitos e fundamentos . Campinas, SP: Uni-
+camp, 2003. 236 p. (Coleção Livro -Texto).  
+BIBLIOGRAFIA COMPLEMENTAR  
+SILVA, A. de B. Sistema  de informação georreferenciadas. Ed. UNICAMP, São Paulo – SP. 2003. 236 p.  
+ALEZI TEODOLINI – Equipe de suporte técnico. Manual de operação estação total RTS – 820 R3. 196 p.  
+BORGES, P. A. F. Tutorial data geosis office. Alezi Teodolini. 2011. 279 p.  
+THALE S. ProMark 3 – Manual de referencia. Traduzido e adaptado pela equipe técnica Alezi Teodolini. 
+Garmin. Manual do proprietário – Serie Etrex HC. Garmin. 2007.  
+NOVO, E.M.L.M. (2008). Sensoriamento Remoto: Princípios e Aplicações. 3ª ed. São Paulo, Editora Ed-
+gard Blücher, 388p  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fitopatologia II  6º 55 
+EMENTA  
+Vírus e viroses de plantas. Micoplasmas. Bactérias fitopatogênicas. Nematóides fitopatogênicos. Variabili-
+dade em fitopatógenos. Resistência de plantas à doenças. Interaç ão planta patógeno. Controle integrado de 
+doenças de plantas.  
+BIBLIOGRAFIA BÁSICA  
+BERGAMIN FILHO, Armando; KIMATI, H.; AMORIM, Lilian. Manual de fitopatologia: princípios e 
+conceitos. 3. ed. São Paulo: Agronômica Ceres, 1995. 919 p. V 1.  
+BERGAMIN FILHO, Armando; KIMATI, H.; AMORIM, Lilian. Manual de fitopatologia: princípios e 
+conceitos. 4. ed. São Paulo: Agronômica Ceres, 2005. V 2.  
+ROMEIRO, Reginaldo da Silva. Bactérias fitopatogênicas. 2. ed. Viçosa, MG: UFV, 2005. 417 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ALFENAS, Acelino Couto. Clonagem e doenças do eucalipto. Viçosa, MG: Ed. UFV, 2004. 500 p.  
+LOPES, Carlos Alberto; QUEZADO -SOARES, Alice Maria. Doenças bacterianas das hortaliças. Brasília, 
+DF: EMBRAPA, 1997. 70 p.  
+ROMEIRO, Reginaldo da Silva. Métodos em bact eriologia de plantas. Viçosa, MG: Ed. UFV, 2001. 279 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ SOUZA, Paulo Estevão de; DUTRA, Marcos Roberto. Fungicidas no controle e manejo de doenças de 
+plantas. Lavras, MG: Ed. UFLA, 2003. iv, 165 p.  
+ZAMBOLIM, Laércio; PICANÇO, Marcelo Coutinho; COSTA, Hélci o (Edit.). Manejo integrado de doen-
+ças e pragas: hortaliças . Viçosa, MG: Universidade Federal de Viçosa, 2007. 627 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Irrigação e Drenagem  6º 55 
+EMENTA  
+Água no solo. Relações água solo planta atmosfera. Métodos de irr igação: superfície, aspersão e localizada. 
+Drenagem para fins agrícolas. Manejo da irrigação.  
+BIBLIOGRAFIA BÁSICA  
+MONTOVANI, E. C.; BERNARDO, S.; PALARETTI, L. F. Irrigação princípios e métodos. 2 ed, Ed UFV, 
+Viçosa – MG, 2007. 358 p.  
+BERNADO. S. Manual de Irrigação. UFV. Viçosa – MG, 1995, 657 p.  
+FRIZZONE, J. A.; ANDRADE JÚNIOR, A. S. de. Planejamento de Irrigação – Análise de decisão de in-
+vestimento. EMBRAPA Informação Tecnológica. Brasília – DF, 2005. 626 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+AZEVEDO NETO, J.  M. de. Manual de Hidraúlica. 8 ed. Blucher, São Paulo -SP, 1998. 669 p.  
+BAPTISTA, M.; LARA, M. Fundament os de Engenharia Hidráulica. 3 ed. Ed., UFMG, 2010. 473 p.  
+DELMÉE, G. J. Manual de Medição de Vazão. 3 ed. Ed Edgard Blucher LTDA. São Paulo – SP, 2003, 346 
+p. 
+LOPES, J.D.S.; LIMA, F. Z. de. Pequenas Barragens de Terra – Planejamento, Dimensionamento e Cons-
+trução. Ed. Aprenda Facil. Viçosa – MG, 2005. 274 p.  
+PORTO, R. de M. Hidráulica Básica. 4 ed. EESC -USP, São Carlos – SP, 2006. 540 p.  
+ 
+DISCIPLINA  PERÍO DO CARGA HORÁ-
+RIA 
+Plantas Daninhas  6º 55 
+EMENTA  
+Plantas daninhas: biologia e ecologia, origem e evolução, espécies de importância econômica e ambiental. 
+Métodos de controle: tipos, integração, limitações e análise sócio -econômica e ambiental. Caracteriza ção e 
+recomendação de produtos fitossanitários. Relação entre o controle fitossanitário e a qualidade de alimentos. 
+Tecnologia de aplicação.  
+BIBLIOGRAFIA BÁSICA  
+ANDREI, E. Compêndio de defensivos agrícolas: guia prático de produtos fitossanitários para u so agrícola. 
+8. ed. São Paulo: Organização Andrei Ed, 2009. 1378 p.  
+LARCHER, Walter.  Ecofisiologia Vegetal.  São Carlos, SP: RiMa, 2000. 531 p.   
+LORENZI, H. Manual de Identificação e Controle de Plantas Daninhas . 6ª Ed. 2006. Plantarum. 362p.
+  
+BIBLIOGRAFIA  COMPLEMENTAR  
+APPEZZATO -DA-GLÓRIA, B.; CARMELLO -GUERREIRO, S.M. Anatomia vegetal. 2. ed. Viçosa, MG: 
+Ed. UFV, 2006. 438 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ LORENZI, H. Manual de Identificação e Controle de Plantas Daninhas. 6ª Ed. 2006. Plantarum. 362p.  
+FERRI, M.G. Botânica: morfologia e xterna das plantas : organografia. São Paulo: Nobel, 1981. 148 p.  
+FERREIRA, A.G.; BORGHETTI, F. Germinação: do básico ao aplicado. Porto Alegre, RS: Artmed, 2004. 
+323p.  
+KISSMANN, Kurt Gottifried. Plantas infestantes e nocivas. 2. ed. São Paulo: BASF, 1999.  V. 3.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Zootecnia Geral  6º 36,67  
+EMENTA  
+Origem e evolução da zootecnia. Importância social e econômica. Processo de domesticação e domestici-
+dade. Fundamentos de melhoramento animal e ezoognósia, anatomia e fisiologia, a limentação e nutrição, 
+bioclimatologia, forragicultura, etologia e sanidade animal.  
+BIBLIOGRAFIA BÁSICA  
+BAÊTA, F. C.; SOUZA, C.F. Ambiência em Edificações Rurais – Conforto Animal. Viçosa: UFV, 1997. 
+246p.  
+FRANDSON, R. D.; WILKE, W. L.; FAILS, A. D. et a l. Anatomia e Fisiologia dos Animais da Fazenda. 
+6ª ed. Guanabara Koogan, 2005.  
+KONIG, H. E.; LIEBI, H. Anatomia dos Animais Domésticos. Porto Alegre: Artmed, 2002.  
+BIBLIOGRAFIA COMPLEMENTAR  
+DYCE, K. M; SACK, W. O.; WENSING, C. J. G. Tratado de anatomia  veterinária. 3. ed. Rio de Janeiro:  
+Elsevier, 2004. 663 p.  
+JARDIM, W. R. Curso de bovinocultura. 3. ed. Campinas: Instituto Campineiro de Ensino Agrícola, 1973. 
+525 p.  
+BARRETO, G. B. Curso de Suinocultura: Noções de Saneamento. Campinas: ICEA. 1984.  
+SENA R. Criador de gado de corte. 3ª. ed. Brasília: Senar, 1982.  
+SILVA, R. D. M. S. Sistema Caipira de Criação de Galinhas. 2. ed. Viçosa: Editora Aprenda Fácil, 2010. 
+203 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Propagação de Plantas  6º 36,67  
+EMENTA  
+Fundamento s sobre propagação de plantas. Propagação vegetativa natural e artificial. Organização e manejo 
+de viveiros. Métodos de propagação de espécies cultivadas. Propagação de plantas in vitro.  
+BIBLIOGRAFIA BÁSICA  
+GOMES, José Mauro; PAIVA, Haroldo Nogueira de. Viveiros florestais: (propagação sexuada). Viçosa, 
+MG: Ed. UFV, 2011. 116 p.  
+HILL, Lewis. Segredos da propagação de plantas/ cultive suas próprias flores, legumes, frutas, sementes, 
+arbustos, árvores e plantas de in terior. São Paulo: Nobel, 1996.  
+INSTITUTO  CENTRO DE ENSINO TECNOLÓGICO. Produtor de mudas. 2. ed. Fortaleza: Ministério da 
+Ciência e Tecnologia, 2004. 48 p.  
+BIBLIOGRAFIA COMPLEMENTAR   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ALFENAS, Acelino Couto. Clonagem e doenças do eucalipto. Viçosa, MG: Ed. UFV, 2004. 500 p.  
+FERREIRA, Alfredo Gui ; BORGHETTI, Fabian. Germinação: do básico ao aplicado . Porto Alegre, RS: 
+Artmed, 2004. 323p.  
+OLIVEIRA, Odilson dos Santos. Tecnologia de sementes florestais: espécies nativas . Curitiba: UFPR, 
+2012. 403 p.  
+SANTOS, Eduardo Elias Silva dos. Treinamento de  jardineiro. Viçosa, MG: CPT, 2008. 358 p.  
+FACHINELLO, J.C.; HOFFMANN, A.; NACHTIGAL, J.C. Propagação de Plantas Frutíferas. Embrapa. 
+2005. 221 p.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Produção e Tecnologia de Sementes  6º 55 
+EMENTA  
+Importância. Formação e  desenvolvimento. Fisiologia das sementes: maturação, germinação, dormência, 
+deterioração e vigor das sementes. Sistema de produção, colheita, secagem, beneficiamento e armazena-
+mento. Comercialização. Legislação.  
+BIBLIOGRAFIA BÁSICA  
+MARCOS FILHO, Júlio. Fisiologia de sementes de plantas cultivadas. Piracicaba, SP: FEALQ, 2005. 495 
+p. 
+MORIM, Marli Pires; PEIXOTO, Ariane Luna; ICHASO, Carmem Lucia. Frutos e sementes: morfologia 
+aplicada a sistemática de dicotiledoneas. Viçosa, MG: UFV, c1999. 2004 443 p.  
+FERREIRA, Alfredo Gui; BORGHETTI, Fabian. Germinação: do básico ao aplicado . Porto Alegre, RS: 
+Artmed, 2004. 323p.  
+ 
+BIBLIOGRAFIA COMPLEMENTAR  
+BEWLEY, J. D.  et al.  Seeds:  physiology of development, germination and dormancy.  3. ed. New York , 
+NY: Springer. 2 013. xiii, 392 p.  
+OLIVEIRA, O. S.  Tecnologia de sementes florestais: espécies nativas . Curitiba: UFPR, 2012. 403 p.  
+RAVEN, P. H. Biologia vegetal. 7. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2007. xxii, 830 p.  
+TAIZ, L.; ZEIGER, E. . Fisiologia vegetal. 5 . ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 p.  
+KERBAUY, G.  B. Fisiologia vegetal. 2. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2008. xx, 431 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Construções e Instalações Rurais  6º 55 
+EMENTA  
+Resistência dos materi ais e dimensionamento de estruturas simples. Materiais e técnicas de construção. Pla-
+nejamento e projetos de instalações agrícolas e zootécnicas. Instalações elétricas e hidráulico -sanitárias. 
+Memorial descritivo, orçamento e cronograma físico financeiro.  
+BIBLIOGRAFIA BÁSICA  
+PEREIRA, M. F. Construções rurais; Ed. Nobel; São Paulo – SP; 1986. 493 p.  
+BAÊTA, F. C.; SOUZA, C. F. Ambiência em edificações rurais - Conforto animal. 2ª Ed. Viçosa: UFV. 
+2010. 269p.  
+FABICHAK, I. Pequenas construções rurais; Ed. Nobe l; São Paulo; 1983.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA COMPLEMENTAR  
+PEIXOTO, R. C.; LOPES, J. D. S. . Construção de cercas na fazenda. Viçosa, MG: CPT, 2000. 74 p. 2X 
+CARNEIRO, O. . Construções Rurais. 8. ed. São Paulo: Nobel, 1984. 720 p.  
+Guia de construções rurais/ à base de cimento. São Paulo: ABCP, [200?] V. 1.  
+Guia de construções rurais/ à base de cimento. São Paulo: ABCP, [200?] V. 2.  
+Guia de construções rurais/ à base de cimento. São Paulo: ABCP, [200?] V. 3.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Culturas I (Milho, Arroz, T rigo e Sorgo)  6º 73,3 
+EMENTA  
+Histórico e importância. Botânica e fisiologia. Condições edafoclimáticas. Cultivares. Semeadura. Nutrição 
+e adubação. Plantas daninhas e seu controle. Consorciamento e rotação. Irrigação e quimigação. Manejo 
+integrado de pra gas e doenças. Colheita e secagem. Beneficiamento e armazenamento. Curiosidades gerais 
+(ex., comércio, plantio direto, etc).  
+BIBLIOGRAFIA BÁSICA  
+ALCANTARA, P. B.; BUFARAH, G . Plantas forrageiras: gramíneas  e leguminosas. São Paulo: Liv. Nobel, 
+1999. 162 p. 
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de arroz. 2. ed. Fortaleza: Edições De-
+mócrito Rocha, 2004. 56 p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de milho. 2. ed. Fortaleza: Edições De-
+mócrito Rocha, 2004. 56 p.  
+BIBLIOGRAFIA COMPLEMENTA R 
+BOREM, A. MELHORAMENTO de espécies cultivadas. 2. ed. Viçosa, MG: UFV, 2005. 969 p.  
+RESENDE, M.; RESENDE, M.; ALBUQUERQUE, P. E. P.; COUTO, L.  A cultura do milho irrigado. 
+Brasília, DF: Embrapa, 2003. 317 p.  
+GALVÃO, J. C. C. Tecnologias de produção do m ilho. Viçosa, MG: UFV, 2004. 366 p.  
+SILVA, D. B.; GUERRA, A. F.; REIN, T. A.; ANJOS, J. R.; ALVES, R. T.; RODRIGUES, G. C.; SILVA, 
+I.A.C. Trigo para o abastecimento familiar, do plantio à mesa. Brasília: Embrapa - SPI; Planaltina: Embrapa 
+- CPAC, 1996.  
+PAU LA JÚNIOR, T. J. de; VENZON, M. EMPRESA DE PESQUISA AGROPECUÁRIA DE MINAS 
+GERAIS. 101 culturas: manual de tecnologias agrícolas. Belo Horizonte: EPAMIG, 2007. 800 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Forragicultura e Pastagens  7º 55 
+EMENTA  
+Forragicultu ra: morfofisiológica e taxonomia das plantas forrageiras. Características agronômicas das prin-
+cipais espécies forrageiras. Implantação de pastagens. Renovação e recuperação de pasto. Manejo das pas-
+tagens. Métodos de Pastejo. Conservação de forragens. Integ ração lavoura e pecuária. Produção de matéria 
+seca. Morfogênese.  
+BIBLIOGRAFIA BÁSICA  
+ALCANTARA, P. B.; BUFARAH, G. Plantas forrageiras: gramíneas  e leguminosas. São Paulo: Liv. Nobel,  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ 1999. 162 p.  
+SILVA, S.C. JÚNIOR, D. N. EUCLIDES, V.B.P. Pastagens: Con ceitos básicos, produção e manejo. Viçosa: 
+Suprema, 2008.  
+VILELA, H. Pastagem: seleção de plantas forrageiras,  implantação e adubação. Aprenda  Fácil, 2005.  283p  
+BIBLIOGRAFIA COMPLEMENTAR  
+PIRES, W. Manual de pastagem: formação, manejo e recuperação Viço sa, MG:  Aprenda Fácil, 2006. 302p.  
+TIBAU, A. O. Pecuária intensiva : com uma introdução sobre forrageiras e pastos. 7. Ed. São Paulo:  Liv. 
+Nobel, 1980. 210p.  
+FONSECA, Dilermando Miranda da; MARTUSCELLO, Janaina Azevedo. Plantas forrageiras. Viçosa, 
+MG: Ed. UFV, 2010. 537 p.  
+DERESZ, F . Bases práticas para produção de leite a pasto. 2. ed. Viçosa, MG: EDUFU; 2008. 210 p.  
+TAIZ, L.; ZEIGER, E. . Fisiologia vegetal. 5. ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Olericultu ra 7º 73,33  
+EMENTA  
+Importância. Botânica. Interações fisiológicas. Sistemas de produção. Cultivares. Propagação. Solos, nutri-
+ção e adubação. Manejo. Colheita, classificação e embalagem. Fisiologia pós -colheita e armazenamento. 
+Comercialização.  
+BIBLIOGRA FIA BÁSICA  
+FILGUEIRA F.A.R. Novo Manual de Olericul tura. Editora UFV. 2007. 421p.  
+CHITARRA, M. I. F.; CHITARRA, A. B. Pós-colheita de frutas e hortaliças: fisiologia e manuseio. 2. ed. 
+Lavras, MG: UFLA, 2005. 783 p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO . Produtor de hortaliças. 2. ed. Fortaleza: Edições 
+Demócrito Rocha, CENTEC, 2004. 88 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ARAÚJO, J.A.C. de. Cultivo hidropônico do tomateiro. Brasília, DF: Senar, 1999. 112 p.  
+GIORDANO, Leonardo de Britto; SILVA, Joao Bosco Carv alho da. Tomate para processamento industrial. 
+Brasília, DF: EMBRAPA, 2000. 168 p.  
+LOVATEL, J. L.; COSTANZI, A. R.; CAPELLI, R.  Processamento de frutas & hortaliças. Caxias do S ul, 
+RS: Educs, 2004. 189 p.  
+MURAYAMA, S.. Horticultura. 2. ed. Campinas, SP: In stituto Campineiro de Ensino Agricola, 1973. 321 
+p. 
+SOUZA J.L. & RESENDE P. Manual de Horticultura Orgânica. Editora Aprenda Fácil. 2006. 843p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Biotecnologia  7º 36,67  
+EMENTA  
+Conceitos e técnicas de biotecnologia de pl antas. Perspectivas do uso comercial da biotecnologia na agri-
+cultura. Estudos de casos com micropropagação, plantas transgênicas e genética molecular.  
+BIBLIOGRAFIA BÁSICA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ FIGUEIREDO, M. V. B. et al. Biotecnologia aplicada à agricultura. Brasília: Embrapa , 2010. 761 p.  
+CALVO, E. S. Biotecnologia e o melhoramento genético de plantas. Londrina: EMBRAPA -CNPSO, 1998. 
+19 p.  
+JUNGHANS, T. G., SOUZA, A. S. (eds.) Aspectos Práticos da micropropagação de plantas. Cruz das Al-
+mas: Embrapa Mandioca e Fruticultura, 2009 . 385 p.   
+BIBLIOGRAFIA COMPLEMENTAR  
+BROWN, T. A. Genética: um enfoque molecular. 4. ed. Rio de Janeiro: Editora Guanabara Koogan, 2009.  
+BORÉM, A. & MIRANDA, G. V. Melhoramento de Plantas. 5. Ed. Viçosa: UFV, 2009. 525 p.  
+CARNEIRO, J. JUNQUEIRA, L.C.; Bio logia Celular e Molecular. 8. ed. Rio de Janeiro: Guanabara Koo-
+gan, 2005. 352p.  
+FALEIRO, F. G. Marcadores genético -moleculares aplicados a programas de conservação e uso de recursos 
+genéticos. Planaltina, DF: Embrapa Cerrados, 2007. 102 p.  
+MANTELL, S.H.; M ATTHEWS, J.A.; MCKEE, R.A. Princípios de biotecnologia em plantas: uma intro-
+dução à engenharia genética em plantas. Sociedade Brasileira de Genética, Ribeirão Preto, 1994. 344 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Silvicultura  7º 55 
+EMENTA  
+Ecologia de e cossistemas florestais. Noções de auto -ecologia. Classificação ecológica para reflorestamento. 
+Escolha de espécies para plantio e principais usos. Sementes florestais. Planejamento de viveiros e produção 
+de mudas. Implantação de florestas. Nutrição florest al. Agrossilvicultura. Brotações. Fomento florestal.  
+BIBLIOGRAFIA BÁSICA  
+GALVÃO, A.P.M. Reflorestamento de propriedades rurais para fins produtivos e ambientais. Brasília: Em-
+brapa Comunicação para Transferência de Tecnologia. Colombo: Embrapa Florestas. 2000.  
+LORENZI, H .. Árvores brasileiras: manual de identificação de cultivo de plantas arbóreas nativas do Brasil, 
+vol. 2. 3. ed. Nova Odessa, SP: Instituto Plantarum de Estudos da Flora, 2009. 384 p.  
+LORENZI, H. . ÁRVORES exóticas no Brasil: madeireiras, or namentais e aromáticas. Nova Odessa, SP: 
+Instituto Plantarium de Estudos da Flora, 2003. 367 p.   
+BIBLIOGRAFIA COMPLEMENTAR  
+ALFENAS, A. C.; ZAUZA, E. A. V.; MAFIA, R. G.; ASSIS, T. F. Clonagem e Doenças do Eucalipto. 
+Editora UFV, 2004, 442p.  
+CARVALHO, Ma rgarida Mesquita. Sistemas silvipastoris: consorcio de árvores e pastagens. Viçosa, MG: 
+2002. 246 p.  
+CARVALHO, Paulo Ernani Ramalho. Espécies arbóreas brasileiras. Colombo, PR: Embrapa florestas, 
+2003. V. 2.  
+GOMES, J. M.; PAIVA, H. N. Viveiros Florestais – Propagação Sexuada. 1º ed. Editora UFV. 2011, 116p.  
+OLIVEIRA, Odilson dos Santos. Tecnologia de sement es florestais: espécies nativas . Curitiba: UFPR, 2012. 
+403 p.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Agroecologia  7º 36,67   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ EMENTA  
+Estruturas e processos ecológicos em ecossistemas naturais e em agroecossistemas. Nutrição mineral em 
+agroecossistemas. Artrópodes em agroecossistemas. Plantas espontâneas em agroecossistemas. Sistemas de 
+cultivos múltiplos. Agroecossistemas tradicionais. Agricultura sustentável . 
+BIBLIOGRAFIA BÁSICA  
+AQUINO, A. M.; ASSIS, R. L. Agroecologia: princípios e técnicas para uma agricultura orgânica sustentá-
+vel. Editores técnicos, Adriana Maria de Aquino, Renato Linhares de Assis – Brasília, DF: EMBRAPA. 
+2005. 517p.  
+DIBLASE FILHO, I. Ecologia Geral. Rio de Janeiro: Editora Ciência Moderna Ltda. 2007.  
+GLIESSMAN, S.R. Agroecologia: processos ecológicos em agricultura sustentável. 4a ed. UFRGS, Porto 
+Alegre, RS. 2009. 654 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BEGON, M. Ecologia de indivíduos a E cossistemas. Porto Alegre: Artmed, 2007. 752p.  
+BERTONI, J. NETO, F. L. Conservação do Solo. São Paulo: Ícone, 8. Ed. 2012.  
+KIEL, E. J. Fertilizantes Orgânicos. Piracicaba; Editora Agronômica Ceres Ltda. 1985. 492p.  
+PRIMAVESI, A. Agricultura Sustentável. S ão Paulo: Nobel, 1992. 142p.  
+PRIMAVESI, A. Manejo ecológico do solo: a agricultura em regiões tropicais. Nobel, São Paulo.  2002. 
+549 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Economia Agrícola  7º 36,67  
+EMENTA  
+Adequação do instrumental analítico da ciência  econômica às peculiaridades do setor agrícola. A unidade 
+de produção como variável estratégica. Estrutura da oferta e demanda de produtos agrícolas. Comercializa-
+ção agrícola. Identificação e caracterização do setor primário da economia, sua estrutura e pa rticipação na 
+renda global. Identificação e abordagem dos instrumentos de política agrícola. Política agrária: estrutura 
+fundiária e reforma agrária”.  
+BIBLIOGRAFIA BÁSICA  
+SANTOS, G. J. MARION, J.C.SEGATTI, S. Administração de custos na agropecuária. 4.ed . São Paulo, 
+2009.  
+NEVES, CASTRO. Marketing e estratégia em agronegócios e alimentos 1 ed. 2003  
+PRADO JÚNIOR, Caio. A Questão Agrária, apresentação por José Eli da Veiga. 5ª ed., Editora. Brasiliense, 
+São Paulo, 2000, 183 p.   
+BIBLIOGRAFIA COMPLEMENTAR  
+CANECCHIO FILHO, Vicente.  Administração agrícola.  4. ed. Campinas, SP: Instituto Campineiro de En-
+sino Agrícola , 1973. 612 p  
+KOTLER; KELLER. Administração de marketing - 14 ed. 2012  
+ROMERO, A. R. ( Org.) et al. Economia do Meio Ambiente: teoria, políticas e g estão de espaços regionais. 
+Campinas. Editora da  UNICAMP; IE. 1997. 384 p.  
+REZENDE, Gervásio Castro de. Estado, Macroeconomia e Agricultura no Brasil. Porto Alegre. Ed. da 
+UFRGS/IPEA, 2003, 246 p.  
+ROMERO, A. R. Meio Ambiente e dinâmica de inovações na agr icultura. São Paulo, Annablume/FAPESP, 
+1998.277p.    
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+  
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Aves e Suínos  7º 55 
+EMENTA  
+Avicultura: histórico e importância econômica; avicultura no Brasil; instalações e equipamentos; raças e 
+melhoramento genético; alimentos e nutrição; produção de frangos de corte; produção de pintos de um dia; 
+produção de poedeiras comerciais; abate e comercialização de produtos agrícolas; sanidade. Suinocultura: 
+histórico e importância econômica; suinocultura no Brasil; raças e melhoramento g enético; manejo repro-
+dutivo; instalações e equipamentos; alimentos e nutrição; manejo nas fases de cria, recria e terminação; 
+Ambiência e manejo dos dejetos; sanidade; sistema intensivo de produção (SIP); manejo de abate e quali-
+dade da carne; tipificação d e carcaça.  
+BIBLIOGRAFIA BÁSICA  
+ALBINO, L.V.T., TAVERNARI, F.C. Produção e Manejo de Frangos de Corte, 1ª. ed. UFV: Viçosa, 2008.  
+COTA, T. Frangos de Corte: Criação, Abate e Comercialização, 1ª.ed. Aprenda Fácil: Viçosa, 2003  
+SOBESTIANSKY, J., WENTZ, I., SILVEIRA, P.R.S., SESTI, L.A.C. Suinocultura intensiva: Produção, 
+manejo e saúde do rebanho. Embrapa. 1998. 388p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+AVICULTURA. Instituto Campineiro de Ensino Agrícola. 4º edição. 1973. 331p.  
+CARAMORI JUNIOR, J.G., BATISTA DA SILV A, A. Manejo de leitões - da maternidade á terminação, 
+1°Ed, LK, 2006, 80p.  
+COTA, T. Galinha: produção de ovos, 1ª.ed. Aprenda Fácil: Viçosa, 2002.  
+COTA, T. Produção de Pintinhos, 1ª.ed. Aprenda Fácil: Viçosa, 2002.  
+SUINOCULTURA. Instituto Centro de Ensino  Tecnológico. Fortaleza. Edições Demócrito Rocha. Minis-
+tério da Ciência e Tecnologia. 2004.96 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Culturas II (Soja, Feijão, Girassol, Algodão)  7º 73,33  
+EMENTA  
+Histórico e importância. Botânica e fisiologia. Condições e dafoclimáticas. Cultivares. Semeadura. Nutrição 
+e adubação. Plantas daninhas e seu controle. Rotação de culturas e Consorciamento. Irrigação e quimigação. 
+Manejo integrado de pragas e doenças. Colheita e secagem. Beneficiamento e armazenamento.  
+BIBLIOGRAF IA BÁSICA  
+BELTRÃO, N. E.; AZEVEDO, D.M.P. (Eds.) O Agronegócio do algodão no Brasil. Brasília: Embrapa. 
+2008. 1309p.  
+JUNIOR, T. J. de P. VENZON, M. 101 Culturas: manual de tecnologias agrícolas. Belo Horizonte: 
+EPAMIG, 2007. 880P.  
+VIEIRA, C.; PAULA JUNIOR , T.J.; BORÉM, A. (Eds.) Feijão. Viçosa: UFV 2006. 600p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ARAUJO, R. S.; RAVA, C.A.; STONE, L.F.ZIMMERMANN M.J.O. (Eds.) Cultura do feijoeiro comum 
+no Brasil. Piracicaba: Potafos, 1996. 786p.  
+BORÉM,A. (Ed.) Melhoramento de espéci es cultivadas. Viçosa: UFV 2005. 969p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ DOURADO NETO, D.; FANCELLI, L.A. Produção de feijão. Guaíba: Agropecuária, 2000. 385p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de algodão. 2. ed. Fortaleza: Edições De-
+mócrito Rocha, 2004. 56 p.  
+LEITE, R.M.V.B . Girassol no Brasil. Londrina, PR: Embrapa. 2005. 641p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fruticultura  8º 73,33  
+EMENTA  
+Importância econômica e social da fruticultura. Implantação e planejamento de pomares. Classificação de 
+plantas frutíferas. Propaga ção assexuada e sexuada de frutíferas. Cultivares e melhoramento genético.  Im-
+portância fito -hormônios na fruticultura. Princípios da Poda. Colheita, classificação, embalagem, pós -co-
+lheita, logística e comercialização.  Cultura da banana e dos citros. Frut as nativas do cerrado. Visita técnica 
+ao banco de germoplasma de fruteiras exóticas e nativas.  
+BIBLIOGRAFIA BÁSICA  
+ALVES, E. J. et al. A Cultura da Banana: aspectos técnicos, sócio econômicos e agroindustriais. 2º Edição. 
+Brasília, DF: Embrapa SPI/ Cruz da Almas: Embrapa CNPMF, 1999, 585p.  
+CHITARRA, M. I. F.; CHITARRA, A. B. Pós -colheita de frutas e hortaliças: fisiologia e manuseio. 2. ed. 
+Lavras, MG: UFLA, 2005. 783 p.  
+SIMÃO, S. Tratado de fruticultura. Piracicaba, SP: FEALQ, 1998. 760 p.  
+BIBLIOGRAFIA  COMPLEMENTAR  
+ALVES, E. J. Cultivo de bananeira tipo Terra. Cruz das Almas, BA: Embrapa Mandioca e Fruticultura, 
+2001. 176 p.  
+FACHINELLO, J. C.; NACHTIGAL, J. C.; HOFFMANN, A. (Ed.). Propagação de plantas frutíferas. Bra-
+silia, DF: Embrapa Informação Tecn ológica, 2005. 221 p.  
+HILL, Lewis. Segredos da propagação de plantas: cultive suas próprias flores, legumes, frutas, sementes, 
+arbustos, árvores e plantas de interior. São Paulo: Nobel, 1996.  
+KOLLER, O. C. Citricultura: Laranja: Tecnologia de Produção, pó s-colheita, industrialização e comercia-
+lização. Porto Alegre: Cinco Continentes, 2006. 396 p.  
+SOUZA, J.S.I. Poda de plantas frutíferas. São Paulo: Nobel. 2005 192p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Secagem e Armazenamento de Grãos  8º 55 
+EMENTA  
+Defini ção e histórico. Estrutura brasileira de armazenagem de grãos. Características e fatores que influen-
+ciam na qualidade dos grãos armazenados. Propriedades do ar úmido e equilíbrio higroscópico. Secagem e 
+aeração de grãos. Tipos de secadores. Armazenamento. Classificação e equipamentos dos armazéns. Pragas 
+dos grãos armazenados e formas de controle. Prevenção de acidentes em unidades armazenadoras.  
+BIBLIOGRAFIA BÁSICA  
+ATHIÉ, I. Insetos de grãos armazenados: Aspectos biológicos e identificação. 2ª Ed. Livrar ia Varela. 2002.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de Sementes. 2ª ed. Fortaleza: Edições 
+Demócrito Rocha, CENTEC, 2004.  
+PEREIRA, M. F. Construções Rurais. São Paulo. Nobel, 1986. 330 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA COMPLEMENTAR  
+CASTRO, A. G.; POUZADA, A . S. Embalagens para a indústria alimentar. 2003. 609 p.  
+FABICHAK, I. Pequenas construções rurais. Ed. Nobel; São Paulo; 1983.  
+GRAEFF, R. Guia de armazenagem: manual prático para operar uma unidade armazenadora. 2005. 222p.  
+SANTOS, G. J.; MARION, J. C.; SE GATTI, S. Administração de custos na agropecuária. 4º Edição. São 
+Paulo: Atlas. 2009. 154 p.  
+WEBER, E. A. Excelência em beneficiamento e armazenagem de grãos. Canoas, RS. 2005. 586 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Tecnologia de Produtos Agropecuários  8º 73,33  
+EMENTA  
+Alteração de alimentos. Métodos de conservação de alimentos. Processamento de frutas e olerícolas, cereais 
+e raízes, carnes e pescados, leite e derivados, açúcar e álcool. Embalagem de alimentos. Avaliação sensorial.  
+BIBLIOGRAFIA BÁSICA  
+ORDÕNÉZ, J.A. Tecnologia de Alimentos. Volume 1 - Alimentos de Origem Vegetal. Porto Alegre: Ar-
+tmed, 2005.  
+OETTERER, M. Fundamentos de ciência e tecnologia de alimentos. Barueri, SP: Manole, 2006. 612 p.  
+PEREDA, J. A. O. Tecnologia de alimentos: alimento s de origem animal. Porto Alegre, RS: Artmed, 2005.  
+BIBLIOGRAFIA COMPLEMENTAR  
+FELLOWS, P. J. Tecnologia do processamento de alimentos: princípios e prática. 2. ed. Porto Alegre, RS: 
+Artmed, 2006. 602 p.  
+GAVA, A. J.; SILVA, C. A. B.; FRIAS, J. R. G. Tecn ologia de alimentos: princípios e aplicações. São 
+Paulo: Ed. Nobel, 2008. 511 p.  
+JAY, J. M. Microbiologia de alimentos. 6. ed. Porto Alegre, RS: Artmed, 2005. 711 p.  
+KOBLITZ, M. G. B. (Coord.). Bioquímica de alimentos: teoria e aplicações práticas. Rio d e Janeiro, RJ: 
+Guanabara Koogan, 2010. 242 p.  
+LIMA, U. A. Matérias -primas dos alimentos. São Paulo: Blucher, 2010. 402 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Bovinos  8º 36,67  
+EMENTA  
+Introdução à bovinoculura. Instalações e equipamentos e Materiais. Espé cies, raças, tipos e melhoramento 
+genético.  Manejo reprodutivo, sanitário e nutricional. Sistemas de produção. Escrituração zootécnica e ín-
+dices produtivos. Evolução do rebanho.  
+BIBLIOGRAFIA BÁSICA  
+ALCÂNTARA, P. B.; BUFARAH, G. Plantas forrageiras: gram íneas e leguminosas. São Paulo: Nobel, 
+1999. 162 p.  
+BERCHIELLI, T. T.; PIRES, A. V.; OLIVEIRA, S. G. Nutrição de ruminantes. 2. Ed. Jaboticabal, SP: 
+FUNEP, FAPESP, 2011. 616 p.  
+PEIXOTO, A.M.; MOURA, J.C.; FARIA, V.P. Bovinocultura leiteira: fundamentos da  exploração racional. 
+3. ed. Piracicaba, SP: FEALQ, 2000. 581 p.    
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ BIBLIOGRAFIA COMPLEMENTAR  
+AGUIAR, A. P. A. Produção de novilho precoce. Viçosa, MG: CPT, 2009. 240 p.  
+BAÊTA, F.C.; SOUZA, C.F. Ambiência em Edificações Rurais - Conforto Animal. Viçosa: UF V, 1997. 
+246p.  
+SILVA, J. C. P. M.; VELOSO, C. M.; TEIXEIRA, R. M. A.; SANTOS, M. E. R. Manejo de vacas leiteiras 
+a pasto. Viçosa, MG: Aprenda Fácil, 2011. 171 p.  
+SILVA, J. C. P. M.; VELOSO, C. M.; PINTO, O. P. M. S. FIGUEIREDO, L. P. Manejo reprodutivo do 
+gado de leite. Viçosa, MG: Aprenda Fácil, 2011. 134 p.  
+VALADARES FILHO, S. C. Tabelas brasileiras de composição de alimentos para bovinos. 3. ed. Viçosa, 
+MG: UFV, 2010. 502 p.  
+ 
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Administração Rural  8º 55 
+EMENTA  
+Introd ução. Análise econômico -financeira da empresa rural. Planejamento e controle da empresa rural. Po-
+lítica agrícola. Sistemas de informações e registros agrícolas. Elaboração e avaliação de um projeto agrope-
+cuário. Princípios de Gestão pela Qualidade total. E spera que o estudante depois de cursado administração 
+rural esteja apto para gerir os negócios rurais, aplicando os avanços da tecnologia e usando o conjunto de 
+princípios, normas e funções que tem por fim ordenar os fatores de produção agrícola e controla r a produti-
+vidade e eficiência para se obter determinados resultados e obter maior lucratividade.  
+BIBLIOGRAFIA BÁSICA  
+BATALHA, M. O. Gestão agroindustrial: GEPAI: Grupo de Estudos e Pesquisas Agroindustriais. 3. ed. São 
+Paulo: Atlas, 2012.  
+CHIAVENATO, I.  Administração: teoria, processo e prática. 4. ed. São Paulo: ELSEVIER, 2007. 411 p.  
+MAXIMIANO, A. C. A. Administração de projetos: como transformar idéias em resultados. 4. ed. São 
+Paulo, SP: Atlas, 2010. 396 p .  
+BIBLIOGRAFIA COMPLEMENTAR  
+DOLABELA, F. Oficina do empreendedor: a metodologia de ensino que ajuda a transformar conhecimento 
+em riqueza. Rio de Janeiro, RJ: Sextante, 2008. 319 p.  
+DORNELAS, J. C. A. Empreendedorismo: transformando idéias em negócios. 4. ed. Rio de Janeiro, RJ: 
+Elsevier, 2012, 260 p.  
+HELDMAN, K. Gerência de projetos. Fundamentos: Um guia prático para quem quer certificação em ge-
+rência de projetos. Rio de Janeiro: Elsevier, 2005. 319 p.  
+KOTLER, P. Administração de marketing. 14. ed. São Paulo: Pearson Prentice Hall, 2012. 766 p.  
+SANTOS, G. J.; MARION, J. C.; SEGATTI, S. Administração de custos na agropecuária. 4º Edição. São 
+Paulo: Atlas, 2009. 154 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Sistemas de Gestão Ambiental  8º 36,67  
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Políticas de desenvolvimento integrado. O meio ambiente no planejamento econômico. Base legal e insti-
+tucional para gestão ambiental. Instrumentos de gestão e sua implementação: conceitos e práticas.  
+BIBLIOGRAFIA BÁSICA  
+SEGANFREDO, M. A. Gestão ambiental na Suinocultura. EMBRAPA SUÍNOS E AVES, Brasíli a, DF: 
+Embrapa Informação Tecnológica, 2007. 302 p.  
+PHILIPPI Jr., A. SANEAMENTO, saúde e ambiente: fundamentos para um desenvolvimento sustentável. 
+Barueri, SP: Manole, 2005. 842 p.  
+GRÜN, Mauro. Ética e educação ambiental: a conexão necessária . 14. ed. Ca mpinas, SP: Papirus, 2012. 
+126 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+FELLENBERG, Günter. Introdução aos problemas da poluição ambiental. São Paulo: EPU, 1980 196 p.  
+LA ROVERE, Emilio Lebre (Coord.). Manual de auditoria ambiental. 2. ed. Rio de Janeiro, RJ: Qualit y-
+mark, 2001. 136 p.  
+LEFF, Enrique (Coord). A complexidade ambiental. São Paulo: Cortez, 2003. 342 p.  
+MANCUSO, Pedro Caetano Sanches; SANTOS, Hilton Felicio dos. Reúso da água. Barueri, SP: Manole, 
+2003. 579, 8 p.  
+MANAHAN, Stanley E. Química ambiental. 9. e d. Porto Alegre, RS: Bookman, 2013. xxxii, 912 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Culturas III (Cana -de-Açúcar, Café e Mandioca)  8º 55 
+EMENTA  
+Origem, importância sócio -econômica e ambiental. Produtos e subprodutos das culturas. Descrição da 
+planta, e xigências climáticas. Cultivares. Solos. Implantação da cultura. Exigências nutricionais. Tratos cul-
+turais. Controles fitossanitários. Colheita, armazenamento e comercialização das culturas do café, cana e 
+mandioca.  
+BIBLIOGRAFIA BÁSICA  
+INSTITUTO CENTRO D E ENSINO TECNOLÓGICO. Produtor de cana -de-açúcar. 2. ed. Fortaleza: Edi-
+ções Demócrito Rocha, 2004. 64 p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de mandioca. 2. ed. Fortaleza: Edições 
+Demócrito Rocha, 2004. 72 p.  
+PARTELLI, Fábio Luiz. Cultura do c afé: coffea sp.. Goiânia, GO: UFG, 2009. 59 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+SOUZA, Luciano da Silva. PROCESSAMENTO e utilização da mandioca. Brasília, DF: EMBRAPA In-
+formação Tecnológica, 2005. 547 p.  
+EMBRAPA MANDIOCA E FRUTICULTURA.. EMBRAPA INFORMAÇÃO TECN OLÓGICA. SE-
+BRAE. Iniciando um pequeno grande negócio agroindustrial: processamento da mandioca. Brasília, DF: 
+Embrapa Informação Tecnológica, 2003. 115 p.  
+SILVA, Fábio Cesar da; CESAR, Marco Antonio Azeredo; SILVA, Carlos Arthur Barbosa da. Pequenas 
+indúst rias rurais de cana -de-açúcar: melado, rapadura e açúcar mascavo . Brasília, DF: EMBRAPA Infor-
+mação Tecnológica, 2003. 155p.  
+DE MORAES, Márcia Azanha Ferraz Dias; SHIKIDA, Pery Francisco Assis. AGROINDÚSTRIA canavi-
+eira no Brasil: evolução, desenvolvimento e desafios. São Paulo: Atlas, 2002. 367 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ NANNETTI, Alex Nogueira. Cafezal em produção: principais tratos culturais. Brasília, DF: SENAR, 1999. 
+56 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Avaliação e Perícia Rural  9º 36,67  
+EMENTA  
+Métodos de avaliação. Ava liação de terras nuas. Avaliação de benfeitorias. Avaliação de máquinas e imple-
+mentos agrícolas. Avaliação de rebanhos. Avaliação de matas naturais. Apresentação de laudos e níveis de 
+precisão das avaliações. Engenharia de Avaliações; O processo de avaliaç ão; Método comparativo de ven-
+das; Método da renda; Método do custo de reprodução; Método residual ou involutivo; Homogeneização de 
+valores; Fontes de informação para o avaliador; Depreciação;  Avaliação  de  propriedades  rurais;  Avalia-
+ções  nas desapropr iações; Avaliação de servidões; Técnica de elaboração de laudos; Avaliações em ações 
+judiciais.  
+BIBLIOGRAFIA BÁSICA  
+FIKER, José. Avaliações de imóveis: manual de redação de laudos. 1° ed. São Paulo: Pini, 1989.  
+GUERRA, Antonio J. Teixeira. Avaliação e p erícia ambiental. Bertrand, 1999.  
+IMAPE – Instituto Mineiro de Avaliações e Perícias de Engenharia. Fundamentos de avaliações patrimoni-
+ais e perícias. 1º ed. São Paulo. PINI. 1998.  
+BIBLIOGRAFIA COMPLEMENTAR  
+LIMA, M. R. C. Curso de peritagem e avaliação de imóveis rurais. Apostila para o curso do IBAPE/SP. São 
+Paulo. 2000.  
+NBR 14653 -3. Avaliação de bens Parte 3: Imóveis rurais. ABNT, 2004.  
+MAIA NETO, FRANCISCO. Roteiro prático de avaliações e perícias judiciais. Belo Horizonte. 1997.  
+MOREIRA, Alberto L élio. Princípios de engenharia de avaliações. São Paulo. Pini, 1994.  
+CUNHA, S. B.; GUERRA, A. J. T. Avaliação e Perícia Ambiental. RJ : Bertrand Brasil, 2009 – 2012.  
+116.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Parques e Jardins  9º 36,67  
+EMENTA  
+Conceito de  paisagismo. Conhecimento dos utensílios e equipamentos para jardinagem. Vegetação na pai-
+sagem. Caracterização e identificação de plantas ornamentais. Propagação e fisiologia de plantas ornamen-
+tais. Fatores que influenciam no planejamento de parques e jard ins. Principais tratos culturais e fitossanitá-
+rios. Planejamento, implantação e manutenção de parques e jardins. Tratamento paisagístico de rodovias. 
+Paisagismo urbana e rural.  
+BIBLIOGRAFIA BÁSICA  
+LORENZI, H.; SOUZA, H. M. de. Plantas ornamentais no Bras il: arbustivas, herbáceas e trepadeiras. 4 ed. 
+Nova Odessa, SP. Instituto Plantarum, 2008.1088p.  
+SANTOS, E. E. S. dos. Treinamento de jardineiro. Viçosa, MG: CPT, 2008. 358 p.  
+CARVALHO, Paulo Ernani Ramalho. Espécies arbóreas brasileiras. Colombo, PR: Embr apa florestas, 
+2003. 2008 4 v. (Espécies arbóreas brasileiras). ISBN 9788573833737 (v.2).   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA COMPLEMENTAR  
+LORENZI, H. Árvores Brasileiras: manual de identificação de cultivo de Plantas Arbóreas nativas do Brasil. 
+5. ed. Nova Odessa, SP: Institu to Plantarum de Estudos da Flora, 2008. v. ISBN 8586714313 (v.1).  
+LORENZI, H. Árvores brasileiras: manual de identificação de cultivo de plantas arbóreas nativas do Brasil, 
+vol. 2. 3. ed. Nova Odessa, SP: Instituto Plantarum de Estudos da Flora, 2009. 384 p. ISBN 8586714320.  
+LORENZI, H. Árvores Brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil. 
+Nova Odessa, SP: Instituto Plantarum de Estudos da Flora v. ISBN 8586714337 (v.3).  
+LORENZI, H. [et al.]. Árvores exóticas no Brasi l: madeireiras, ornamentais e aromáticas. Nova Odessa, SP: 
+Instituto Plantarium de Estudos da Flora, 2003. 367 p.  
+VILAÇA, J. Plantas Tropicais: Guia prático para o novo paisagismo brasileiro. São Paulo, Nobel, 2005. 336 
+p. 
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Elaboração e Gestão de Projetos  9º 55 
+EMENTA  
+Importância da avaliação econômica de projetos. Conceitos fundamentais de matemática financeira. Abor-
+dagem dos custos e receitas das atividades agropecuárias. Análise econômica de projetos e critérios de av a-
+liação de projetos. Decisões de investimento sob condições de risco. Avaliação social de projetos.  
+BIBLIOGRAFIA BÁSICA  
+MAXIMIANO, Antonio Cesar Amaru. Administração de projetos: como transformar idéias em resultados. 
+4. ed. São Paulo, SP: Atlas,  2010. 3 96 p.  
+SANTOS, G. J. MARION, J.C. SEGATTI, S. Administração de custos na agropecuária. 4.ed. São Paulo, 
+2009.  
+CHIAVENATO, Idalberto. Empreendedorismo: dando asas ao espírito empreendedor. 3. ed. São Paulo, 
+Saraiva, 2012. 315 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BERNARDI, Luiz Antônio. Manual de empreendedorismo e gestão: fundamentos, estratégias e dinâmicas. 
+1 ed. São Paulo: Atlas, 2007  
+SILVA, Carlos Arthur Barbosa da; FERNANDES, Aline Regina. Projetos de empreendimentos agroindus-
+triais: produtos de origem vegeta l. V.2, Viçosa: Ed. UFV, 2005. 459 p.  
+SILVA, Carlos Arthur Barbosa da; FERNANDES, Aline Regina. Projetos de empreendimentos agroindus-
+triais: produtos de origem animal. V.1, Viçosa: Ed. UFV, 2005. 308 p.  
+SERVIÇO NACIONAL DE APRENDIZAGEM RURAL – SENAR. Admin istração Rural: princípios da 
+administração rural e planejamento da empresa rural. Serviço Nacional de Aprendizagem Rural – SENAR. 
+Goiânia: 2002, 71 p.  
+WOILER, Samsão.  Projetos:  planejamento, elaboração, análise.  2. ed. São Paulo: Atlas, 2008. 288 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Sociologia e Extensão Rural  9º 55 
+EMENTA  
+Contexto histórico do surgimento da sociologia. Conceitos fundamentais. A sociologia contemporânea e a  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ diversidade dos objetos sociológicos. A spectos culturais relevantes da cultura  afro-brasileira e indígena e 
+sua influência na sociedade brasileira. Fundamentos da Extensão Rural. Mudança social. Desenvolvimento, 
+Modernização e Dualismo. Metodologia da Extensão Rural. Comunicação e Mudança Social. Difusão de 
+Inovações e Desenvolvimen to de Comunidades. Rurais. Assistência técnica pública e privada. Cooperati-
+vismo e associativismo.  
+BIBLIOGRAFIA BÁSICA  
+ALVARENGA, O. M. Agricultura brasileira: realidade e mitos. Rio de Janeiro: Revan, 1999. 149p.  
+FIGUEIREDO, Romeu Padilha de. Extensão r ural, desenvolvimento e democracia: Alguns pronunciamen-
+tos do presidente da Embrater, Romeu Padilha de Figueiredo, em 1985. Brasília, DF: Embrater, 1986. 69 p.  
+LAKATOS, Eva Maria; MARCONI, Marina de Andrade. Sociologia geral. 7. ed. São Paulo: Atlas, 1999.  
+373 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+CAMPANHOLA, C.; SILVA, J. G. (eds.) O novo rural brasileiro: rendas das famílias rurais. Brasília: Em-
+brapa Informação Tecnológica, 2004. V. 5. 121 p.  
+FREYRE, Gilberto. Casa Grande & Senzala. 41ª edição. Rio de Janeiro, Record, 2000.  
+OLIVEIRA, Persio Santos de. Introdução à sociologia. São Paulo: Ática, 2010. 304 p.  
+TEDESCO, J. C. (org.) Agricultura familiar, realidades e perspectivas. Passo Fundo: EDIUPF, 2001 406 p.  
+ZYLBERSZTAJN, Decio. Caminhos da agricultura brasileir a. São Paulo: Atlas, 2011. 124 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Proteção de Plantas e Receituário Agronônico  9º 36,67  
+EMENTA  
+Conceitos e definições em fitossanidade. Deontologia. Receituário agronômico. Semiotécnica agronômica. 
+Legislação sobre agr otóxicos. Toxicologia e ecotoxicologia. Impacto dos agrotóxicos no ambiente. Aciden-
+tes com agrotóxicos. Manejo integrado de pragas, doenças e plantas daninhas. Tecnologia de aplicação de 
+defensivos agrícolas.  
+BIBLIOGRAFIA BÁSICA  
+Gonçalves, J. e Neto, M. 1991. Ecotoxicologia de agrotóxicos. Editora Funep. Edição. 50p.  
+Andrei. 2009. Compêndio de defensivos agrícolas: guia prático de produtos fitossanitários para uso agrícola.  
+Kimati, H . Manual de Fitopatologia: Doenças de plantas cultivadas. 4º. ed. São Pau lo: Ceres, 2005. V. 2.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ENTOMOLOGIA agrícola. Piracicaba, SP: FEALQ, 2002. 920 p. (Coleção Biblioteca de Ciências Agrárias 
+Luiz de Queiroz; 10). ISBN 8571330115.  
+OLIVEIRA -FILHO, Eduardo Cyrino; MONNERAT, Rose Gomes (Editor técnic o). Fundamentos para a 
+regulação de semioquímicos, inimigos naturais e agentes microbiológicos de controle de pragas. Planaltina, 
+DF: Embrapa Cerrados, 2006.  
+REIS,  Erlei  Melo . Previsão de doenças de plantas. Passo Fundo: UPF, 2004.  
+Zambolim, L., Lopes, C.,  Picanço, M., Costa, H. 2007. Manejo integrado de doenças e pragas de hortaliças. 
+Editora UFV. 627 P.  
+Fernandes, O., Correia, A., Bortoli, S. 1992. Manejo integrado de pragas e nematóides. Editora Funep. 352 
+p. 
+  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fisiologi a e Manejo de Pós Colheita  9º 55 
+EMENTA  
+Estudar os conceitos básicos de fisiologia de pós -colheita. Conhecer a fisiologia e o metabolismo dos vege-
+tais. Avaliar as principais causas de perdas pós -colheita como desordens fisiológicas e doenças. Estudar a 
+tecnologia pós -colheita, classificação comercial, beneficiamento, transporte e armazenamento dos produtos 
+hortícolas.  
+BIBLIOGRAFIA BÁSICA  
+CHITARRA, Maria Isabel Fernandes; CHITARRA, Adimilison Bosco. Pós -colheita de frutas e hortaliças: 
+fisiologia e manus eio. 2. ed. Lavras, MG: UFLA, 2005. 783 p.  
+GAVA, Altanir Jaime; SILVA, Carlos Alberto Bento de; FRIAS, Jenifer Ribeiro Gava. Tecnologia de ali-
+mentos: princípios e aplicações. São Paulo: Nobel, 2008. 511 p.  
+FELLOWS, P. Tecnologia do processamento de aliment os: princípios e prática. 2. ed. Porto Alegre, RS: 
+Artmed, 2006. 602 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+LEHNINGER, A. Princípios de bioquímica. 4ª. Ed. São Paulo: Sarvier, 2006. 975p.  
+NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger. 5. ed. Porto Alegre, RS: 
+Artmed, 2011. xxx, 1273 p.  
+EMBRAPA. Iniciando um pequeno grande negócio agroindustrial: hortaliças minimamente processadas. 
+Brasília, DF: Embrapa, 2003. 133 p.  
+MORETTI, C. L. Hortaliças Minimamente Processadas.1. ed. Brasília: Embrapa  Informação Tecnológica, 
+v. 1. 134 p., 2003.  
+TAIZ, Lincoln; ZEIGER, Eduardo. Fisiologia vegetal. 5. ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 
+p. 
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Ética Profissional  9º 36,67  
+EMENTA  
+Doutrinas éticas fundamentais. M udanças histórico -sociais. Moral e moralidade. Princípios da responsabi-
+lidade. Regulamentação do exercício profissional. Ética profissional e legislação. Decretos, leis e resoluções 
+relacionados ao exercício profissional. O Sistema CONFEA/CREA. Atribuições  profissionais do Enge-
+nheiro Agrônomo, campo de trabalho e atuação. Conduta profissional e Código de Ética.  
+BIBLIOGRAFIA BÁSICA  
+ARISTÓTELES. Ética à Nicômaco. Bauru, SP: Edipro, 3ª ed., 2009. 319 pag.  
+NALINI, José Renato. Ética geral e profissional. 7.ed . São Paulo: Revista dos tribunais, 2012. 702 p.  
+GRÜN, Mauro. Ética e educação ambiental: a conexão necessária. 14. ed. Campinas, SP: Papirus, 2012. 
+126 p.   
+BIBLIOGRAFIA COMPLEMENTAR  
+FOUREZ, Gérard. A construção das ciências: introdução à filosofia e a é tica das ciências. São Paulo: 
+UNESP, 1995. 319 p.  
+SÁ, A. Lopes de. Ética profissional. 9. ed. São Paulo: Atlas, 2009. 312 p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ RESOLUÇÃO Nº 1.002, DE 26 DE NOVEMBRO DE 2002. Publicada no D.O.U de 12 de dezembro de 
+2002 – Seção 1, pág. 359/360  
+RIOS, Terezinh a Azerêdo. Ética e competência. 20. ed. São Paulo: Cortez, 2011. 128 p.  
+SROUR, Robert Henry. Poder, Cultura e Ética nas organizações. 3ª ed. Rio de Janeiro: Campus, 2012.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Marketing no Agronegócio  Optativa  36,67  
+EMENTA  
+Conceitos básicos. Ambiente de marketing no agronegócio. Marketing estratégico aplicado a firmas agroin-
+dustriais. Segmentação de mercado. Modelos de comportamento do consumidor. Pesquisa mercadológica 
+no agronegócio. Estudos de caso.  
+BIBLIOGRAFIA BÁSICA  
+KOTLER, P. Administração de marketing: Analise, planejamento, implementação e controle. Atlas, 5º edi-
+ção. 2009. 726p.  
+NEVES, M.F.; CASTRO, L.T. (Org.). Marketing e estratégia em agronegócios e alimentos. São Paulo: 
+Pensa, 2003. 365 p. ISBN 9788522436514.  
+LIRIO, V.S.; GOMES, M.F.M. Investimento privado, público e mercado de commodities. Viçosa, MG: 
+UFV, 2000. xvi, 316 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ARAÚJO, M.J. Fundamentos de agronegócios. 2. ed. São Paulo: Atlas, 2005. 160 p. ISBN 852241537.  
+BERNARDI, L .A. Manual de empreendedorismo e gestão: fundamentos, estratégias e dinâmicas. São 
+Paulo: Atlas, 2003. 314 p. ISBN 9788522433384.  
+ZYLBERSZTAJN, Decio. Caminhos da agricultura brasileira. São Paulo: Atlas, 2011. 124 p. ISBN 
+9788522463084.  
+BELTRÃO, N.E.M.;  AZEVEDO, D.M.P. Embrapa Algodão. O agronegócio do algodão no Brasil. 2. ed. 
+Brasília, DF: Embrapa Informação Tecnológica, 2008. 570 p. ISBN 9788573834246 (v. 1).  
+Embrapa gado de corte. Embrapa informação tecnológica. SEBRAE. Iniciando um pequeno grande n egócio 
+agroindustrial: processamento da carne bovina. Brasília, DF: Embrapa Informação Tecnológica, 2003. 184 
+p. ((Agronegócios)). ISBN 8573333723 (Embrapa).  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Fruticultura II  Optativa  55 
+EMENTA  
+Fruticultura geral. Orig em e importância econômica, classificação botânica e cultivares, clima e solos, pro-
+pagação, implantação, tratos culturais, controle fitossanitário, colheita, classificação e comercialização das 
+fruteiras: citros, videira, figueira, maracujazeiro, goiabeira . 
+BIBLIOGRAFIA BÁSICA  
+SIMÃO, S.. Tratado de fruticultura. Piracicaba, SP: FEALQ, 1998. 760 p. ISBN 8571330026.  
+KOLLER, Otto Carlos (Org). Citricultura: laranja - tecnologia de produção, pós -colheita, industrialização e 
+comercialização. Porto Alegre, RS:  Cinco Continentes, 2006. vii, 396 p. (1). ISBN 8586466387.  
+CHITARRA, M.I.F.; CHITARRA, A.B.. Pós -colheita de frutas e hortaliças: fisiologia e manuseio. 2. ed. 
+Lavras, MG: UFLA, 2005. 783 p. ISBN 8587692275.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA COMPLEMENTAR  
+MANICA, I.; PICAN ÇO, M.C. (Ed). Maracujá: tecnologia de produção, pós -colheita, agroindústria, mer-
+cado . Porto Alegre, RS: Cinco Continentes, 2001. 471 p. ISBN 8586466158.  
+FACHINELLO, J.C.; NACHTIGAL, J.C.; HOFFMANN, A. (Ed.). Propagação de plantas frutíferas. Brasi-
+lia, D F: EMBRAPA, 2005. 221 p. ISBN 8573833009.  
+CHITARRA, M.I.F.; CHITARRA, A.B. Pós -colheita de frutas e hortaliças: glossário. Lavras, MG: UFLA, 
+2006. 256 p. ISBN 8587692364.  
+SOUSA, J.S.I. Poda das plantas frutiferas: o guia indispensável para o cultivo de f rutas. São Paulo: Nobel, 
+2005. 191 p. ISBN 9788521312970.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de caju. 2. ed. Fortaleza: Edições Demó-
+crito Rocha, CENTEC, 2004. 56 p (Cadernos tecnológicos). ISBN 8575292722.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Hidroponia e Ambiente Protegido  Optativa  36,67  
+EMENTA  
+Histórico. Tipos de estruturas. Uso do plástico na produção de hortaliças. Características do cultivo em 
+ambiente protegido. Manejo de fertilizantes. Alface, melão, pepino, pimentão e tomate. Produç ão hidropô-
+nica.  
+BIBLIOGRAFIA BÁSICA  
+TAIZ, L.; ZEIGER, E. Fisiologia vegetal. 5. ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 p. ISBN 
+9788536327952.  
+CHITARRA, M.I.F.; CHITARRA, A.B.. Pós -colheita de frutas e hortaliças: fisiologia e manuseio. 2. ed. 
+Lavras, MG: UFLA, 2005. 783 p. ISBN 8587692275.  
+FILGUEIRA, F.A.R. Novo manual de Olericultura: Agrotecnologia moderna na produção e comercializa-
+ção de hortaliças. UFV. 2008. 421p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ARAÚJO, J.A.C. Cultivo hidropônico da alface. Br asília, DF: SENAR, 1999. 136 p. (Trabalhador em hi-
+droponia ; 2).  
+MARTINEZ, H.E.P. Cultivo hidropônico de cheiro -verde: salsinha, coentro e cebolinha. Brasília, DF: SE-
+NAR, 1999. 95 p. (Trabalhador em hidroponia ; 4).  
+ARAÚJO, J.A.C. Cultivo hidropônico do tomateiro. Brasília, DF: Senar, 1999. 112 p. (Trabalhador em 
+hidroponia; 3). ISBN 15175065.  
+NANNETTI, D.C. Dos tratos culturais à comercialização. Brasília, DF: Senar, 1999. 92 p. (Trabalhador na 
+olericultura básica, v.3).  
+MURAYAMA, S. Horticultura. 2. e d. Campinas, SP: Instituto Campineiro de Ensino Agricola, 1973. 321 
+p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Plantas Medicinais e Aromáticas  Optativa  36,67  
+EMENTA  
+Importância econômica e social das plantas medicinais. Identificação das principais espécies  silvestres e 
+domesticadas. Propagação. Plantio, tratos culturais, colheita, secagem e armazenamento. Fundamentos a  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ respeito dos princípios ativos e formas de utilização de fitoterápicos. Legislação e comercialização.  
+BIBLIOGRAFIA BÁSICA  
+CORRÊA, A.D.; SI QUEIRA -BATISTA, R.; QUINTAS, L.E.M. Plantas medicinais: do cultivo à terapêu-
+tica . 6. ed. Petrópolis, RJ: Vozes, 2003. 247p. (Medicina alternativa )  
+LORENZI, H., MATOS, F.J.A. Plantas Medicinais no Brasil - Nativas e Exóticas - 2ª Edição, Instituto 
+Plantar um. 2008. 576p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de plantas medicinais. 2. ed. Fortaleza: 
+Edições Demócrito Rocha, 2004. (Cadernos tecnológicos).  
+BIBLIOGRAFIA COMPLEMENTAR  
+ANDRADE, F. M. C.; L OPES, R. C.; ARMOND,  C.; MARTINAZZO, A. P .; ALMASSY JÚNIOR, A. A .; 
+CASALI, V. W. D. . Identificação de plantas medicinais e preparo  de remédios caseiros.  Brasília, DF: SE-
+NAR, 2006. 124 p. (Coleção Senar  110) 
+SIMÕES, C.M.O. [et al.]. Farm acog nosia: da planta ao medicamento . 6. ed. Florianópolis: 1102  p.  
+LORENZI, H. et al. Árvores Exóticas no Brasil. – Madeireiras, ornamentais e aromáticas. Instituto Planta-
+rum. 2003.  
+SANO, S.M.; ALMEIDA, S.P.; RIBEIRO, J.F. CERRADO: ecologia e flora. Brasilia, DF: EMBRAPA, 
+2008. 2 v  
+TAIZ, L.; ZEIGER, E. Fisiologia v egetal. 5. ed. Porto Alegre, RS: ARTMED, 2013. xx xiv, 918 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Tecnologia de Produção de Açúcar e Álcool  Optativa  36,67  
+EMENTA  
+Importância econômica e social. Qualidade da cana -de-açúcar. Tratamentos preliminares da ca na-de-açúcar. 
+Extração e tratamento do caldo. Fabricação de açúcar. Fabricação de álcool. Tratamento de efluentes.  
+BIBLIOGRAFIA BÁSICA  
+MORAES, M.A.F.D.; SHIKIDA, P.F.A. Agroindústria canavieira no Brasil: evolução, desenvolvimento e 
+desafios. São Paulo:  Atlas, 2002. 367 p.  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de cana -de-açúcar. 2. ed. Fortaleza: Edi-
+ções Demócrito Rocha, 2004. 64 p. (Cadernos Tecnológicos). ISBN 8575292757.  
+SILVA, F.C.; CESAR, M.A.A.; SILVA, C.A.B. Pequenas indústrias rurais  de cana -de-açúcar: melado, ra-
+padura e açúcar mascavo . Brasília, DF: EMBRAPA Informação Tecnológica, 2003. 155p. ISBN 
+8573831715.  
+BIBLIOGRAFIA COMPLEMENTAR  
+INSTITUTO CENTRO DE ENSINO TECNOLÓGICO. Produtor de rapadura. 2. ed. Fortaleza: Edições 
+Demócrit o Rocha, 2004. 40 p. (Cadernos Tecnológicos). ISBN 8575292595.  
+TAIZ, L., ZEIGER, E. Fisiologia vegetal. 4º edição Artimed. 2009. 848p.  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+DELGADO, A.A. et al. Tecnología dos Produtos Agropecuarios. I – Tecnología do Açúcar e das Fermen-
+tações industriais. Departamento de Tecnologia Rural. ESALQ/USP, 1975.  
+MARQUES, M.O. Tecnología do açúcar. Produção e Industrialização da cana -de-açúcar. Jaboticabal -SP, 
+Funep, 200 1. 170p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Floricultura  Optativa  36,67   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ EMENTA  
+Importância econômica e aspectos de mercado. Aspectos fitossanitários. Propagação. Fisiologia e controle 
+de florescimento. Manejo pós -colheita de flores cortadas. Planejament o da produção comercial.  
+BIBLIOGRAFIA BÁSICA  
+FERRI, M.G. Botânica: morfologia externa das plantas : organografia. São Paulo: Nobel, 1981. 148 p. ISBN 
+8521300441.  
+SANO, S.M.; ALMEIDA, S.P.; RIBEIRO, J.F. Cerrado: ecologia e flora. Brasilia, DF: EMBRAPA,  2008. 
+2 v. ISBN 9788573833973 (v.1).  
+TAIZ, L.; ZEIGER, E. Fisiologia vegetal. 5. ed. Porto Alegre, RS: ARTMED, 2013. xxxiv, 918 p. ISBN 
+9788536327952.  
+BIBLIOGRAFIA COMPLEMENTAR  
+KÄMPF, A.N.; COSTA, G.J.C. Produção comercial de plantas ornamentais. Guaí ba, RS: Agropecuária, 
+2000. 254 p. ISBN 8585347449.  
+HILL, L. Segredos da propagação de plantas/ cultive suas próprias flores, legumes, frutas, sementes, arbus-
+tos, árvores e plantas de interior. São Paulo: Nobel, 1996. ISBN 852130885X.  
+PAULA, C.C. Cultivo  de bromélias. Viçosa, MG: Aprenda Fácil, 2000. 140 p. ISBN 8588216655.  
+NOVAIS, R.F. (Ed.). Fertilidade do solo. Viçosa, MG: Sociedade Brasileira de Ciencia do Solo, 2007. viii, 
+1017 p. ISBN 9788586504082.  
+Instituto centro de ensino tecnológico. Produtor  de mudas. 2. ed. Fortaleza: Ministério da Ciência e Tecno-
+logia, 2004. 48 p. (Coleção Cadernos tecnológicos). ISBN 8575292609.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Nematologia Agrícola  Optativa  36,67  
+EMENTA  
+Histórico e importância dos nematoides. Classif icação taxonômica dos fitonematoides. Aspectos biológicos 
+e ecológicos dos nematoides parasitos de plantas. Métodos de coletas, extração e fixação de nematoides. 
+Identificação dos principais gêneros de fitonematoides de interesse agrícola. Princípios básic os de manejo: 
+cultural, uso de plantas antagonistas, métodos físicos, emprego da resistência, controle biológico e controle 
+químico (nematicidas).  
+BIBLIOGRAFIA BÁSICA  
+ALFENAS, A. C.; MAFIA, R. G. Métodos em Fitopatologia. Viçosa. Ed. UFV.2007. 382p.  
+COY NE, D.L.; NICOL, J.M.; COLE -CLAUDIUS, B. Nematologia pratica: um guia de campo e de labora-
+torio. International Institute of Tropical Agriculture (IITA). 2007. 82p.  
+FERRAZ, L.C.C.B.; MONTEIRO, A. R. Nematóides. In: Manual de Fitopatologia.  
+KIMATI, H.  Manual  de fitopatologia:  Volume 2 - doenças das plantas cultivadas. 3. ed. São Paulo, SP: 
+Agronômica  Ceres, 1997. 774 p  
+BIBLIOGRAFIA COMPLEMENTAR  
+FERRAZ, S.; FREITAS, L.G.; LOPES, E. A.; DIAS -ARIEIRA, C.R. Manejo sustentável de fitonematóides. 
+1º Ed. Viçosa, M G: Editora UFV, 2010. V. 1. 304p.  
+FREITAS, L.G. et al. Introdução a nematologia – Caderno didático, editora UFV. Viçosa/MG. 1999. 84 p.  
+LORDELLO, L.G. Nematóides de Plantas Cultivadas. Nobel : São Paulo, 1988. 314p.  
+MAI, W.F.; MULLIN, P.G. Pictorial key to  general of Plant Parasitc Nematodes.Ithaca. NY: Cornell Uni-
+versity Press. 277 p. 1996.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ TIHOHOD, D. Nematologia Agrícola Aplicada. Jaboticabal, FUNEPE, 2000, 2º ED. 473P.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+ADUBOS E ADUBAÇÃO DE SOLOS  Optativa  36,67  
+EMENTA  
+Métodos de correção e adubação de solos e de nutrição de planta. Fonte de macro e micronutrientes para as 
+plantas: características de interesse agronômico e seu manejo na relação solo -planta. Uso eficiente de ferti-
+lizantes.  
+BIBLIOGRAFIA BÁSICA  
+NOVAIS, R. F. et al . Fertilidade do Solo. Sociedade Brasileira de Ciência do Solo, Viçosa -MG, 2007, 
+1017p.  
+RAIJ, B. V. Fertilidade do Solo e manejo de nutrientes. Editora: IPNI. 2011. 401p.  
+RAIJ, B. V.; ANDRADE, J. C.; CANTARELLA, H.; QUAGGIO, J. A.; Análise Quím ica Para Avaliação 
+da Fertilidade de Solos Tropicais. Campinas, SP.  Instituto Agronômico (IAC). 2001. 284p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MALAVOLTA, E.; PIMENTEL, F.; ALCARDE, J. C. Adubos e Adubações. São Paulo. Nobel. 2002.  
+MALAVOLTA, E. Manual de Nutriç ão Mineral de Plantas. São Paulo. Ed: Agronômica Ceres. 2006, 638p.  
+QUAGGIO, J. A. Acidez e Calagem em Solos Tropicais. Campinas, SP.  Instituto Agronômico (IAC). 2000. 
+111p.  
+SILVA, F. C. Manual de Análises Químicas de Solos, Plantas e Fertilizantes. 20ed. Brasilia. Embrapa. 2009.  
+SOUSA, D. M. G.; LOBATO, E. Cerrado: Correção do Solo e Adubação. 20 ed. Brasilia. Embrapa. 2004.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Hidrologia Aplicada  Optativa  36,67  
+EMENTA  
+Estudar e entender a importância e aplicações da Hid rologia na gestão dos recursos hídricos; ciclo hidroló-
+gico; bacias hidrográficas; chuvas e condições de ocorrência; métodos de estimativa; análise de hidrógrafas; 
+curva característica de cotas – vazões; regionalização das variáveis hidrológicas; reservatór ios e pequenos 
+barramentos; frequência, probabilidade e período de retorno; séries anuais; métodos de análise para projetos; 
+qualidade da água; gestão de recursos hídricos; monitoramento da água no Brasil; desenvolvimento de pro-
+jetos de pesquisa em Bacias Hidrográficas.  
+BIBLIOGRAFIA BÁSICA  
+SETTI, Arnaldo Augusto et al. Introdução ao gerenciamento de recursos hídricos. 2.ed. Brasília: Agencia 
+Nacional de Energia Elétrica; Agência Nacional das Águas, 2001. 145 p.   
+SOUZA et al. Hidrologia - Departamento de Engenharia de Biossistemas - Série Didática n. 18 - 
+ESALQ/USP, Piracicaba - SP, 2014, 457p.   
+TUCCI, C.E.M. Hidrologia – Ciência e aplicação. Editora da Universidade/ UFRGS e ABRH, 1993.   
+BIBLIOGRAFIA COMPLEMENTAR  
+BRASIL, 1997. Lei 9.433, de 8 de janeiro de 1997. Dispõe sobre a Política Nacional de Recursos Hídricos, 
+cria o Sistema Nacional de Gerenciamento de Recursos Hídricos, Regulamenta o inciso XIX do artigo 21 
+da Constituição Federal, e altera o artigo 1o da Lei 8.001, de 13 de março de 1990, que mod ificou a Lei 
+7.990, de 28 de dezembro de 1989.  
+CARDOSO, Maria Lucia de Macedo. Desafios e Potencialidades dos Comitês de Bacias Hidrográficas.  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Ciência e Cultura, Campinas, dez 2003, vol.55, n.4, p.40 -41.  
+MAGALHÃES Jr, A. P. Indicadores Ambientais e Recur sos Hídricos - Realidade e perspectivas para o 
+Brasil a partir da Experiência Francesa. Bertrand Brasil. Rio de Janeiro. 2007. 688p.   
+PAIVA, J.B.D.; PAIVA E.M.C.D. Hidrologia aplicada à gestão de pequenas bacias hidrográficas. ABRH, 
+2001, 625p.  
+TODD, David  K. Hidrologia de águas subterrâneas.  Rio de Janeiro, RJ: Edgard Blücher, 1967. 319 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Controle de Águas Naturais  Optativa  36,67  
+EMENTA  
+Introdução à piscicultura. Ecossistemas aquáticos. Características físicas e quími cas da água. Anatomia e 
+fisiologia de peixes. Espécies de peixes de interesse zootécnico. Construção de tanques para a piscicultura. 
+Adubação e calagem de tanques. Alimentação e nutrição de peixes de cultivo. Manejo reprodutivo. Noções 
+de enfermidades em p eixes. Aspectos gerais da criação de rãs. Espécies próprias para cultivo. Instalações e 
+equipamentos. Manejo reprodutivo. Manejo de eclosão. Manejo de girinos, manejo de engorda, manejo 
+alimentar. Competidores. Pragas e doenças.  
+BIBLIOGRAFIA BÁSICA  
+DUART E, S.N.; SILVA, E.F. F.; MIRANDA, J.H.; MEDEIROS, J.F.; COSTA, R.N.; GHEYE, H.R. Fun-
+damentos de Drenagem Agrícola. INCTSal, 2015, 367p.  
+CRUCIANI, D.E. A Drenagem na Agricultura. Livraria Nobel, São Paulo, 4a. Edição. 1986. 337p.   
+INTERNATIONAL INSTITUTE F OR LAND RECLAMATION AND IMPROVEMENT. Drainage prin-
+ciples and applications. Wageningen, Netherlands. 1994. 1100p  
+BIBLIOGRAFIA COMPLEMENTAR  
+LUTHIN, J.N. Drainage Engineering. Krieger Publishing Co., New York. 1973. 244p SCHILFGAARDE, 
+J.V. Drainage for Agri culture. American Society of Agronomy. Monograph 17. 1974. 694p.    
+SCHWAB, G.O.; FANGMEIER, D.D.; ELLIOT, W.J.; FREVERT, R.K. Soil and Water Conservation En-
+gineering. Wiley. New York. 4a. ed. 1993. 507p.   
+SKAGGS, R.W. & SCHILFGAARDE, J. Van. Agricultural D rainage. Agronomy Series # 38. American 
+Society of Agronomy, Inc. Madison, Win. 1999. 1328p. SOIL CONSERVATION SERVICE. Drainage of 
+agricultural land. W.I.C. New York. 1973. 423p.   
+TUCCI, C. E. M. & MARQUES, D.N.L.M. Avaliação e controle da drenagem urbana . Editora da Univer-
+sidade, UFRGS. 2.000, 558p.  
+VALENTE, Osvaldo Ferreira; GOMES, Marcos Antônio.  Conservação de nascentes:  hidrologia e manejo 
+de bacias  hidrográficas de cabeceiras.  Viçosa, MG: Aprenda Fácil, 2005. 210 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Manejo da Irrigação em sistemas agrícolas de produção  Optativa  36,67  
+EMENTA  
+Principais fenômenos meteorológicos que influenciam no manejo da irrigação; evapotranspiração de refe-
+rência (ETo) e evapotranspiração potencial da cultura (ETc); métodos de est imativa e calculo de ETo e ETc; 
+relação solo, planta e atmosfera; manejo da irrigação com base em dados meteorológicos; manejo da irriga-
+ção com base no balanço de água no solo; manejo da irrigação com base em informações da própria cultura.  
+BIBLIOGRAFIA BÁSICA   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ ALLEN, R.G.; PEREIRA, L. S.; RAES, D.; SMITH, M. Crop evapotranspiration: guidelines of computing 
+crop water requirements. FAO. Irrigation and Drainage Paper, 56, Roma, p.300, 1998.  
+PEREIRA, A. R.; VILLA NOVA, N. A.; SEDIYAMA, G. C. Evapotranspiraç ão. Piracicaba: FEALQ, 
+323p. 2013.  
+ROSEMBERG, N. J.; BLAD, B. L.; VERMA, S. B. Microclimate: The Biological Environment. Wiley, 
+USA, 495 p. 1983.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BERNARDO, S.; SOARES, A. A.; MANTOVANI, E. C. Manual de Irrigação.  8. ed., Viçosa:  UFV, 2006, 
+625 p.  
+CAMPBELL, G. S.; NORMAN, J. M. An introduction to environmental biophysics , New York: 
+Springer, 1998. 283p.  
+JACKSON, R. D.; IDOSO, S. B.; REGINATO, R. T.; PINTER JUNIOR, P. J. Canopy temperature as a 
+crop water stress indicator. Water re sources research , Washington, v. 17, n. 4, p. 1133 -1138, 1981.  
+JACKSON, R. D.; KUSTAS, W.P.; CHOUDHURY, B. J. A reexamination of the crop water stress index. 
+Irrigation Science , New York,  v. 9, n. 4, p.309 -317, 1988.  
+PEREIRA, A. R.; VILLA NOVA, N. A.; SE DIYAMA, G. C. Evapo(transpi)ração . Piracicaba: FEALQ, 
+183p. 1997.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Biologia Molecular  Optativa  55 
+EMENTA  
+Estrutura do DNA e seu processo de replicação. Mutações e mecanismos de reparo do DNA. Estrutura do 
+RNA e seu proc esso de transcrição e tradução. O dogma central da Biologia Molecular. Regulação da ex-
+pressão gênica em procariotos e eucariotos. Tecnologia do DNA recombinante e suas aplicações. Ferramen-
+tas de estudo para DNA e RNA e suas aplicações em pesquisas agropecu árias.  
+BIBLIOGRAFIA BÁSICA  
+BROWN, T. A. Genética: um enfoque molecular . 3. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2009. xxiv, 
+336 p. ISBN 9788527705219.  
+JUNQUEIRA, L.C.U. Histologia básica. 11. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2008. xv, 524  p.  
+NELSON, D.L., COX, M.M. Lehninger. Princípios de Bioquímica. 4ª Edição, Sarvier. 2006. 1202p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ALBERTS, B. et al. BIOLOGIA molecular da célula. 5. ed. Porto Alegre, RS: Artmed, 2010. 1268 p.   
+COOPER, Geoffrey M. A célula: u ma abordagem molecular. 3. ed. Porto Alegre, RS: Artmed, 2007. xxiv, 
+716 p.   
+RAVEN, P.H. Biologia vegetal. 7. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2007. xxii, 830 p. ISBN 
+9788527712293.  
+VOET, Donald; VOET, Judith G; PRATT, Charlotte W. Fundamentos d e bioquímica: a vida em nível mo-
+lecular. 4. ed. Porto Alegre, RS: Artmed, 2014. xxxi, 1167 p. ISBN 9788582710654.  
+JUNQUEIRA, L.C., CARNEIRO, J. Biologia Celular e Molecular. Guanabara Kogan. 2005. 332p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Plantas Nativas  do Cerrado  Optativa  36,67  
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Espécies com potencial de uso. Propagação, implantação e manejo. Colheita e pós -colheita. Processamento. 
+Mercado e comercialização.  
+BIBLIOGRAFIA BÁSICA  
+LORENZI, H. Árvores brasileiras: manual de identificação de culti vo de plantas arbóreas nativas do Brasil, 
+vol. 2. 3. ed. Nova Odessa, SP: Instituto Plantarum de Estudos da Flora, 2009. 384 p. ISBN 8586714320.  
+SANO, S.M.; ALMEIDA, S.P.; RIBEIRO, J.F. CERRADO: ecologia e flora. Brasilia, DF: EMBRAPA, 
+2008. 2 v. ISBN 978 8573833973 (v.1).  
+TAIZ, L., ZEIGER, E. Fisiologia vegetal. 4º edição Artimed. 2009. 848p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ALMEIDA, S.P.; PROENÇA, C.E.B.; SANO, S.M.; RIBEIRO, J.F.. CENTRO DE PESQUISA AGROPE-
+CUÁRIA DOS CERRADOS (BRASIL). EMBRAPA. Cerrado/ espé cies vegetais úteis. Brasília, DF: EM-
+BRAPA, 1998. 464 p. ISBN 8586764027.  
+AGUIAR, L.M.S.; CAMARGO, A.J.A. Cerrado: ecologia e caracterização. Brasília, DF: EMBRAPA In-
+formação Tecnológica, 2004. 249 p. ISBN 8573832614.  
+SOUSA, D.M.G. (Coord). Cerrado: corr eção do solo e adubação . 2. ed. Brasília, DF: EMBRAPA Informa-
+ção Tecnológica, 416 p. ISBN 8573832304.  
+ALMEIDA, S.P.; PROENÇA, C.E.B.; SANO, S.M.; RIBEIRO, J.F. Centro de pesquisa agropecuária dos 
+cerrados (Brasil). Embrapa. Cerrado/ espécies vegetais úte is. Brasília, DF: EMBRAPA, 1998. 464 p. ISBN 
+8586764027.  
+RAVEN, P.H. Biologia vegetal. 7. ed. Rio de Janeiro, RJ: Guanabara Koogan, c2007. xxii, 830 p. ISBN 
+9788527712293.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Controle de qualidade de produtos agropecuário s Optativa  36,67  
+EMENTA  
+Introdução ao controle de qualidade de produtos agropecuários. Frutas e produtos de frutas. Conservas ve-
+getais. Açúcar e derivados. Leite e derivados. Bebidas fermentadas e fermentodestiladas. Óleos e gorduras. 
+Amidonaria e fecula ria. 
+BIBLIOGRAFIA BÁSICA  
+GONÇALVES, Édira Castello Branco de Andrade. Análise de alimentos: uma visão química da nutrição. 
+3. ed. São Paulo: Varela, 2012. 324 p.   
+CHENG, Lin Chih; MELO FILHO, Leonel Del Rey de. QFD: desdobramento da função qualidade na g estão 
+de desenvolvimento de produtos. 2. ed. São Paulo: Blücher, 2010. xxvi, 539 p. ISBN 9788521205418.   
+EVANGELISTA, jose. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 
+857379075x.   
+BIBLIOGRAFIA COMPLEMENTAR  
+DERESZ, Fermino. Base s práticas para produção de leite a pasto. 2. ed. Viçosa, MG: EDUFU; 2008. 210 
+p.  
+Iniciando um pequeno grande negócio agroindustrial: hortaliças minimamente processada. Brasília, DF: 
+EMBRAPA, 2003. 133 p. (Série Agronegócios).   
+SILVA, José Carlos Peixoto Modesto da; VELOSO, Cristina Mattos. Manejo para maior qualidade do leite. 
+Viçosa, MG: Aprenda Fácil, 2011. 181 p.    
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ SILVA JUNIOR, Eneo Alves da. Manual de controle higiênico -sanitário em serviços de alimentação. 6. ed. 
+São Paulo: Varela, 1995. 642 p.   
+JAY,  James M. Microbiologia de alimentos. 6. ed. Porto Alegre, RS: Artmed, 2005. 711 p.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Quimigação  Optativa  36,67  
+EMENTA  
+Conceito e histórico. Métodos de aplicação de produtos na irrigação pressurizada. Equipamentos e med idas 
+de segurança. Calibração. Cálculos e manejo da quimigação nos sistemas pressurizados.  
+BIBLIOGRAFIA BÁSICA  
+EMBRAPA. Quimigação: aplicação de produtos químicos e biológicos via irrigação. Editores: Enio Fer-
+nandes da Costa, Rogério Faria Vieira, Paulo  Afonso Viana. Empresa Brasileira de Pesquisa Agropecuária, 
+Centro Nacional de Pesquisa de Milho e Sorgo. Brasília: EMBRAPA_SPI, 1994. 315p.  
+MALAVOLTA, E. Manual de nutrição de plantas. Ceres. 2006. 638p.  
+COELHO, F.S. Fertilidade do solo. Instituto campin eiro de Ensino Agrícola. 1973. 386p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BERNARDO, S.; MANTOVANI, E.C.; SOARES, A. A. Manual de Irrigação. 7ª Edição. Viçosa: UFV, 
+2005. 611p  
+SKOOG, D.A., WEST, D.M., HOLLER, F.J., CROUCH, S.R. Fundamentos de química analítica. Cen gage 
+learning. 2008. 1000p.  
+LEITE, F. Práticas de química analítica. 3º edição, Átomo. 2008. 146p.  
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Equipamento de Irrigação Mecanizada - pivô 
+central e lateral móvel providos de emissores fixos ou rotativos - deter minação da uniformidade de distri-
+buição de água (NBR - 14244). São Paulo, 1998.  
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Aspersores para irrigação - Avaliação da dis-
+tribuição de água (NBR - 8989). São Paulo, 1985.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Energ ia na Agricultura  Optativa  55 
+EMENTA  
+Recursos energéticos. Conversão de energia e armazenamento. Energia solar. Eletrificação rural.  
+BIBLIOGRAFIA BÁSICA  
+MORAES, M.A.F.D.; SHIKIDA, P.F.A. Agroindústria canavieira no Brasil: evolução, desenvolvimento e 
+desafios. São Paulo: Atlas, 2002. 367 p.  
+REIS, L.B. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2. ed. Barueri, SP: Ma-
+nole, 2012. 447 p. (Ambiental). ISBN 9788520432204.  
+SANTOS, F. et al. Cana -de-açúcar: Bioenergia, Açúcar e Álc ool - Tecnologias e Perspectivas, editora UFV. 
+2009, 577p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Ministério da Agricultura. Plano nacional 
+de agroenergia: 2006 -2011. Brasília, DF: Ministério da Agricultura , Pecuária e Abastecimento, 2005. 118  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ p.  
+HINRICHS, R.A., KLEINBACH, M. Energia e meio ambiente. 3º edição, Pioneira. 2003. 543p.  
+BRANCO, S.M. Energia e meio ambiente. 2º edição, Moderna. 2004. 144p.  
+REIS, L.B., FADIGAS, E.A.A., CARVALHO, C.E. Energia, rec ursos naturais e a prática do desenvolvi-
+mento sustentável. Manole. 2005. 415p.  
+HINRICHS, R.A., KLEINBACH, M. Energia e meio ambiente. 3º edição, Pioneira. 2003. 543p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Planejamento Territorial Urbano e Rural  Optativa  55 
+EMENTA  
+Significado e conceitos de planejamento. O Estado e as políticas públicas territoriais. Ordenamento do es-
+paço geográfico. Impactos da urbanização. Política Nacional do Meio Ambiente. Instrumentos de gestão 
+ambiental. Planejamento ambiental. Polític as de gestão urbana e rural. Desenvolvimento Sustentável. Ge-
+renciamento Integrado. Zoneamento ecológico e econômico.  
+BIBLIOGRAFIA BÁSICA  
+COSTA, Wanderley Messias da. O Estado e as Políticas Territoriais no Brasil, São Paulo: Contexto, 1995.  
+OJIMA, R. Aná lise comparativa da dispersão urbana nas aglomerações urbanas brasileiras: elementos teó-
+ricos e metodológicos para o planejamento urbano e ambiental. Tese (doutorado). Campinas, Unicamp, 
+2007.  
+ALENTEJANO, P. R. As relações cidade -campo no Brasil do século XXI. Terra Livre, São Paulo, v.2, n.21, 
+p. 25 -39, jul/dez. 2003.  
+BIBLIOGRAFIA COMPLEMENTAR  
+BEZERRA, M.C.L. - Planejamento e Gestão Ambiental - uma abordagem do ponto de vista dos instrumen-
+tos econômicos - Tese de doutorado apresentada à Faculdade de Arqu itetura e Urbanismo da Universidade 
+de São Paulo - USP. 1996  
+CARVALHO, P. F.; BRAGA, R. Perspectivas de gestão ambiental em cidades médias. São Paulo. Labora-
+tório de Planejamento Municipal, IGCE/UNESP, 2001. 138p.  
+CUNHA, Sandra Baptista da.; GUERRA, Antoni o José Teixeira (orgs.). A Questão Ambiental: Diferentes 
+abordagens, Rio de Janeiro: Bertrand Brasil, 2003.  
+ECHEVERRI, R. ; RIBERO, M. P. Ruralidade , territorialidade e Desenvolvimento Sustentável: visão do 
+território na América Latina e no Caribe. Brasíl ia: IICA, 2005.  
+SERVIÇO NACIONAL DE APRENDIZAGEM RURAL. Administração rural. Goiânia, GO: SENAR, 
+2002. 71 p. ISBN 858697501X.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Recuperação de Áreas Degradadas  Optativa  55 
+EMENTA  
+Conceituação. Reabilitação como component e do sistema de gerenciamento ambiental. Técnicas de recupe-
+ração. Avaliação e monitoramento de processos de recuperação de áreas degradadas. Estudos de caso.  
+BIBLIOGRAFIA BÁSICA  
+PRUSKI, F.F. Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica . Viçosa,  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ MG: UFV, 2006. 240 p. ISBN 8572692649.  
+BERTONI, J. Conservação do solo. 7. ed. São Paulo: Ícone, 2010. 355 p. (Coleção Brasil agrícola). ISBN 
+9788527409803.  
+LEPSCH, Igo F. Formação e conservação dos solos. 2. ed. São Paulo: Of icina de textos, 2010. 216 p. ISBN 
+9788579750083.  
+BIBLIOGRAFIA COMPLEMENTAR  
+AQUINO, A.M.; ASSIS, R.L. EMBRAPA INFORMAÇÃO TECNOLÓGICA. Processos biológicos no sis-
+tema solo -planta: ferramentas para uma agricultura sustentável. Brasília, DF: EMBRAPA Informa ção Tec-
+nológica, 2005. 368 p. ISBN 8573833041.  
+NOVAIS, R.F. (Ed.). Fertilidade do solo. Viçosa, MG: Sociedade Brasileira de Ciencia do Solo, 2007. viii, 
+1017 p. ISBN 9788586504082.  
+PIRES, W. Manual de pastagem: formação, manejo e recuperação. Viçosa, MG:  Aprenda Fácil, 2006. 302 
+p. ISBN 8576300281.  
+PRIMAVESI, A. Manejo ecológico do solo: a agricultura em regiões tropicais. São Paulo: Nobel, c1979. 
+549 p. ISBN 9788521300045.  
+SOUSA, D.M.G. (Coord). Cerrado: correção do solo e adubação . 2. ed. Brasília, DF : EMBRAPA Informa-
+ção Tecnológica, 416 p. ISBN 8573832304.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Educação ambiental  Optativa  36,67  
+EMENTA  
+Fundamentação teórica da Educação Ambiental. Formas de educação ambiental. Metodologia. Educação 
+ambiental e reflorest amento. Interpretação ambiental. Ecoturismo.  
+BIBLIOGRAFIA BÁSICA  
+AGUIAR. L. M. S. Cerrado: Ecologia e Caracterização, Editora Embrapa, 2004. 249p.  
+TOZONI REIS, Marília Freitas de Campos. Educação ambiental: natureza, razão e história . 2. ed., rev. 
+Camp inas, SP: Autores Associados, 2008. 166 p. ((Educação contemporânea)). ISBN 9788574960913.  
+GRÜN, Mauro. Ética e educação ambiental: a conexão necessária . 14. ed. Campinas, SP: Papirus, 2012. 
+126 p. (Coleção Magistério: formação e trabalho pedagógico). IS BN 9788530804336.  
+BIBLIOGRAFIA COMPLEMENTAR  
+PRIMAVESI, A. Agricultura sustentável: manual do produtor rural : maior produtividade, maiores lucros, 
+respeito à terra. São Paulo, SP: Nobel, 1992. 142 p. ISBN 9788521307303.  
+TEIXEIRA, W.; FAIRCHILD, T.R.; T OLEDO, M. C.M.; TAIOLI, F. Decifrando a terra. 2. ed. São Paulo: 
+Companhia Editora Nacional, 2009. 623 p. ISBN 9788504014396.  
+FELLENBERG, Günter. Introdução aos problemas da poluição ambiental. São Paulo: EPU, 1980 196 p. 
+ISBN 9788512490403.  
+LEFF, E. (Coo rd). A complexidade ambiental. São Paulo: Cortez, 2003. 342 p. ISBN 8524909765.  
+LEFF, E. Epistemologia ambiental. 5.ed. São Paulo: Cortez, 2010. 239 p. ISBN 9788524907685.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Avaliação de impactos ambientais  Optativa  36,67 
+EMENTA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Abrangência do estudo de impacto ambiental. Licenciamento ambiental. Plano de controle ambiental (PCA). 
+Relatório de controle ambiental (RCA). Plano de recuperação de áreas degradadas (PRAD); Métodos quan-
+titativos e qualitativos da avaliação amb iental. Legislação brasileira para o estudo de impacto ambiental 
+(EIA). Geração e análise de relatórios de EIA/RIMA.  
+BIBLIOGRAFIA BÁSICA  
+BAIRD, C. Química ambiental. 4. ed. Porto Alegre, RS: Bookman, 2011. 844 p. ISBN 9788577808489.  
+TOWNSEND, C.R.; BEGO N, M.; HARPER, J.L. Fundamentos em ecologia. 3. ed. Porto Alegre, RS: Ar-
+tmed, 2010. viii, 576 p. (Biblioteca Artmed. Ecologia). ISBN 9788536320649.  
+BRAGA, A.R.S et al. Cerrado: Ecologia e Flora Vol 1. Embrapa. 2008. 1279p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MAN CUSO, P.C.S; SANTOS, Hilton Felicio dos. Reúso da água. Barueri, SP: Manole, 2003. 579, 8 p. 
+(Coleção Ambiental.). ISBN 8520414508.  
+TODD, D.K. Hidrologia de águas subterrâneas. Rio de Janeiro, RJ: Edgard Blücher, 1967. 319 p.  
+PRUSKI, F.F. Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica . Viçosa, 
+MG: UFV, 2006. 240 p. ISBN 8572692649.  
+VALENTE, O.F.; GOMES, M.A. Conservação de nascentes: hidrologia e manejo de bacias hidrográficas 
+de cabeceiras. Viçosa, MG: Aprenda Fácil, 2 005. 210 p. ISBN 9788562032325.  
+CERRADO: desafios e oportunidades para o desenvolvimento sustentavel. Planaltina, DF: Embrapa Cerra-
+dos, 2008. 464 p. ISBN 9788570750402.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Português Instrumental  Optativa  36,67  
+EMENTA  
+Pressupostos básicos para a leitura e a escrita acadêmicas. Leitura e produção de parágrafos coesos e coe-
+rentes. A intertextualidade acadêmica: a paráfrase e o plágio. Gêneros textuais acadêmicos: estrutura e fun-
+cionamento. A síntese acadêmica: o resumo e a resenha. Principais problemas de escrita.  
+BIBLIOGRAFIA BÁSICA  
+ANDRADE, Maria Margarida de; HENRIQUES, Antônio. Língua Portuguesa: noções básicas para cursos 
+superiores. São Paulo: Atlas, 1996.  
+FARACO, Carlos Alberto; TEZZA, Cristóvão. Prática de texto: l íngua portuguesa para estudantes univer-
+sitários. São Paulo: Atlas, 2001.  
+MOTTA -ROTH, Désirée; HENDGES, Graciela Rabuske. Produção textual na universidade. São Paulo: Pa-
+rábola, 2010.  
+BIBLIOGRAFIA COMPLEMENTAR  
+CEGALLA, Domingos Paschoal. Novíssima gramátic a da Língua Portuguesa. 41. ed. São Paulo: Atlas, 
+2000.  
+FIORIN, José Luiz; SAVIOLI, Francisco Platão. Para entender o texto : leitura e redação. São Paulo: Ática, 
+2003.  
+KÖCHE, Vanilda Salton; BOFF, Odete Maria Benetti; PAVANI, Cínara Ferreira. Prática textu al: ativida-
+des de leitura e escrita. Petrópolis, RJ: Vozes, 2009.  
+MARTINS, Dileta Silveira; ZILBERKNOP, Lúbia Sciliar. Português Instrumental : de acordo com as 
+atuais normas da ABNT. 28. ed. São Paulo: Atlas, 2009.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ MEDEIROS, João Bosco. Redação científica : a prática de fichamentos, resumos, resenhas. São Paulo: 
+Atlas, 2008.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Inglês Instrumental  Optativa  36,67  
+EMENTA  
+Leitura e compreensão de textos e trabalhos científicos na área das Ciências Agrárias em inglês, dentro d a 
+abordagem instrumental. Estruturas básicas do Inglês. Vocabulário técnico das Ciências Agrárias.  
+BIBLIOGRAFIA BÁSICA  
+MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de Leitura. São Paulo: Texto Novo, 2000.  
+MURPHY, R. Basic Grammar in Use. Cambrid ge: Cam bridge University Press, 1995.  
+SCHUMACHER, Cristina. Inglês Urgente! Para brasileiros, Rio de Janeiro: Elsevier, 1999.  
+BIBLIOGRAFIA COMPLEMENTAR  
+MURPHY, Raymond. Basic grammar in use: with answears. New York: Cambridge University Press, 
+2002.  
+MURPHY, R. English Grammar in Use. Cambridge: Cambridge University Press, 2000  
+ROCHA, Cláudia Hilsdorf (Org.). Ensinar e aprender língua estrangeira nas diferentes idades reflexões 
+para: Professores e formadores. São Carlos: Claraluz, 2008.  
+O`HARA, Scarlett (Ed.). Bilingual Visual Dictionary. Cambrige, UK: Dorling Kindersley, 2009.  
+SANTOS, Denise. Como ler melhor em inglês. São Paulo: DISAL, 2011. (Estratégias, 1).  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Cooperativismo e associativismo  Optativa  36,67  
+EMENTA  
+Associativismo formal e informal. Participação, associativismo e estrutura social. Educação participativa. 
+Cooperativismo: doutrina e organização. Auto -gestão. Movimento Cooperativista regional, Nacional e 
+Mundial. Cooperativismo Agropecuário. Escolas e Efici ência Cooperativa. Implantação de associação e 
+cooperativa.  
+BIBLIOGRAFIA BÁSICA  
+BATALHA, Mário Otávio. GRUPO DE ESTUDOS E PESQUISAS AGROINDUSTRIAIS. Gestão agroin-
+dustrial: GEPAI : Grupo de Estudos e Pesquisas Agroindustriais. 3. ed. São Paulo: Atlas, 20 07. v. 1 ISBN 
+9788522445707.  
+SERVIÇO NACIONAL DE APRENDIZAGEM RURAL. Administração rural. Goiânia, GO: SENAR, 
+2002. 71 p. ISBN 858697501X.  
+ALVARENGA, O.M. Agricultura brasileira: realidade e mitos. Rio de Janeiro, RJ: Revan, 1998. 285 p. 
+ISBN 8571061564.  
+BIBLIOGRAFIA COMPLEMENTAR  
+FIGUEIREDO, R.P. Extensao rural, desenvolvimento e democracia: Alguns pronunciamentos do presidente 
+da embrater, romeu padilha de figueiredo, em 1985. Brasília, DF: Embrater, 1986. 69 p  
+SANTOS, Gilberto José dos. Administração de custos na agropecuária. 4. ed. São Paulo: Atlas, 2009. 154 
+p. ISBN 9788522456598.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BRASIL. MINISTÉRIO DA EDUCAÇÃO. Qualificação profissional para zonas rurais: [administração e 
+economia rural]. [Brasília]: MEC, 1988. 2 v. (Qualificação Profissional para  zonas rurais ; 5 6 11).  
+Serviço Nacional de Aprendizagem do Cooperativismo. Cooperativismo: Primeiras Lições. 2003. 109p.  
+NEIVA, P.N. Associativismo uma Solução. Sebrae 2º edição. 1996. 38p.  
+SEMINÁRIO CIENTÍFICO SOBRE AGRICULTURA FAMILIAR, 6, 2017, Goiân ia, Go. 2017.; BOA-
+VENTURA,  Geísa D'Ávila Ribeiro (Org.); ROSA FILHO, Sebastião Nunes da et al.  Anais ...  Goiânia, GO: 
+Instituto Federal Goiano, 2017 . 221 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Direito Agrário  Optativa  36,67  
+EMENTA  
+Estatuto da Terra. Refo rma Agrária. Imposto sobre a propriedade territorial rural. Contratos Agrários. Usu-
+capião especial rural. Crédito rural. Os títulos de crédito.  
+BIBLIOGRAFIA BÁSICA  
+GRÜN, M. Ética e educação ambiental: a conexão necessária . 14. ed. Campinas, SP: Papirus,  2012. 126 p. 
+(Coleção Magistério: formação e trabalho pedagógico). ISBN 9788530804336.  
+NALINI, J.R. Ética geral e profissional. 7.ed. São Paulo: Revista dos tribunais, 2012. 702 p. ISBN 
+9788520335178.  
+TORRES, D.1. Novo código civil: exposição de motivos  e texto sancionado. Brasília, DF: Senado Federal, 
+2008. 340 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+ALVARENGA, O.M. Agricultura brasileira: realidade e mitos. Rio de Janeiro, RJ: Revan, 1998. 285 p. 
+ISBN 8571061564.  
+EMBRAPA SUÍNOS E AVES.; SEGANFREDO, M.A. Gestã o ambiental na Suinocultura. Brasília, DF: 
+Embrapa Informação Tecnológica, 2007. 302 p. ISBN 9788573833843.  
+GOMES, J.C. Legislação de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.  
+SAVIANI, D. A nova lei da educação: LDB : trajetória, limites e perspectivas. 11. ed. Campinas, SP: Au-
+tores Associados, 2008. 242 p. ISBN 9788585701451.  
+MAZOYER, M.; ROUDART, L. História das Agriculturas no mundo: do neolítico à crise contemporânea. 
+[Brasília, DF]: 567 p. ISBN 978856548606 (NEAD) .  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Métodos de Conservação de Alimentos  Optativa  55 
+EMENTA  
+Operações básicas do processamento de alimentos. Técnicas de conservação dos alimentos: por calor, frio, 
+defumação, controle de umidade, irradiação, adição de s olutos, fermentação, pela adição de compostos quí-
+micos, uso de embalagens e novas tecnologias. Fatores condicionantes da armazenagem e do transporte de 
+alimentos.  
+BIBLIOGRAFIA BÁSICA  
+OETTERER, M. Fundamentos de ciência e tecnologia de alimentos. Barueri,  SP: Manole, 2006. 612 p. 
+ISBN 852041978X.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ GAVA, A.J. Principios de tecnologia de alimentos. 284 p. ISBN 8521301324.  
+JAY, J.M. Microbiologia de alimentos. 6. ed. Porto Alegre, RS: Artmed, 2005. 711 p. ISBN 
+978853630507x.  
+BIBLIOGRAFIA COMPLEMENTAR  
+COUL TATE, T. P. Alimentos: a química de seus componentes . 3. ed. Porto Alegre, RS: Artmed, 2004. 368 
+p. (Biblioteca Artmed). ISBN 8536304049.  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+CHAVES, J.B.P. Pr áticas de laboratório de análise sensorial de alimentos e bebidas. Viçosa, MG: UFV, 
+2005. 81 p. (Caderno didático; 66). ISBN 9788572691482.  
+FELLOWS, P. J. Tecnologia do processamento de alimentos: princípios e prática. 2. ed. Porto Alegre, RS: 
+Artmed, 200 6. 602 p. ISBN 9788536306520.  
+GOMES, J.C. Legislação de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Tecnologia de Frutas e Hortaliças  Optativa  110 
+EMENTA  
+Classificação das matérias -primas vegetais para industrialização e fisiologia pós -colheita. Beneficiamento 
+e processamento de frutas e hortaliças. Controle de qualidade dos produtos, métodos de conservação e as-
+pectos legais vigentes.  
+BIBLIOGRAFIA BÁSICA  
+GAVA, A.J. Principios de tec nologia de alimentos. 284 p. ISBN 8521301324.  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+CHITARRA, M.I.F.; CHITARRA, A.B. Pós -colheita de frutas e hortaliças: fisiologia e manuseio. 2. ed. 
+Lavras, MG : UFLA, 2005. 783 p. ISBN 8587692275.  
+BIBLIOGRAFIA COMPLEMENTAR  
+GOMES, J.C. Legislação de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.  
+CHAVES, José Benicio Paes. Práticas de laboratório de análise sensorial de alimentos  e bebidas. Viçosa, 
+MG: UFV, 2005. 81 p. (Caderno didático; 66). ISBN 9788572691482.  
+FELLOWS, P. J. Tecnologia do processamento de alimentos: princípios e prática. 2. ed. Porto Alegre, RS: 
+Artmed, 2006. 602 p. ISBN 9788536306520.  
+LOVATEL, J.L.; COSTANZI,  A.R.; CAPELLI, R.. Processamento de frutas & hortaliças. Caxias do Sul, 
+RS: Educs, 2004. 189 p. ISBN 8570612826.  
+KOLLER, Otto Carlos (Org). Citricultura: laranja - tecnologia de produção, pós -colheita, industrialização e 
+comercialização. Porto Alegre, RS : Cinco Continentes, 2006. vii, 396 p. (1). ISBN 8586466387.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Tecnologia de Leites e Derivados  Optativa  55 
+EMENTA  
+Características e propriedades do leite. Obtenção e coleta do leite. Análises físico -químicas do leite. Bene-
+ficiamento do leite. Tecnologia de processamento de derivados lácteos. Avanços tecnológicos e equipamen-
+tos industriais utilizados no processamento de leite e derivados. Legislação sanitária de produtos lácteos. 
+Avanços tecnológicos. Segurança alimentar  e controle de qualidade em produtos lácteos.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ BIBLIOGRAFIA BÁSICA  
+Instituto centro de ensino tecnológico. Produtor de leite e derivados. 2. ed. Fortaleza: Edições Demócrito 
+Rocha, 2004. 56 p. (Cadernos Tecnológicos). ISBN 8575292811.  
+GAVA, A.J. Principi os de tecnologia de alimentos. 284 p. ISBN 8521301324.  
+TRONCO, V.M. Manual para inspeção da qualidade do leite. 4. ed. Santa Maria, RS: UFSM, 2010. 203 p. 
+ISBN 9788573911398.  
+BIBLIOGRAFIA COMPLEMENTAR  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São  Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+GOMES, J.C. Legislação de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.  
+CHAVES, J.B.P. Práticas de laboratório de análise sensorial de alimentos e bebidas. Viçosa, MG: UFV, 
+2005. 81 p. (Caderno didático; 66). ISBN 9788572691482.  
+Embrapa caprinos.. Embrapa informação tecnológica. SEBRAE. Iniciando um pequeno grande negócio 
+agroindustrial: leite de cabra e derivados. Brasília, DF: Embrapa Informação Tecnológica, 2003. 151 p. 
+(Série Agronegócios). ISBN 8573831820 (Embrapa).  
+SILVA, J.C.P.M. Manejo de vacas leiteiras a pasto. Viçosa, MG: Aprenda Fácil, 2011. 170 p. (Gado leiteiro; 
+6). ISBN 9788562032271.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Tratamento de Efluentes  Optativa  55 
+EMEN TA 
+Noções de qualidade das águas. Caracterização das águas residuais. Legislação e impacto do lançamento de 
+efluentes nos corpos receptores. Importância do tratamento de efluentes e controle de qualidade nas indús-
+trias de alimentos. Caracterização e locai s de geração de efluentes na indústria alimentícia. Técnicas de 
+tratamento de efluentes: níveis, processos e sistemas de tratamento de efluentes.  
+BIBLIOGRAFIA BÁSICA  
+PHILIPPI JR., A. Saneamento, saúde e ambiente: fundamentos para um desenvolvimento suste ntável. Ba-
+rueri, São Paulo: Ed. Manole, 2005.  
+REIS, L. B.; FADIGAS, E. A. A.; CARVALHO, C. E. Energia, recursos naturais e a prática do desenvol-
+vimento sustentável. São Paulo: Editora Manole, 2005.  
+von SPERLING, Marcos. Lagoas de estabilização. 2ª Ed. V. 3 . Belo Horizonte: UFMG, 2002.  
+BIBLIOGRAFIA COMPLEMENTAR  
+COSTA, Regina Pacca; TELLES, Dirceu D'Alkmin (Coord.).  Reúso da água:  conceitos, teorias e práticas. 
+2. ed. São  Paulo, SP: Blucher, 2010. 408   
+DERISIO, J. C. Introdução ao controle de poluição ambie ntal. S.P.: Editora Sigmus, 2007.  
+DIAS, G. F. Educação ambiental: princípios e práticas. São Paulo: Editora Gaia, 1994.  
+MACÊDO, J. A. B. Águas e águas. São Paulo: Livraria Varela, 2001.  
+SANT'ANNA JUNIOR, Geraldo Lippel.  Tratamento biológico de efluentes:  fundamentos e aplicações .  2. 
+ed. Rio de Janeiro, RJ: Interciência, 2013 xix, 404 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Tecnologia de Carnes e Derivados  Optativa  110  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ EMENTA  
+Operações de pré -abate e abate de bovinos, suínos, aves e pescados. Composição qu ímica da carne. Estrutura 
+do tecido animal. Processo bioquímico da contração animal. Transformação do músculo em carne. Cortes 
+comerciais. Matérias -primas, envoltórios, recipientes, aditivos e condimentos empregados no processa-
+mento da carne. Procedimentos  básicos de processamento da carne: cura, cominuição, reestruturação, emul-
+sificação, fermentação, salga, cozimento e defumação. Tecnologias de produção de produtos cárneos. Equi-
+pamentos de industrialização de carnes e derivados.  
+BIBLIOGRAFIA BÁSICA  
+GAVA,  A.J. Principios de tecnologia de alimentos. 284 p. ISBN 8521301324.  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+PARDI, M.C. UNIVERSIDADE FEDERAL DE GOIAS. Ciência, higiene e tecnologia da carne. 2. e d. 
+Goiânia, GO: UFG; 2005. 2v. ISBN 8572741712.  
+BIBLIOGRAFIA COMPLEMENTAR  
+TERRA, N.N.; TERRA, A.B. M.; TERRA, L.M. Defeitos nos produtos cárneos: origens e soluções . São 
+Paulo: Varela, 2004. 88 p. ISBN 8585519797.  
+RAMOS, E.M.; GOMIDE, L.A.M. Avaliação  da qualidade de carnes: fundamentos e metodologias. Viçosa, 
+MG: Editora UFV, 2007. 599 p. ISBN 9788572692892.  
+COTTA, T. Frangos de corte: criação, abate e comercialização. Viçosa, MG: Aprenda Fácil, 2012. 243 p. 
+ISBN 9788562032684.  
+GOMES, J.C. Legislaçã o de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.  
+CHAVES, J.B.P. Práticas de laboratório de análise sensorial de alimentos e bebidas. Viçosa, MG: UFV, 
+2005. 81 p. (Caderno didático; 66). ISBN 9788572691482.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Tecnologia de Bebidas  Optativa  73,33  
+EMENTA  
+Introdução à Tecnologia de Bebidas. Legislação Brasileira de bebidas e Mercado. Recepção e controle da 
+matéria -prima para produção de bebidas. Tecnologia de bebidas alcoólicas fermentadas (vinho, cerveja, 
+sidra), fermento destiladas (uísque, vodka, rum, gim, aguardente), não -alcoólicas refrescantes (refrigerantes) 
+e estimulantes (café, chá), isotônicos, água mineral e água de coco. Insumos, aditivos, coadjuvantes e equi-
+pamentos utilizados n a tecnologia de bebidas. Processos de conservação de bebidas. Embalagens para be-
+bidas.  
+BIBLIOGRAFIA BÁSICA  
+DAVIES, C.A. Alimentos e bebidas. 4. ed. Caxias do Sul, RS: Educs, 2010. 254 p. (Coleção Hotelaria). 
+ISBN 9788570615527.  
+GAVA, A.J. Principios de tecnologia de alimentos. 284 p. ISBN 8521301324.  
+SILVA, D.J; QUEIROZ, A.C. Análise de alimentos: métodos quimicos e biológicos. 3. ed. Viçosa, MG: 
+Ed. UFV, 2002. 235 p. ISBN 8572691057.  
+BIBLIOGRAFIA COMPLEMENTAR  
+VENTURINI FILHO, W.G. Bebidas alcoólicas : ciência e tecnologia. São Paulo: Blucher, 2010. 3 v. (Série 
+Bebidas ;). ISBN 9788521204923 (v.1).  
+GOMES, J.C. Legislação de alimentos e bebidas. 2. ed. Viçosa, MG: UFV, 2009. 635 p. ISBN 
+9788572693295.   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ CHAVES, J.B.P. Práticas de laboratório de análise sensorial de alimentos e bebidas. Viçosa, MG: UFV, 
+2005. 81 p. (Caderno didático; 66). ISBN 9788572691482.  
+EVANGELISTA, J. Tecnologia de alimentos. 2. ed. São Paulo: Atheneu, 2005. 652 p. ISBN 857379075x.  
+DAVIES, Carlos Alberto. Alimentos e bebidas. 4. e d. Caxias do Sul: Educs, 2010.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Bioclimatologia e Etologia  Optativa  55 
+EMENTA  
+Introdução ao estudo da bioclimatologia. Climas. Menismos de regulação térmica dos animais. Eeitos do 
+ambiente sobre o animal. Proteção dos a nimais no meio ambiente. Introdução ao comportamento animal e 
+suas causas. Bases fundamentais da etologia. Comportamento aprendido. observação e medida do compor-
+tamento. O comportamento social dos animais. O comportamento reprodutivo. O comportamento alime ntar. 
+BIBLIOGRAFIA BÁSICA  
+CARTHY, J.D. Comportamento Animal. São Paulo: EPU/EDUSP. 1980, 79 pp.  
+PARANHOS DA COSTA, M.J.R. e CROMBERG, V.U. Comportamento Materno em Mamíferos: Bases 
+Teóricas e Aplicações aos Ruminantes Domésticos, SBEt: São Paulo, 262pp.  
+SILVA, R. G. da. Introdução à Bioclimatologia Animal. São Paulo – SP: Nobel, 2000, 286 p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+HAHN, G. Leroy.  Bioclimatologia e instalações zootécnicas.  Jaboticabal, SP: FUNEP, 1993. 28 p.  
+MULLER, F.B. Bioclimatologia Aplicada aos a nimais domésticos. 2 ed. Porto Alegre, 1993.  
+PEREIRA, J.C.C. Melhoramento genético aplicado à produção animal. Belo Horizonte. FEP -MVZ, 1999. 
+493p.  
+POUCGH, F.H.HEISER, J.B.MOFARLAND, A vida dos vertebrados. São Paulo, Ateneu, 1993.  
+TECNOLÓGICO. P. B. D. C.  Meteorologia e climatologia: ação programada em ciência e tecnologia. Ce-
+plan. 24ª ed. 60p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Aquicultura  Optativa  55 
+EMENTA  
+Introdução à piscicultura. Ecossistemas aquáticos. Características físicas e químicas da água. Anatomia e 
+fisiologia de peixes. Espécies de peixes de interesse zootécnico. Construção de tanques para a piscicultura. 
+Adubação e calagem de tanques. Alimentação e nutrição de peixes de cultivo. Manejo reprodutivo. Noções 
+de enfermidades em peixes. Aspect os gerais da criação de rãs. Espécies próprias para cultivo. Instalações e 
+equipamentos. Manejo reprodutivo. Manejo de eclosão. Manejo de girinos, manejo de engorda, manejo 
+alimentar. Competidores. Pragas e doenças.  
+BIBLIOGRAFIA BÁSICA  
+ANDRADE, Dálcio Ri cardo de; VIDAL JÚNIOR, Manuel Vazquez.  Produção de alevinos.  Viçosa, MG: 
+CPT, 2013. 188  p. 
+BALDISSEROTTO, Bernardo; GOMES, Levy de Carvalho.  Espécies nativas para piscicultura no Brasil.  2. 
+ed. Santa  Maria, RS: Ed. UFSM, 2010. 606 p . 
+PISCICULTURA. 2. ed. Brasília, DF: Ministério da Ciência e Tecnologia, 2004. 72 p. (Coleção Cadernos  
+tecnológicos).    
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ BIBLIOGRAFIA COMPLEMENTAR  
+MANCUSO, P.C.S.; SANTOS, H.F. Reúso da água. Barueri, SP: Manole, 2003. 579, 8 p. (Cole ção Ambi-
+ental.). .  
+BALDISSEROTTO, Bernardo.  Fisiologia de peixes aplicada à piscicultura.  3. ed. Santa Maria, RS: UFSM, 
+2013.  349 p   
+FABICHAK, I. Pequenas construções rurais. São Paulo: Nobel, 198 3. 129 p.  
+LIMA, Samuel Lopes.  Curso de criação de rãs:  novas tecnologias. Viçosa, MG: CPT, 2012. 260 p . 
+LOGATO, Priscila Vieira Rosa.  Nutrição e alimentação de peixes de água doce.  2. ed. Viçosa, MG: Aprenda 
+Fácil,  2012. 131 p . 
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Bromatologia  Optativa  73,33  
+EMENTA  
+Conceito e importância da bromatologia. Estudo químico e nutricional dos constituintes fundamentais dos 
+alimentos. Determinação dos constituintes fundamentais dos alimentos. Importância da análise e avaliação 
+dos alimentos no controle de qualidade de ingredientes destinados à nutrição animal, O valor nutritivo d os 
+alimentos, Métodos de avaliação dos alimentos, Identificação de vidrarias e equipamentos utilizados na 
+análise de alimentos, Normas técnicas para amostragem de alimentos, Determinação da composição cente-
+simal de alimentos (técnicas), O valor energético dos alimentos Alimentos e nutrientes. Química dos nutri-
+entes nos alimentos. Processamento e conservação dos alimentos. Estudo bromatológico dos principais gru-
+pos de alimentos. Alimentos para fins especiais. Legislação relativa. Introdução a análise de alim entos. 
+Composição dos principais ingredientes para confecção da ração. Método de Weende (umidade, proteína 
+bruta, extrato etéreo, matéria mineral, fibra bruta, extrativos não nitrogenados). Método de van Soest (fibra 
+em detergente neutro, fibra em detergen te ácido, celulose, hemicelulose, lignina)  .Estimativa do valor caló-
+rico e granulometria.  
+BIBLIOGRAFIA BÁSICA  
+BUTOLO, J. E. Qualidade de ingredientes na alimentação animal. Editora CBNA, 2002.  
+CECCHI, H M. Fundamentos teóricos e práticos em análise de a limentos. 2. ed. Campinas, SP.: Unicamp, 
+2003.  
+ SILVA, D.J; QUEIROZ, A.C. Análise de alimentos: Métodos químicos e biológicos. 3ª Edição. Vi-
+çosa:UFV. 2002, 235p. . 
+BIBLIOGRAFIA COMPLEMENTAR  
+BERCHIELLI, T.T.; VAZ PIRES, A.; OLIVEIRA, S.G. Nutrição de rumin antes. 1ª Edição. Jaboticabal: 
+FUNEP. 2006, 496p.  
+FELLOWS, P.J. Tecnologia do processamento de alimentos: princípios e prática. 2.ed. Porto Alegre: Ar-
+tmed, 2006. 602p.  
+GAVA, A.J.; SILVA, C.A.B.; FRIAS, J.R.G. Tecnologia de alimentos: princípios e aplicaç ões. São Paulo: 
+Nobel, 2008. 511p.  
+ORDÓÑEZ, J.A. Tecnologia de alimentos: alimentos de origem animal. Porto Alegre: ARTMED, 2005, 
+v.2. 279p.  
+RAMOS, E.M. Avaliação da qualidade de carne: fundamentos e metodologias. Viçosa: UFV, 2007. 599p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA   
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ Melhoramento Genético Animal  Optativa  73,33  
+EMENTA  
+Definição de melhoramento genético animal; Genética das populações; Genética quantitativa; Ação gênica; 
+Herdabilidade; Repetibilidade; Diferencial de seleção e progresso genético; He terose; Seleção e métodos de 
+seleção; Sistemas de cruzamento; Melhoramento de espécies de interesse econômico.  
+BIBLIOGRAFIA BÁSICA  
+PEREIRA, J.C.C. Melhoramento genético aplicado à produção animal/ Jonas Carlos Campos Pereira. . 6. 
+ed. Belo Horizonte: FEP MVZ Ed, 2012. 758 p. ISBN 9788587144461.  
+BROWN, T. A. Genética: um enfoque molecular . 3. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2009. xxiv, 
+336 p. ISBN 9788527705219.  
+RAMALHO, M. ; SANTOS, J. B. dos & PINTO, C. B. Genética na agropecuária. 6.ed. São Paulo: Globo 
+1997. 359p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+RIBEIRO, S.D.A. Caprinocultura: criação racional de caprinos. São Paulo: Nobel, c1998. 318 p. ISBN 
+8521309724.  
+FREITAS, L.B.; BERED, F. Genética & evolução vegetal. Porto Alegre, RS: Ed. da UFRGS, 2003.  463 p. 
+ISBN 857025718X.  
+SILVA, M. de A e. Melhoramento animal: noções básicas de estatística. 2a ed. Viçosa, UFV, 1993. 49p.  
+CRUZ, C. D. Modelos biométricos aplicados ao melhoramento, 2ª ed. Viçosa – MG: UFV, 1997. 390 P.  
+SILVA, M. de A. e. Melhoramento animal: noções básicas de genética quantitativa. 2a ed. Viçosa - MG: 
+UFV, 1993. 61p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Alimentos e Alimentação  Optativa  73,33  
+EMENTA  
+Princípios de nutrição animal classificação dos alimentos. Principais alimentos utiliz ados na alimentação 
+animal. Nutrientes. Uso e aplicação das normas de alimentação. Controle de qualidade dos principais ali-
+mentos utilizados na alimentação animal. Balanceamento de rações animais. Valor nutritivo dos alimentos.  
+BIBLIOGRAFIA BÁSICA  
+LANA, R.P. Nutrição e alimentação animal: mitos e real idades . 2. ed. Viçosa, MG: UFV, 2007. 344 p. ISBN 
+9788590506720.  
+BERCHIELLI, T.T.; PIRES, A.V.; OLIVEIRA, S.G. Fundação de estudos e pesquisas em agronomia, me-
+dicina veterinária, zootecnia. fundação de ampar o à pesquisa do estado de são paulo. Nutrição de ruminan-
+tes. 2. ed. [Jaboticabal, SP]: FUNEP, FAPESP, [2011]. 616 p. ISBN 9788578050689.  
+ANDRIGUETTO, J. M. et al. Nutrição animal: bases e fundamentos. v. 1. São Paulo: Nobel, 2002. 395p.  
+BIBLIOGRAFIA COMPL EMENTAR  
+COTTA, T. Alimentação de aves. Viçosa, MG: Aprenda Fácil, 2003. 238 p. ISBN 8588216450.  
+COUTO, H.P. Fabricação de rações e suplementos para animais: gerenciamento e tecnologias. 2. ed. Viçosa, 
+MG: Aprenda Fácil, 2012. 289 p. ISBN 9788576012634.   
+FRAPE, D. Nutrição & alimentação de equinos. 3. ed. São Paulo: Roca, 2008. ISBN 9788572417259.  
+BERTECHINI, A.G. Nutrição de monogástricos. 2.ed. Lavras, MG: UFLA, 2012. 373 p. ISBN 
+9788581270166.  
+TORRES, A. Di P. Alimentos e nutrição das aves domésticas . 2a ed. São Paulo -SP: Nobel, 1989. 324p.   
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+  
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Nutrição de Não Ruminantes  Optativa  55 
+EMENTA  
+Introdução ao estudo da nutrição de não ruminantes. Aspectos gerais sobre o trato digestivo. Estudo dos 
+nutrientes e seus metabol ismos. Exigências nutricionais  
+BIBLIOGRAFIA BÁSICA  
+ANDRIGUETTO, J. M. et al. Nutrição animal, vols. 1 e 2, São Paulo: Nobel, 1991  
+ANDRIGUETTO, J. M. et al. Nutrição animal: bases e fundamentos. v. 1. São Paulo: Nobel, 2002. 395p.  
+ANDRIGUETTO, J. M. et al . Nutrição animal: alimentação animal. v. 2. São Paulo: Nobel, 2003. 426p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+CHEEKE, P.R. Applied animal nutrition: feeds and feeding. New York: MacMillan, 1991.  
+CHURCH, D.C.; POND, W.G. Bases cientificas para la nutrición y alime ntación de los animales domesti-
+cos, Zaragoza: Acribia, 1977.  
+CRAMPTON, E.M.; HARRIS, L.E. Nutrición animal aplicada. Zaragoza: Acribia, 1979.  
+CUNNIGHAM, J.G. Tratado de fisiologia veterinária, Rio de Janeiro: Guanabara - Koogan, 1993.  
+NUNES, I. J. Nutrição Animal Básica. FEP -MVZ Editora,1998.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Eqüideocultura  Optativa  55 
+EMENTA  
+Introdução a equideocultura. Exterior. Aprumos e pelagens. Andamentos e dentição. Equídeos criados no 
+Brasil. Nutrição e alimentação. Manejo e inst alações.  
+BIBLIOGRAFIA BÁSICA  
+DYCE, Keith M.; SACK, Wolfgang O.; WENSING, Cornelis Johannes Gerardus. Tratado de anatomia 
+veterinária. 3. ed. Rio de Janeiro, RJ: Elsevier, 2004. 813 p. ISBN 8535213929.  
+FRANDSON, R. D. Anatomia e fisiologia dos animais de  fazenda. 7. ed. Rio de Janeiro, RJ: Guanabara 
+Koogan, 2011. xii, 413 p. ISBN 9788527718189.  
+FRAPE, D. Nutrição & alimentação de equinos. 3. ed. São Paulo: Roca, 2008. ISBN 9788572417259.  
+BIBLIOGRAFIA COMPLEMENTAR  
+SILVER, C. Tudo sobre cavalos: um guia  mundial de 200 raças. 3. ed. São Paulo, SP: Martins Fontes, 2000. 
+231 p. ISBN 8533613008.  
+CINTRA, A.G.C. O cavalo: carac terísticas, manejo e alimentaçã . São Paulo: Roca, 2011. xvi, 364 p. ISBN 
+9788572418690.  
+MORAES, A. O cavalo: origem, evolução, raças,  pelagens. Versão Preliminar – Manual n° 2, 1997.  
+TARANTO, J. R. P. Eqüino: sangue e raça. Rio de Janeiro: Index, 1989. 126p.  
+TORRES, A.P.; JARDIM, W. R. Criação do cavalo e de outros eqüinos. 2 ed. Sâo Paulo: Ed. Nobel, 1981, 
+654 p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁ-
+RIA 
+Apicultura, Cunicultura e Animais Silvestres  Optativa  55  
+ 
+AGRONOMIA  
+Bacharelado  
+ 
+ 
+ EMENTA  
+Desenvolvimento da apicultura. Biologia das abelhas. Instalações e equipamentos apícolas. Plantas de inte-
+resse apícola. Localização e instalação do apiário. Captura de enxames.  Manipulação das colméias. Alimen-
+tação das abelhas. Criação e introdução de rainhas. Produção e extração do mel. Produtos das abelhas. Do-
+enças das abelhas. Introdução e importância da Cunicultura. Sistemas de criação. Instalações e acessórios 
+em cunicultur a. Raças de coelhos. Reprodução de coelhos. Manejo da criação de coelhos. Noções sobre 
+melhoramento genético em coelhos. Nutrição e alimentação dos coelhos. Industrialização da carne, pele e 
+lã. Principais doenças dos coelhos. Planejamento da criação. Cria ção de animais silvestres. Preservação de 
+animais silvestres. Domesticação e utilização dos animais silvestres. Potencial e preservação de espécies 
+silvestres. Classificação zoológica. Reprodução dos animais silvestres. Alimentação, nutrição, genética, ma-
+nejo e preservação de espécies selecionadas de animais silvestres.  
+BIBLIOGRAFIA BÁSICA  
+CAMARGO, J.M.F. Manual de Apicultura. Ed. Agronômica Ceres. São Paulo, 1972, 252p. WIESE, H. 
+Nova Apicultura, 485p. 1980.  
+INFORME AGROPECUÁRIO. Criação de abelhas: alte rnativa para o aumento da produção agrícola. Belo 
+Horizonte: EPAMIG, 1983. 96p.  
+MEDIANA, J. G. Cunicultura, arte de criar coelhos. São Paulo: Instituto Campineiro de Ensino Agrícola, 
+1988. 183p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+RAQUEL, M.P. Coelhos: técnicas da  criação. Viçosa, MG: CPT, 2008. 242 p. (Série Pequenas Criações ; 
+12). ISBN 8588764504.  
+MEDIANA, J. G. Cunicultura e apicultura. São Paulo: Instituto Campineiro de Ensino Agrícola, 1979. 371p.  
+MUXFELDT, H. Apicultura para todos. Porto Alegre: Sulina, 1982.  242p.  
+VIEIRA, M. I. Criação racional de coelhos. Rio de Janeiro: Didática, 1965. 217p.  
+VIEIRA, M. I. Produção de coelhos. Rio de Janeiro: São Paulo: Nobel, 1980. 361p.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Nutrição de ruminantes  Optativa  55 
+EMENTA  
+Introdu ção ao estudo da nutrição de ruminantes. Aspectos gerais sobre o trato digestivo. Particularidades no 
+trato digestivo dos ruminantes. Estudo dos nutrientes e seus metabolismos. Exigências nutricionais. Fer-
+mentação e microbiologia do rúmen.  
+BIBLIOGRAFIA BÁ SICA  
+BERCHIELLI, T.T.; PIRES, A.V.; OLIVEIRA, S.G. Fundação de estudos e pesquisas em agronomia, me-
+dicina veterinária, zootecnia. fundação de amparo à pesquisa do estado de São Paulo. Nutrição de ruminan-
+tes. 2. ed. [Jaboticabal, SP]: FUNEP, FAPESP, [2011] . 616 p. ISBN 9788578050689.  
+DYCE, K.M.; SACK, W.O.; WENSING, C.J.G. Tratado de anatomia veterinária. 3. ed. Rio de Janeiro, RJ: 
+Elsevier, 2004. 813 p. ISBN 8535213929.  
+ANDRIGUETTO, J. M. et al. Nutrição animal: bases e fundamentos. v. 1. São Paulo: Nobe l, 2002. 395p.  
+BIBLIOGRAFIA COMPLEMENTAR  
+LANA, R.P. Nutrição e alimentação animal: mitos e realidades . 2. ed. Viçosa, MG: UFV, 2007. 344 p. 
+ISBN 9788590506720. 5 exemplares  
+COELHO DA SILVA, J.F.; LEÃO, M. I. Fundamentos de nutrição de ruminantes. Piraci caba: Livroceres,  
+ 
+AGRONOMIA  
+Bacharelado  
+11  
+ 1979.  
+CUNNIGHAM, J.G. Tratado de fisiologia veterinária, Rio de Janeiro: Guanabara - Koogan, 1993.  
+MARTIN, L.C.T. Nutrição de bovinos de Corte. São Paulo, Nobel, 1993. 173p.  
+MAYNARD, L.A. et al. Nutrição Animal. 3.ed.,Rio de Janeiro: Livra ria Freitas Bastos, 1984.  
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Caprinocultura e ovinocultura  Optativa  73,33  
+EMENTA  
+Panorama e perspectivas da exploração de ovinos e caprinos no mundo e no Brasil. Origem das raças e 
+respectivas aptidões. Manejo alimentar. Sanitário. Reprodutivo. Instalações. Aspectos de mercados e viabi-
+lidade econômica da produção de ovinos e caprinos para leite. Carne, lã e pele.  
+BIBLIOGRAFIA BÁSICA  
+SILVA SOBRINHO, A.G. Criação de ovinos. 3. ed. Jaboticabal, SP: FUNEP, 2006. 302 p. ISBN 
+8587632868.  
+EMBRAPA CAPRINOS.. Embrapa Informação Tecnológica. SEBRAE. Iniciando um pequeno grande ne-
+gócio agroindustrial: leite de cabra e derivados. Brasília, DF: Embrapa Informação Tecnológica, 2003. 151 
+p. (Série Agronegócios). ISBN 8573831820 (Embrap a).  
+GUIMARÃES, M. P. S. L. M. de   P. Criação de cabras leiteiras : cria, recria e produção de leite. V çosa, MG: 
+CPT, 2008. 204 p.   
+BIBLIOGRAFIA COMPLEMENTAR  
+DEGOIS, É. Manual do criador de ovinos. Editora(s) Publicações Europa -América, [1985] -1985.  
+Fundaç ão Educacional Padre Landell de Moura., Manual de ovinocultura. Editora(s) FEPLAM,1977.  
+EMBRAPA CAPRINOS. Embrapa Informação Tecnológica. SEBRAE. Iniciando um pequeno grande ne-
+gócio agroindustrial: processamento da carne caprina. Brasília, DF: Embrapa Info rmação Tecnológica, 
+2003. 106 p.  
+GOUVEIA, A.M.G.; ARAUJO, E.C.; ULHOA, M.F.P. Instalações para a criação de ovinos tipo corte: nas 
+regiões centro -oeste e sudeste do Brasil. Brasília, DF: LK editora, 2007. 95 p. (Tecnologia fácil; 72).  
+RIBEIRO, S.D.A. Capr inocultura: criação racional de caprinos. São Paulo: Nobel, c1998. 318 p. ISBN 
+8521309724.   
+ 
+DISCIPLINA  PERÍODO  CARGA HORÁRIA  
+Libras  Optativa  36,67  
+EMENTA  
+Políticas linguísticas e educacionais para surdos no Brasil. Concepções de linguagem, língua, lí ngua sinali-
+zada e abordagens de ensino dos surdos. Estudo das identidades e cultura surdas. Novas tecnologias e edu-
+cação de surdos. Introdução à libras.  
+BIBLIOGRAFIA BÁSICA  
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Lei Nº. 10.436, de 24 de abril de 2002. 
+Dispõe sobre a Língua Brasileira de Sinais – LIBRAS e dá outras providências.  
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Decreto Nº 5.296 de 02 de dezembro 
+de 2004.  
+BRASIL. Declaração de Salamanca e linha de aç ão sobre necessidades educativas especiais. Brasília: 
+UNESCO, 1994.   

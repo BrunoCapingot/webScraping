@@ -1,6 +1,6 @@
 from Projeto.Controle.Engine.ProcessosInternos.Arquivo import Arquivo
 
-class ProcessosInternos():
+class ProcessosInternos:
     def __init__(self):
         self.arquivo = Arquivo()
 

@@ -10,4 +10,3 @@ class Controle():
 
     def execParalelEngine(self):
         self.engine.varreduraWeb()
-        print('uma vez')

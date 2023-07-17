@@ -1,0 +1,1546 @@
+ 
+QUÍMICA  
+Licenciatura  
+ 
+38  
+ nível  médio . Diário Oficial da República Federativa do Brasil , Brasília , DF, 15 de outubro de 2012, Seção  
+1, p. 6 e retificado no Diário Oficial da República Federativa do Brasil , Brasília , DF, 16 de outubro de 2012, 
+Seção  1, p. 6.  
+_______. Lei n.º 12.764 , de 11/02/2012. Regulamenta a Lei n.o 12.711, de 29/08/2012.  
+BRA SIL. Lei n.º 12.796 , de 04/04/2013. Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as 
+diretrizes e bases da Educação  nacional, para dispor sobre a Formação  dos profissionais da Educação  e dar 
+outras providencias.  
+________. Resolução CNE/C P nº 2 , de 01/07/2015. Define as Diretrizes Curriculares Nacionais para a 
+Formação  inicial em nível  superior (cursos de licenciatura, cursos de Formação  pedagógica  para graduados e 
+cursos de segunda licenciatura) e para a Formação  continuada.  
+________. Lei n.º 13. 146 , de 06/07/2015. Institui a Lei Brasileira de Inclusão  da Pessoa com 
+Deficiência (Estatuto da Pessoa com Deficiência ). 
+DAMASCENO et al.  A Formação Dos Docentes De Química: Uma Perspectiva Multivariada Aplicada À Rede 
+Pública De Ensino Médio De Goiás.  Química Nova , Vol. 34, No. 9, 1666 -1671, 2011.  
+INSTITUTO FEDERAL GOIANO. Resolução CS/ IF Goiano n.º 07 . Dispõe  sobre a organização  didático -
+pedagógica  dos cursos de Graduação , no âmbito  do IF Goiano.  
+INSTITUTO FEDERAL GOIANO. Regulamento dos Cursos  de Graduação. 2016. Disponível em: 
+www.ifgoiano.edu.br. Acesso em: 30/08/2017.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+QUÍMICA  
+Licenciatura  
+39  
+ ANEXO I  - Matriz Curricular de Disciplinas  
+Período  Código  Disciplina  C.H.S.  C.H.R.  P.C.C.  F.P.* 
+Teórica  Prática  Primeiro  HED  História da educação  2  36,7  36,7 
+THQ  História da química  2  36,7  36,7 
+CDI1  Cálculo Diferencial e Integral I  4  73,3 14,7  
+ESTAT  Estatística Aplicada  2  36,7 7,3  
+QG Química Geral  4  73,3 18,3  
+ECM  Educação, Comunicação e Mídias  2  36,7  36,7 
+QGE  Química Geral Experimental   2 36,7   
+Carga horária total 1P  18 330,0  40,3 110,0  Segundo  FEQ  Fundamentos do Ensino de Química  3  55,0  55,0 
+PSID  Psicologia da Educação I  2  36,7  36,7 
+CDI2  Cálculo Diferencial e Integral II  4  73,3 14,7  
+MC Metodologia Científica  2  36,7   
+QI1 Química Inorgânica I  4  73,3 18,3  
+QAQL  Química Analítica Qualitativa  3  55,0 13,8  
+QAQLE  Química Analítica Qualitativa Experimental   2 36,7   
+Carga horária total 2P  20 366,7  46,8 91,7 Terceiro  PSIA  Psicologia da Educação II  2  36,7  36,7 
+LBR  Libras  2  36,7  36,7 
+CDI3  Cálculo Diferencial e Integral III  4  73,3 14,7  
+FIS1  Física I  4  73,3 14,7  
+QI2 Química Inorgânica II  3  55,0 13,8  
+QAQT  Química Analítica Quantitativa  4  73,3 18,3  
+Carga horária total 3P  19 348,3  61,4 73,3 Quarto  IEQ Instrumentação para o ensino de química  4  73,3 73,3  
+QIE Química Inorgânica Experimental   3 55,0   
+GOTP  Gestão e Organização do Trabalho Pedagógico  2  36,7  36,7 
+FIS2  Física II  4  73,3 14,7  
+QAQTE  Química Analítica Quantitativa Experimental   2 36,7   
+DID Didática: Teoria Pedagógica  2  36,7  36,7 
+FFE Filosofia da Educação  2  36,7  36,7 
+Carga horária total 4P  19 348,3  88,0 110,0  
+*CH S: Carga Horária Semanal; CHR: Carga Horária Relógio ; PCC: Prática Como Componente Curricular; 
+FP: Formação Pedagóg ica; ES: Estágio Supervisionado  
+ 
+ 
+ 
+  
+QUÍMICA  
+Licenciatura  
+ 
+40  
+ Período  Código  Disciplina  C.H.S.  C.H.R.  P.C.C.  F.P.* 
+Teórica  Prática  Quinto  SE Sociologia da Educação  2  36,7  36,7 
+FIS3  Física III  4  73,3 14,7  
+FQ1 Físico -Química I  4  73,3 18,3  
+QAI Química Analítica Instrumental  4  73,3 18,3  
+DIAQ  Didática aplicada ao ensino de química  2  36,7  36,7 
+EST1  Estágio Supervisionado I  1 3 80,0   
+Carga horária total 5P  17 373,3  51,3 73,3 Sexto  EE Educação Especial: Fundamentos e políticas  2  36,7  36,7 
+FQ2 Físico -Química II  4  73,3 18,3  
+QO1  Química Orgânica I  4  73,3 18,3  
+FE Física Experimental  2  36,7   
+EGM  Elementos de Geologia e Mineralogia  3  55,0   
+PPEB  Políticas Públicas na Educação Brasileira  2  36,7  36,7 
+EST2  Estágio Supervisionado II  1 3 80,0   
+Carga horária total 6P  18 391,7  36,7 73,3 Sétimo  PE Relações étnico -raciais e Cultura Afro  
+ Brasileira e Indígena  2  36,7  36,7 
+FQ3 Físico -Química III  4  73,3 18,3  
+FQE  Físico-Química Experimental   3 55,0   
+QO2  Química Orgânica II  2  36,7 9,2  
+QOE  Química Orgânica Experimental   3 55,0   
+EEQ  Educação Especial e educação inclusiva no ensino de 
+Química  2  36,7  36,7 
+TC1 TC I  – Elaboração de Projetos  1  18,3   
+EST3  Estágio Supervisionado III  1 5 120,0    
+Carga horária total 7P  18 431,7  27,5 73,3 Oitavo  CTSAQ  CTSA no ensino de Química  2  36,7  36,7 
+QAMB  Química Ambiental  4  73,3 18,3  
+BQ Bioquímica  4  73,3 18,3  
+AO Análise Orgânica  3  55,0 13,8  
+OPT  Optativa  2  36,7   
+TC2 TC II  – Desenvolvimento de P rojetos  1  18,3   
+EST4  Estágio Supervisionado IV  1 5 120,0    
+Carga horária total 8P  17 413,3  50,4 36,7 
+Carga horária Total  3003,3  402,4  641,7  
+Atividades complementares  200,0   
+CARGA HORÁRIA TOTAL DO CURSO  3203,3  
+*CH S: Carga Horária Semanal; CHR: Carga Horária Relógio ; PCC: Prática Como Componente Curricular; 
+FP: Formação Pedagóg ica;  
+  
+ 
+QUÍMICA  
+Licenciatura  
+41  
+  
+Carga horária total máxima exigida  3200h  
+Carga horária atividades Formativas  2200,9h  
+Carga horária de atividades complementares  200h  
+Carga horária de estágio supervisionado  400h  
+Carga horária de Prática como Componente 
+Curricular (PCC)  402,4h  
+Carga horária de disciplinas da Dimensão 
+pedagógica  641,7h  
+Carga horária total do curso  3203,3h  
+ 
+ANEXO II  - Matriz Curricular de Disciplinas  Optativas  
+Período  Código  Disciplina  C.H.S.  C.H.R.  Teórica  Prática  Oitavo  TA Tecnologias Assistivas  2  36,7 
+EPE Epistemologia e Educação  2  36,7 
+QMT  Quimiometria  2  36,7 
+QMD  Química medicinal  2  36,7 
+LPT Leitura e produção de textos acadêmicos  2  36,7 
+QPN  Química de Produtos Naturais  2  36,7 
+QN Química Nuclear  2  36,7 
+CM Ciência dos Materiais  2  36,7 
+FFM  Fundamentos de Física Moderna  2  36,7 
+EAD  Educ ação à Distância - Fundamentos e  Políticas  2  36,7 
+*CHR: Carga Horária Semanal;  CHR: Carga Horária Relógio . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+QUÍMICA  
+Licenciatura  
+ 
+42  
+ ANEXO  III–Ementa s 
+PRIMEIRO PERÍODO  
+Nome da disciplina: História da Educação  
+Código: HED  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 1º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré-requisitos  
+Ementa: A Educação na América Portuguesa: Ratio Studiorum . Origens da educação pública. A educação 
+popular. Reformas educacionais: relação público/privado; relação centralização/descentralização; formação 
+e profissionalização de professores. Pensamento pedagógico brasileiro. Modernização e escolarização no 
+Brasil: grupos escolares, escola nova, tecnicismo e formação da cidadania. História da educação em Goiás.  
+Bibliografia Básica  
+ARAUJO, José Carlos de Souza; FREITAS, Anamaria  Gonçalves Bueno de; LOPES, Antônio de Pádua 
+Carvalho (Orgs). As escolas normais no Brasil – Do Império à República Alínea  
+RIBEIRO, Maria Luisa Santos. História da educação brasileira: a organização escolar. Campinas, SP: 
+Autores Associados, 2007.  
+SAVIANI,  Dermeval. História das ideias pedagógicas no Brasil. Campinas, SP: Autores Associados, 2007.  
+Bibliografia Complementar  
+ALVES, Mirian Fabian. Política e escolarização em Goiás: Morrinhos na Primeira República. 209 f. Tese 
+(Doutorado) - Curso de Pós -Gradua ção em Educação, Ufmg, Belo Horizonte, 2007.  
+NÓVOA, António (2004) Entrevista. Centro de Referência em Educação Mário Covas. 
+http://www.crmariocovas.sp.gov.br/ent_a.php?t=012 (Acessado em 19/10/2004)  
+VEIGA, Cynthia Greive.Universidade, colégios e saberes ( século XII a XVIII). História da Educação. São 
+Paulo: Ática, 2007.  
+MACHADO, Maria Margarida; SANTOS, Jocyléia Santana dos (Orgs). Percursos Históricos da Educação 
+no Cerrado. Campinas SP: Mercado de Letras, 2012.  
+ARTIGOS CIENTÍFICOS.  
+ 
+Nome da disciplina: História da Química  
+Código: HQ  Carga Horária Teórica:  36,7 Carga Horária Prática: 0  
+Período: 1º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: As artes químicas dos povos antigos. As primeiras teorias gregas sobre a natureza da matéria A 
+evolução da Química ao longo da história da humanidade. Alquimia. Astroquímica . Química do flogístico. 
+Revolução Química de Lavoisier. Surgimento da Quím ica Orgânica, da Bioquímica e da Físico -química. 
+Radioatividade. História do Ensino de Química no Brasil. Análise do valor pedagógico e do significado 
+cultural da história da química na perspectiva do Ensino Médio (EM). Práticas de ensino voltadas para a 
+história da Química.  
+Bibliografia Básica  
+NEVES, L. S.; FARIAS, R. F. História da Química: um livro texto para graduação. 2. ed. Campinas: Átomo, 
+2011.  
+CHASSOT, A. I. A ciência através dos tempos. 2. ed. São Paulo: Moderna, 2004.  
+FARIAS, R. F. Para Gostar d e Ler a História da Química. Volume único. São Paulo, Ed. Átomo, 2013.  
+Bibliografia Complementar  
+SILVA, D. D.; NEVES, L. S.; FARIAS, R. F. História da Química no Brasil. 4ª ed. São Paulo: Átomo, 
+2011.  
+CHAGAS, A. P. A História e a Química do Fogo. 2 a ed. São Paulo: Átomo, 2013.  
+VANIN, J. A. Alquimistas e Químicos: o Passado, o Presente e o Futuro. 2. ed. São Paulo: Moderna,2005.  
+STRATHERN, P. O sonho de Mendeleiev – A verdadeira história da química. EditoraJorge Zahar, 2002.  
+ARAGÃO, M. J. História da Química. Rio de Janeiro: Editora Interciência, 2008.  
+  
+ 
+QUÍMICA  
+Licenciatura  
+43  
+ Nome da disciplina: Cálculo Diferencial e I ntegral I  
+Código: CDI1  Carga Horária Teórica:  73,3 Carga Horária Prática: 0  
+Período: 1º  Carga Horária Total: 73,3 Pré-requisitos:  Não há pré -requisitos  
+Ementa: Conjuntos Numéricos: N aturais, Inteiros, Rac ionais, Irracionais e Reais.  Equações: resolução de 
+equações  elementares (1º, 2º grau, exponencial, dentre outras). Funções de uma variável real: d efinição 
+matemática , noções de contextualizações, c onjuntos domínio, contra -domínio e imagem, principais modelos 
+de funções  (afim, quadrática, e xponencial, dentre outras) e seus respectivos gráficos , função inversa . Ciclo 
+trigonométrico: definição das funções trigonométricas, valores no táveis, relações elementares envolvendo 
+as respectivas funções, resolução de equações trigonométricas. Limites:  ideia intuitiva de limite, limites de 
+funções racionais, limites no infinito, limites infinitos, limites fundamentais ; continuidade de funções; retas 
+assíntotas. Derivadas: i nterpretação geométrica  (a reta tangente), relação entre derivada e  a taxa de variação 
+de uma função, aplicações da taxa de variação (cinemática, dentre outras),  taxas relacionadas, regras de 
+derivação , regra da cadeia,  deriva ção implícita, máximos e mínimos  de uma função . Série de Taylor.  Prática 
+como componente curricul ar: 20% CHT.  
+Bibliografia Básica  
+FLEMMING, Diva Marília; GONÇ ALVES, Mirian Buss. Cálculo A: Funções, Limite, Derivação e 
+Integração. 6. ed. São Paulo, SP: Pearson, 2006.   
+LEITHOLD, Louis ; PATARRA, Cyro de Carvalho. O Cálculo com Geometria A nalítica. Volume 1. 3. ed. 
+São Paulo, SP: Ed. Harbra,1994.  
+IEZZI, Gelson; MURAKAMI, Carlos; MACHADO, Nilson José. Fundamen tos de Matemática Elementar. 
+Volume 1: Conjuntos e Funções.  9. ed. São Paulo, SP: Atual, 2013.  
+Bibliografia Complementar  
+IEZZI, Gelson; MURAKAMI, Carlos; MACHADO, Nilson José. Fundamen tos de Matemática E lementar . 
+Volume  8: Limites, Derivadas, Noções de Integral. 7. ed. São Paulo, SP: Atual, 2013.  
+IEZZI, Gelson. Fundamentos  de Matemática E lementar . Volume  3: Trigonometria. 9. ed. São Paulo, SP: 
+Atual, 2013.  
+STEW ART, James. Cálculo. Volume 1. 8 . ed. São Paulo, SP: Cengage Learning, 201 7.  
+ÁVILA, Geraldo. Cálculo das Funções de Uma V ariável: volume 1. 7. ed. Rio de Janeiro, RJ: LTC, 2011 . 
+GUIDORIZZI, Hamilton Luiz. Um Curso de C álculo. 5. ed. Rio de Janeiro, RJ: LTC, 20 11.  
+ 
+Nome da disciplina: Estatística  Aplicada  
+Código: ESTAT  Carga Horária Teórica:  36,7 Carga Horária Prática: 0  
+Período: 1º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa :História  da Estatística, População e amostra, Apresentação de dados estatísticos, Distribuição de 
+frequência, Medidas de posição e de dispersão, Tipos de erros, Erros aleatórios, Medidas de precisão. 
+Propagação de erros, Intervalos de confiança. Ferramentas estatí sticas para testes de hipótese.   Prática como 
+componente curricul ar: 20% CHT.  
+Bibliografia Básica  
+SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 999 p.  
+COSTA NETO, Pedro Luiz de Oliveira. Estatística. 2. ed. São Paulo, SP: Edgard Blücher, 2002. 266 p  
+HEATH, O. V. A estatística na pesquisa científica. São Paulo: Editora USP, 1981.  
+Bibliografia Complementar  
+MORETTIN, Luiz Gonzaga. Estatística básica. 7. ed . São Paulo, SP: Pearson Makron Books, 2006. 210 p.  
+BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estatística básica. 8. ed. São Paulo, SP: Saraiva, 
+c2014. 548 p.  
+MOORE, David S.; NOTZ, William I.; FLIGNER, Michael A. A estatística básica e sua prá tica. 6. ed. Rio 
+de Janeiro, RJ: LTC, 2014. xxvi, 582 p.   
+QUÍMICA  
+Licenciatura  
+ 
+44  
+ SPIEGEL, Murray R; STEPHENS, Larry J. (Co - autor). Estatística. 4. ed. São Paulo, SP: Bookman, 2009. 
+597 p.  
+PIMENTEL GOMES, F. A. Curso de estatística experimental. 11 ed.  São Paulo, Livraria Nobel S. A., 1985, 
+430p.  
+ 
+Nome da disciplina: Química  Geral  
+Código: QG Carga Horária Teórica:  73,3 Carga Horária Prática: 0 
+Período: 1º  Carga Horária Total: 73,3 Pré-requisitos: Não há pré -requisitos  
+Ementa: Matéria, Teoria atômica, Modelos atômicos, Átomo Mecânico Quântico, Tabela Periódica dos 
+Elementos Químicos, Massa atômica, Mol, Fórmula Química, Estequiometria, Introdução às ligações 
+químicas, Interações intermoleculares. Expansão da camada de valência, Ressonância, Geo metria 
+molecular, Teoria de Repulsão do Par Eletrônico da Camada de Valência, Teoria cinética dos gases, 
+Equilíbrio Químico, Termoquímica, Eletroquímica.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+BROWN, Theodore L. Química: a ciência central. 9. ed. São Paulo, SP: Pearson, 2005.    
+RUSSELL, John Blair. Química geral. 2. ed. São Paulo, SP: Pearson, 1994. 2 V.  
+KOTZ, John C; TREICHEL, Paul M.; WEAVER, Gabriela C. Química geral e reações químicas. São Paulo, 
+SP: Cengage Learning, 2010. 2 V.  
+Bibliografia Complementar  
+ATKINS, Peter W.; JONES, Loretta. Princípios de química: questionando a vida moderna e o meio 
+ambiente. 5. ed. Porto Alegre, RS: Bookman, 2012.  
+ROSENBERG, Jerome L. Química geral. 9. ed. Po rto Alegre, RS: Bookman, 2013. V. 1.  
+BRADY, James E; HUMISTON, Gerard E. Química geral. 2. ed. Rio de Janeiro, RJ: LTC, 2011. 2 V.  
+MAHAN, Bruce M.; MYERS, Rollie J. Química: um curso universitário. São Paulo, SP: Edgard Blucher, 
+1995.  
+EBBING, D. D., Qu ímica Geral. 5a Ed. Rio de Janeiro, Livros T écnicos e Cient íficos, V. 1, 1998.  
+ 
+Nome da disciplina: Educação, Comunicação e Mídias  
+Código: ECM  Carga Horária Teórica: 36,7  Carga Horária Prática: 00  
+Período: 1 º Carga Horária Total: 36,7  Pré-requisitos: Não  há pré -requisitos  
+Ementa: Estudos, propostas, discussões de aplicação interdisciplinares da solução de problemas dos 
+aspectos interligados à interface entre educação, comunicação e mídias e suas relações com recursos 
+tecnológicos atuais. Os aspectos formais, não formais e i nformais da educação, com estudos de diferentes 
+áreas de atuação dos professores. O uso das mídias, produção de materiais digitais, relações entre trabalho 
+e educação, linguagens padrões de produções midiáticas no contexto da educomunicação e os desafios d a 
+cultura digital.  
+Bibliografia Básica  
+SANDHOLTZ, Judith Haoumore; RINGSTAFF, Cathy; Dwyer, David C. Ensinando Com Tecnologia - 
+Criando Salas de Aula Centradas nos Alunos, Porto Alegre: Artes Médicas, 1997.  
+SILVA, Eli Lopes Da. Midia -Educaçao. EDITORA CRV , 2012.  
+SOARES, Ismar de Oliveira. A Educomunicação: O Conceito, O Profissional. PAULINAS, 2014 . 
+Bibliografia Complementar  
+ARMSTRONG, Alison; CASEMENT, Charles. A Criança e a Máquina - Como os computadores colocam 
+a educação de nossos filhos em risco. Edi tora Penso, 2001.  
+SANCHO Juana M.; HERNÁNDEZ, Fernando. Tecnologias para Transformar a Educação. Editora Penso, 
+2006.  
+MELLO, Roseli Rodrigues de; BRAGA, Fabiana Marini; GABASSA, Vanessa. Comunidades de 
+Aprendizagem. EDUFSCAR, 2012.   
+ 
+QUÍMICA  
+Licenciatura  
+45  
+ KENSKI, Vani Moreira; Ed ucação e Comunicação: Interconexões e Convergências, Educ. Soc.Educação 
+& Sociedade, vol. 29, n. 104 - Especial, p. 647 -665, out. 2008. Disponível em http://www.cedes.unicamp.br  
+ALMEIDA, Maria Elizabeth Bianconcini, Educação a distância na internet: abordagens e contribuições  
+dos ambientes digitais de aprendizagem; Educação e Pesquisa, São Paulo, v.29, n.2, p. 327 -340, jul./dez. 
+2003.  
+ 
+Nome da disciplina: Química Geral Experimental  
+Código: QG  Carga Horária Teórica:  00 Carga Horária Prática: 36,7  
+Período: 1º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa:Normas de segurança no laboratório; Manuseio de equipamentos e instrumentos básicos de 
+laboratórios de química; Medidas de massa, volume e temperatura, Tratamento de dados;  Técnicas de 
+separação; Bico de Bunsen; Preparo e diluição de soluções; Reações químicas; Estequiometria de reações; 
+Titulação.  
+Bibliografia Básica  
+ATKINS, Peter W.; JONES, Loretta. Princípios de química: questionando a vida moderna e o meio 
+ambiente. 5. ed. Porto Alegre, RS: Bookman, 2012.  
+KOTZ, John C; TREICHEL, Paul M.; WEAVER, Gabriela C. Química geral e reações químicas. São Paulo, 
+SP: Cengage Le arning, 2010. 2 V.  
+BACCAN, Nivaldo et al. Química analítica quantitativa elementar. 3. ed. São Paulo, SP: Edgard Blucher, 
+2001.  
+Bibliografia Complementar  
+BROWN, Theodore L. Química: a ciência central. 9. ed. São Paulo, SP: Pearson, 2005.   
+ROTEIRO  de Expe rimentos elaborados por professores do curso de Licenciatura em Química - IFGoiano.  
+PERIÓDICOS: Journal of Chemical Education ; Química Nova; Química Nova na Escola; outros.  
+OLIVEIRA, Fausto Pinto de; TRINDADE, Diamantino Fernandes; BISPO, Jurandyr Gutierre z; BANUTH, 
+Gilda Siqueira Lopes . Química básica experimental. 5. ed. São Paulo: Ícone, 2013.  
+LEE, J. D . Química inorg ânica n ão tão concisa. São Paulo: Edgard Bl ücher, 1996.  
+ 
+SEGUNDO PERÍODO  
+Nome da disciplina: Fundamentos do Ensino de Química  
+Código: FEQ  Carga Horária Teórica:  55,0 Carga Horária Prática: 0  
+Período: 2º  Carga Horária Total: 55,0 Pré-requisitos: Não há pré -requisitos  
+Ementa: A química e o papel do químico. As atribuições do professor de química na escola e na sala de 
+aula. Caracterização do curso de Licenciatura em Química: aspectos formais e a realidade educacional no 
+Brasil e em Goiás. Análise de artigos na área de ensino de química que discutam as dificuldades e proposta 
+para aprendizagem em Química, na formação básica se gundo orientações Parâmetros Curriculares 
+Nacionais do Ensino Médio (PCNEM) e Orientações Curriculares Nacionais (OCN’s). Tendências atuais 
+para o ensino de Química.  
+Bibliografia Básica  
+ANTUNES, Celso. Professores e professauros: reflexões sobre a aula e práticas pedagógicas diversas. 
+Petrópolis (RJ): Vozes, 2009.  
+CHAGAS, A. P.; Como se faz Química: Uma reflexão sobre a Química e a atividade do químico. 2a Ed. 
+Campinas: UNICAMP, 2006.  
+CHASSOT, A.; Para que(m) é útil o ensino? Canas (RS): Ulbra, 2004.  
+Bibliografia Complementar  
+SANTOS, Wildson Luiz Pereira dos; MALDANER, Otávio Aloisio (Orgs.). Ensino de Química em Foco . 
+Editora Unijui. 2010.   
+QUÍMICA  
+Licenciatura  
+ 
+46  
+ CARVALHO, A.M.P. ; GIL -PÉREZ, G. Formação de professores de Ciências: tendências e inovações. 10a. 
+ed. São Paulo: Ed. Cortez, 2011.  
+BRASIL, MEC/SEB. Parâmetros Curriculares Nacionais: Ensino Médio, Brasília: Ministério da Educação, 
+1999.  
+_________. PCN+ do Ensino Médio: orientações educacionais complementares aos PCN. Ciências da 
+Natureza, Matemática e suas tecnologia s.. Brasília: MEC; SEMTEC, 2002. p.87 -111. 
+_________.Ministério da Educação/Secretaria de Educação Básica. Orientações Curriculares para o Ensino 
+Médio: Ciências da natureza, Matemática e suas tecnologias,  V. 2. Brasília, MEC/SEB, 2006.  
+ 
+Nome da disciplina: Psicologia da Educação I  
+Código: PSID  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 2º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Introdução ao Estudo da Psicologia por meio da discussão sobre os  seus fundamentos históricos e 
+epistemológicos. Relação entre Psicologia e Educação. Estudo sobre as abordagens teóricas Behaviorismo 
+e Psicanálise, no que diz respeito às contribuições para a compreensão sobre o desenvolvimento cognitivo, 
+afetivo, social e psicomotor da criança ao adulto, bem como suas implicações no processo ensino -
+aprendizagem e para a compreensão dos processos educativos.  
+Bibliografia Básica  
+BOCK, Ana M. Bahia; FURTADO, Odair, TEIXEIRA, Maria de Lourdes T. Psicologias: uma introdução 
+ao estudo de psicologia. 14 ed. São Paulo: Saraiva, 2008.  
+FREUD, Sigmund. Obras Completas. Rio de Janeiro: Imago, 1976. Sobre a psicologia escolar. (1914 - v. 
+13) 
+SKINNER, B. F. Ciência e comportamento humano. São Paulo: Martins Fontes, 2015.  
+Bibliografia Complementar  
+GOULART, Iris Barbosa. Psicologia da Educação: Fundamentos Teóricos, Aplicações à Prática 
+Pedagógica. Petrópolis, RJ: Vozes, 2007.  
+FIGUEIREDO, Luis Cláudio M.; SANTI, Pedro Luiz Ribeiro. Psicologia: uma (nova) introdução. 2. ed. 
+São Paulo: EDU C, 2004.  
+PILETTI, Nelson; ROSSATO, Solange Marques. Psicologia da Aprendizagem: da teoria do 
+condicionamento ao construtivismo. São Paulo: Contexto, 2013.  
+PIAGET, Jean; INHELDER, Barbel. Memória e Inteligência. Rio de Janeiro: Artenova, 1979. Tradução de:  
+Alexandre R. Salles.  
+BEE, Helen; BOYD, Denise. A criança em desenvolvimento. 12. ed. Porto Alegre: Artmed, 2011.  
+ 
+Nome da disciplina: Cálculo Diferencial e Integral II  
+Código: CDI2  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 2º  Carga Horária Total: 73,3 Pré-requisitos: CDI1  
+Ementa: Integral de funções de uma variável: integral indefinida, integrais imediatas, integração por 
+substituição ou mudança de variável, integração por partes , integração por substituição trigonométrica, a 
+soma de Riemann e a integral definida,propriedades da integral definida, Teorema Fundamental do Cálculo. 
+Aplicações da integral definida: cálculo de áreas entre curvas, cálculo de volumes de um sólido de revolução, 
+cálculo do comprimento de arco de uma cur va. Equações diferenciais : conceitos básicos e a definição, 
+equações diferenciais  lineares de primeira  ordem , equações diferenciais homogêneas, equações diferenciais 
+exatas, equações diferenciais d e segunda ordem  com coeficientes constantes. A plicações  de equações 
+diferenciais : crescimento e decaimento exponencial , Lei da Alometria  e movimento harmônico simples.  
+Prática como componente curricul ar: 20% CHT.   
+ 
+QUÍMICA  
+Licenciatura  
+47  
+ Bibliografia Básica  
+FLEMMING, Diva Marília; GONÇ ALVES, Mirian Buss. Cálculo A: Funções, Limite, Derivação e 
+Integração. 6. ed. São Paulo, SP: Pearson, 2006.   
+LEITHOLD, Louis ; PATARRA, Cyro de Carvalho. O Cálculo com Geometria A nalítica. Volume 1. 3. ed. 
+São Paulo, SP: Ed. Harbra,1994.  
+FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações Diferenciais Aplicadas. Coleção 
+Matemática Universitária. 3. ed. Rio de Janeiro, RJ: IMPA, 2015.  
+Bibliografia Complementar  
+ÁVILA, Geraldo. Cálculo das Funções de Uma V ariável. Volume 2. 7. ed. Rio de Janeiro, RJ: LTC, 2004.  
+STEW ART, James. Cálculo. Volume  1. 8. ed. São Paulo, SP: Cengage Learning, 201 7.  
+STEWART, James. Cálculo. Volume 2. 7. ed. São Paulo, SP: Cengage Learning, 2013.  
+LEITHOLD, Louis ; PATARRA, Cyro de Carvalho. O Cálculo com Geometria A nalítica. Volume 2. 3. ed. 
+São Paulo, SP: Ed. Harbra, 1994.  
+SAFF, Edward B; SNIDER, Arthur David; NAGLE, R. Kent. Equações Diferenciais. 8. ed. São Paulo, SP. 
+Pearson, 2012.  
+ 
+Nome da disciplina: Metodologia Científica  
+Código: MC  Carga Horária Teórica: 36,7  Carga Horária Prática: 00  
+Período: 2 º Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Reflexões sobre o conhecimento científico, a ciência e o método como uma visão histórica e as leis 
+e teorias. Prática da pesquisa: problemas, hipóteses e variáveis o fluxograma da pesquisa científica, a 
+estrutura e a apresentação dos relatórios de pesquisa e de referências bibliográficas: normas e orientações.  
+Bibliografia Básica  
+ANDRADE, M. M. de. Introdução à metodologia do trabalho científico: elaboração de trabalhos de 
+graduação. 3a Ed.  São Paulo: Atlas, 1998.  
+KÖCHE, José Carlos. Fundamentos de Metodologia Científica: Teoria da Ciência e prática. Petrópolis: 
+Vozes, 1997.  
+BARROS, Aidil Jesus da Silveira; LEHFELD, Neide Aparecida de Souza. Projeto de pesquisa: propostas 
+metodológic as. 23. ed. Petrópolis, RJ: Vozes, 2014.  
+Bibliografia Complementar  
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. Ed. São Paulo: Atlas, 2010.  
+FAZENDA, Ivani. Metodologia da pesquisa educacional. São Paulo: Cortez, 2001.  
+FURASTÉ, Pedro Augusto. Normas técnicas o trabalho científico: explicitação das normas da ABNT. 17. 
+ed. Porto Alegre: Dactilo Plus, 2015.  
+BASTOS, Cleverson Leite; KELLER, Vicente. Aprendendo a aprender: introdução á metodologia 
+científica. 29. ed. Petrópol is, RJ: Vozes, 2015. 112 p. ISBN 9788532605863.  
+RIGO ARNAVAT, Antonia; GENESCÀ DUEÑAS, Gabriela. Como elaborar e apresentar teses e trabalhos 
+de pesquisa. Porto Alegre, RS: Artmed, 2006. 158p.  
+ 
+ 
+Nome da disciplina: Química Inorgânica I  
+Código: QI1  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 2º  Carga Horária Total: 73,3 Pré-requisitos: Não há pré -requisitos  
+Ementa: Ligação química e estrutura, Interações intermoleculares, Estrutura dos sólidos simples e energia 
+de rede ; Química de estado sólido e química de materiais;  Ácidos e bases. Simetria molecular e grupos de 
+pontos, Elementos representativos.  Prática como componente curricul ar: 25% CHT.   
+QUÍMICA  
+Licenciatura  
+ 
+48  
+ Bibliografia Básica  
+LEE, J. D. Química inorgânica não tão concisa. 5. ed. São Paulo, S P: Blucher, c1999. xiii, 527 p.  
+SHRIVER, D.F. ATKINS, P.W. QUÍMICA inorgânica. 4. ed. Porto Alegre, RS: Bookman, 2008 . vi, 847 p.  
+HUHEEY, J. E. , KEITER , E. A., KITER, R .L. Inorganic Chemistry: Principles of Structure and Reactivity 
+(Haper  Collins College Publisher, 4a. Ed.), 1993.  
+Bibliografia Complementar  
+TOMA, H.E. Elementos Químicos e Seus Compostos. Coleção de Química Conceitual -  Volume 3. 1ª 
+Edição. Editora Blucher. 2013  
+COTTON, F. A.; WILKINSON, G. “Advanced Inorganic Chemistry”, Wiley, New York, 1988.  
+BROWN, T. L.; LEMEY Jr, H. E.; BURTEN, B.E.; BURDGE, J. R. Química: a ciência central. 9. ed. São 
+Paulo: Pearson Prentice Hall, 2005.  
+PURCELL, K.F. AND KOTZ, J.C. An introduction to Inorganic Chemistry (Saunders Golden Sunburst 
+Serie s, London) 1980.  
+WULFSBERG G, “Inorganic Chemistry”, University Science Books, Sausalito, California, 2000.  
+ 
+Nome da disciplina: Química Analítica Qualitativa  
+Código: QAQL  Carga Horária Teórica: 55,0 Carga Horária Prática: 00  
+Período: 2º  Carga Horária Total: 55,0 Pré-requisitos: Não há pré -requisitos  
+Ementa:  Soluções e equilíbrio; Equilíbrio ácido base: pH, efeito do íon comum, hidrólise e solução tampão. 
+Equilíbrio heterogêneo: Produto de solubilidade; Equilíbrio de complexação; Equilíbr io de óxido - redução.  
+Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+VOGEL, Arthur I. Química analítica qualitativa. 5. ed. São Paulo, SP: Mestre Jou, c 1981. 665 p.  
+LEITE, Flávio. Práticas de química analítica. 5. ed. Campinas, SP: Átom o, 2012. 165 p.  
+BACCAN, N, Godinho, O. E. S., Andrade, J. C., Brarone, J. S. Fundamentos de Química Analítica 
+Quantitativa, Edgar Blucher, Campinas, 1979.  
+Bibliografia Complementar  
+HARRIS, D. C. Análise Química Quantitativa. Tradução da 5 a Ed. New York:  W. H. Freeman and 
+Company, 2001.  
+SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 999 p.  
+ATKINS, P., Jones L. Princípios de Química: Questionando a vida moderna e o meio ambiente, 3 a edição, 
+Porto Alegre, Bookman, 2006.  
+OHLWEILER, O. A. Química Analítica quantitativa, Editora Livros Técnicos e Científicos, SP, 1980.  
+VOGEL, Arthur Israel. Análise química quantitativa. 6. ed. Rio de Janeiro, RJ: LTC, c2002. xviii, 462 p.  
+ 
+Nome da disciplina: Química  Analítica Qualitativa Experimental  
+Código: QAQLE  Carga Horária Teórica: 00 Carga Horária Prática: 36,7  
+Período: 2º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Processos de separação e identificação de cátions e ânions de natureza inorgânica.  
+Bibliografia Básica  
+VOGEL, Arthur I. Química analítica qualitativa. 5. ed. São Paulo, SP: Mestre Jou, c 1981. 665 p.  
+LEITE, Flávio. Práticas de química analítica. 5. ed. Campinas, SP: Átom o, 2012. 165 p.  
+BACCAN, N, Godinho, O. E. S., Andrade, J. C., Brarone, J. S. Fundamentos de Química Analítica 
+Quantitativa, Edgar Blucher, Campinas, 1979.  
+Bibliografia Complementar  
+HARRIS, D. C. Análise Química Quantitativa. Tradução da 5 a Ed. New York: W. H. Freeman an d 
+Company, 2001.   
+ 
+QUÍMICA  
+Licenciatura  
+49  
+ SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 999 p.  
+ATKINS, P., Jones L. Princípios de Química: Questionando a vida moderna e o meio ambiente, 3 a edição, 
+Porto Alegre, Bookman, 2006.  
+OHLWEILER, O. A. Química Analítica quantitativa, Editora Livros Técnicos e Científicos, SP, 1980.  
+VOGEL, Arthur Israel. Análise química quantitativa. 6. ed. Rio de Janeiro, RJ: LTC, c2002. xviii, 462 p.  
+ 
+TERCEIRO PERÍODO  
+Nome da disciplina: Psicolo gia da Educação II  
+Código: PSIA  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 3º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Estudo sobre a Psicologia Genética de Piaget, a Psicologia Histórico -Cultural de Vigotski e a Teoria 
+Psicogenética de H. Wallon, no que diz respeito à compreensão da relação entre aprendizagem e 
+desenvolvimento cognitivo, afetivo, social e psicomotor, da criança ao adulto. Implicações das três 
+abordagens para a compreensão sobre o proc esso ensino -aprendizagem.  
+Bibliografia Básica  
+GALVÃO, Izabel. Henri Wallon: uma concepção dialética do desenvolvimento infantil. Petrópolis: Vozes, 
+2002.  
+PIAGET, Jean. Seis estudos de Psicologia. Rio de Janeiro: Forense Universitária, 1993.  
+VIGOTSKI, Levy  S. A formação Social da Mente. Martins Fontes: São Paulo, 2007.  
+Bibliografia Complementar  
+GOULART, Iris Barbosa. Piaget: experiências básicas para a utilização pelo professor. 21 ed. Petrópolis, 
+RJ: Vozes, 2005.  
+LATAILLE, Yves de; Oliveira, Marta Kohl de ; Dantas, Heloysa. Piaget, Vygotsky, Wallon: Teorias 
+Psicogenéticas em Discussão. São Paulo: Summus, 1992.  
+REGO, Tereza Cristina. Vygotsky: uma perspectiva histórico -cultural da educação. Petrópolis, RJ: Vozes, 
+2003.  
+PIAGET, Jean; Inhelder, Barbel. Memória  e Inteligência. Rio de Janeiro: Artenova, 1979. Tradução de: 
+Alexandre R. Salles.  
+D’ANDREA, F. F. Desenvolvimento da Personalidade: enfoque psicodinâmico. 17. ed. Rio de Janeiro: 
+Bertrand Brasil, 2006.  
+ 
+Nome da disciplina: LIBRAS  
+Código: LBR  Carga Horária Teórica:  36,7  Carga Horária Prática: 0  
+Período: 8º  Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: A educação de surdos no Brasil; cultura surda e a produção literária. Emprego da LIBRAS em 
+situações discursivas formais: vocabulário, morfologia, sintaxe e semântica. Prática do uso da LIBRAS no 
+contexto escolar.  
+Bibliografia Básica  
+SKLIAR, Carlos (org.). A surdez: Um olhar sobre a diferença. Porto Alegre: Mediação, 1998.  
+STROBEL, Karin. As imagens do outro sobre a cultura surda. Florianópolis: Editora UFSC, 2008.  
+SACKS, Oliver. Vendo Vozes. São Paulo: Companhia das letras, 1998 . 
+Bibliografia Complementar  
+BRITO, Lucinda Ferreira. Por uma gramática de línguas de sinais. Rio de Janeiro, Tempo Brasileiro, 1995.  
+COUTINHO, Denise. LIBRAS e Língua Portuguesa: Semelhanças e diferenças. João Pessoa: Arpoador, 
+2000.   
+QUÍMICA  
+Licenciatura  
+ 
+50  
+ DAMÁZIO, Mirlene F.M. (Org.). Língua de sinais brasileira no contexto do ensino superior: Termos 
+técnicos científicos. Uberlândia: Graça Hebrom. 2005.  
+CAPOVILLA, F. C., RAPHAEL, W. D., Dicionário Enciclopédico Ilustrado Trilingue da Língua de Sinais 
+Brasileira, v. I e II. São Paulo, Edusp, 2 001.  
+FELIPE, Tânia A. Libras em contexto. Brasília, MEC/SEESP No 7, 2007.  
+ 
+Nome da disciplina: Cálculo Diferencial e Integral III 
+Código: CDI3  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 3º  Carga Horária Total: 73,3 Pré-requisitos: CDI2  
+Ementa: Funções de mais de uma variável: derivadas parciais, diferenciabilidade  e diferencial total, a regra 
+da cadeia, derivadas parciais de ordem superior,  derivadas direcionais e gradientes, extremos de funções de 
+duas variáveis, funções implícitas, multiplicadores de Lagrange. Integração múltipla: a integral dupla, centro 
+de mass a e momento de inércia, área de uma superfície, a integral tripla, mudança de variável em integrais 
+múltiplas. Introdução ao cálculo de campos vetoriais: campos vetoriais, integrais de linha, Teorema de 
+Green, Teorema da Divergência de Gauss e Teorema de S tokes.  Prática como componente curricul ar: 20% 
+CHT . 
+Bibliografia Básica  
+LEITHOLD, Louis ; PATARRA, Cyro de Carvalho. O Cálculo com G eometria Analítica. Volume 2. 3. ed. 
+São Paulo, SP: Ed. Harbra,1994.  
+ÁVILA, Geraldo. Cálculo das Funções de Múltiplas Variáveis. Volume 3. 7. ed. Rio de Janeiro, RJ: LTC, 
+2006.  
+STEWART, James. Cálculo. Volume 2. 7. ed. São Paulo, SP: Cengage Learning, 2013.  
+Bibliografia Complementar  
+GUIDORIZZI, Hamilton L. U m Curso de C álculo. Volume 3. 5. e d. Rio de Janeiro , RJ:  LTC, 2013.  
+FLEMMING, Diva Marília; GONÇALVES, Mirian Buss. Cálculo B: Funções de Várias Variáveis, Integrais 
+Múltiplas, Integrais Curvilíneas e de S uperfície. 2. ed. São Paulo, SP: Pearson Prentice Hall, 2007.   
+SIMMONS, George F. Cálculo com G eometria Analítica. Volume 2. São Paulo, SP: Makron Books , 1988.  
+MUNEM, Mustafa A; FOULIS, David J. Cálculo. Volume 2. Rio de Janeiro, LTC, 1982.  
+SWOKOWSKI, Earl W. Cálculo com G eometria Analítica. Volume 2. 2. ed. São Paulo, SP: Makron Books, 
+1994.  
+ 
+Nome da discipli na: Física I  
+Código: FIS1  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 3º  Carga Horária Total: 73,3 Pré-requisitos: CO-REQ. CDI1  
+Ementa: Movimento em uma dimensão; Movimento em duas e três dimensões; Força e Leis de Newton; 
+Aplicações das leis de Newton; Trabalho e energia cinética; Energia potencial, Conservação de energia; 
+Quantidade de movimento; Sistema de partículas, cinemática rotacional; dinâmica rotacional; Quantidade 
+de movimento angular.  Prática como componente curricul ar: 20%  CHT . 
+Bibliografia Básica  
+HALLIDAY, D., Resnick, R., Walker, J. Fundamentos de Física, vol. 1, 9ª edição (LTC, RJ,2012).  
+TIPLER, P. A., Mosca, G., Física para cientistas e engenheiros, vol. 1, 6ª edição (LTC, RJ, 2010).  
+NUSSENZVEIG, H. M. Curso de Física Básica, vol. 1, 5ª edição (Edgard Blücher Ltda, SP, 2013).  
+Bibliografia Complementar  
+SEARS & Zemansky, H. D., Young, R. A. F. Física I, 12ª edição (Addison Wesley, SP, 2009).  
+CHAVES Alaor. Física Básica -Mecânica. vol  1, 1ª edição (RJ, LTC, 2007).  
+FEYNMAN, R. Lições de Física -Mecânica. vol.1, (Porto Alegre, Bookman, 2008).  
+HEWITT, Paul G. Física conceitual. 11ª edição (Porto Alegre, RS, Bookman, 2011).  
+PIRES, Antonio  S. T. Evolução das ideias da física. 2ª ed. São Paulo, SP: LF editorial, 2011.   
+ 
+QUÍMICA  
+Licenciatura  
+51  
+  
+ 
+Nome da disciplina: Química Inorgânica II  
+Código: QI2  Carga Horária Teórica: 55,0 Carga Horária Prática: 00  
+Período: 3º  Carga Horária Total: 55,0 Pré-requisitos: QI1 
+Ementa: Fundamentos da química de coordenação; Compostos de coordenação dos metais do bloco d; 
+Espectroscopia em compostos de coordenação. Organometálicos. Bioinorgânica. Introdução à catálise e 
+espectroscopia.  Prática como componente curricul ar: 25% CHT . 
+Bibliografia Básica  
+SHRIVER, D.F. ATKINS, P.W. QUÍMICA inorgânica. 4. ed. Porto Alegre, RS: Bookman, 2008. vi, 847 p.  
+LEE, J. D. Química inorgânica não tão concisa. 5. ed. São Paulo, SP: Blucher, c1999. xiii, 527 p.  
+FARIAS, R.F. (organizador), QUÍMICA de coorden ação: fundamentos e atualidades . 2. ed., rev. e ampl. 
+Campinas, SP: Átomo, 2009. 420 p.  
+Bibliografia Complementar  
+PAVIA, Donald L. Introdução à espectroscopia. São Paulo, SP: Cengage Learning, c2010. xvi, 700 p.  
+TOMA, H.E. Química de coordenaç ão, Organometálica e catálise. Coleção de Química Conceitual -  
+Volume 4. 1ª Edição. Editora Blucher. 2013 . 
+JONES, C. J. A. Química dos Elementos dos Blocos d e f (Ed Bookman, 1ª. Ed), 2001.  
+MIESSLER, G. L.; TARR D.A. “ Inorganic Chemistry ”, Prentice Hall, Englewood Cliffs, New Jersey,1991.  
+REVISTAS CIENTÍFICAS: Inorg. Chem. Acta; J. Chem. Ed.; Inorg. Chem.  
+ 
+Nome da disciplina: Química Analítica Quantitativa  
+Código: QAQT  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 3º  Carga Horária Total: 73,3 Pré-requisitos: QAQL 
+Ementa: Análise titulométrica de neutralização, de precipitação, de complexação e de óxido -redução; 
+Análise gravimétrica . Prática como componente curricul ar: 25% CHT . 
+Bibliografia Básica  
+SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 9 99 p.  
+HARRIS, D. C. Análise Química Quantitativa. Tradução da 5 a Ed. New York: W. H. Freeman and 
+Company, 2001.  
+BACCAN, N, Godin ho, O. E. S., Andrade, J. C., B arone, J. S. Fundamentos de Química Analítica 
+Quantitativa, Edgar Blucher, Campinas, 1979.  
+Bibliografia Complementar  
+VOGEL, Arthur I. Química analítica qualitativa. 5. ed. São Paulo, SP: Mestre Jou, c1981. 665 p.  
+LEITE, Flávio. Práticas de química analítica. 5. ed. Campinas, SP: Átomo, 2012.  
+ATKINS, P., Jones L. Princípios de Química: Questionando a vida moderna e o meio ambiente, 3 a edição, 
+Porto Alegre, Bookman, 2006.  
+OHLWEILER, O. A. Química Analítica quantitativa, Editora Livros Téc nicos e Científicos, SP, 1980.  
+VOGEL, Arthur Israel. Análise química quantitativa. 6. ed. Rio de Janeiro, RJ: LTC, c2002. xviii, 462 p.  
+ 
+QUARTO PERÍODO  
+Nome da disciplina: Instrumentação para o Ensino de Química  
+Código: IEQ  Carga Horária Teórica:  73,3  Carga Horária Prática: 0  
+Período: 4 º Carga Horária Total: 73,3  Pré-requisitos: QG   
+QUÍMICA  
+Licenciatura  
+ 
+52  
+ Ementa: Principais concepções sobre a natureza da Ciência; Contribuição da pesquisa em ensino de 
+Ciências; Principais  concepções das diversas correntes sobre ensino e aprendizagem de ciências/química; 
+Tendências atuais no ensino. Abordar conteúdos e analisar os currículos. Avaliar livros didáticos e materiais 
+alternativos. Avaliar os fundamentos e propostas de ensino de química para a educação básica. Estudar as 
+tendências educacionais e aplicar modelos tradicionais e/ou atuais de ensino e aprendizagem, por exemplo 
+o uso de recursos lúdico s, uso de estudo de caso no ensino e experimentação investigativa. Estudar e discuti r 
+alternativas para lidar com dificuldade de aprendizagem de conceitos básicos. Trabalhar a experimentação 
+e as tecnologias de informação e comunicação para o ensino e aprendizagem de química. Estudar  e elaborar 
+propostas de avaliação da aprendizagem e est ratégias para a promoção da aprendizagem significativa e 
+promoção da cidadania.  
+Bibliografia Básica  
+CHASSOT, Átt ico Inácio. Alfabetização científica: questões e desafios para a educação. 2. ed. Ijuí, RS: 
+Unijuí, 2001. 438 p. (Coleção educação em química).  ISBN 8574291455.  
+SANTOS, Wildson Luiz Pereira dos; MALDANER, Otavio Aloisio. Ensino de química em foco. Ijuí, RS: 
+Unijuí, 2013, 365 p. (Coleção Educação em Química). ISBN 9788574298887.  
+MALDANER, Otavio Aloisio. A formação inicial e continuada de profess ores de quím ica:  
+professores/pesquisadores . 4. ed. Ijuí, RS: Unijuí, 2013. 419 p. (Coleção educação em química). ISBN 
+9788541900720.  
+Bibliografia Complementar  
+PETRUCCI, M. I.; ROSSI, A. V. (org). Educação Química no Brasil: Memórias,Políticas  e Tendências. 
+Campinas: Átomo, 2008.  
+ROMANELLI, Lilavate Izapovitz; JUSTI, Rosária da Silva. Aprendendo quimica. Ijuí, RS: Unijuí, 1997. 
+231 p. (Coleção ensino de segundo grau).  
+CHASSOT, Inácio Attico. Catalisando transformações na educação. Ijuí, RS: Un ijuí, 1993. 174 p. (Coleção 
+Ensino de 2º Grau).  
+LUTFI, m. Cotidiano e educação em química. Ijuí: Livraria Unijuí, 1988.  
+MACHADO, Andréa Horta. Aula de química: discurso e conhecimento. 3. ed. Ijuí, RS: Unijuí, 2014. xviii, 
+972 p.  
+ 
+Nome da disciplina: Química Inorgânica Experimental  
+Código: QIE  Carga Horária Teórica: 00  Carga Horária Prátic a: 55,0  
+Período: 4º  Carga Horária Total: 55,0 Pré-requisitos: QI2  
+Ementa: Regras de segurança em laboratório. Gerenciamento de resíduos. Reações de síntese, 
+caracterização, simples  troca, dupla troca, degradação . Reações com ácidos,  bases, sais e óxidos. Elementos  
+representativos. Síntese de compostos de coordenação. Técnicas de purificação de compostos inorgânicos 
+de coordenação. Caracterização de compostos i norgânicos.  
+Bibliografia Básica  
+SHRIVER, D.F. ATKINS, P.W. QUÍMICA inorgânica. 4. ed. Porto Alegre, RS: Bookman, 2008. vi, 847 p.  
+LEE, J. D. Química inorgânica não tão concisa. 5. ed. São Paulo, SP: Blucher, c1999. xiii, 527 p.  
+FARIAS, R.F. (organizador), QUÍMICA de coordenação: fundamentos e atualidades. 2. ed., rev. e ampl. 
+Campinas, SP: Átomo, 2009. 420 p.  
+Bibliografia Complementar  
+ DOUGLAS, B., McDANIEL, D. E., ALEXANDER, J., Concepts and Models of Inorganic Chemistry, 3ª 
+Ed., John Wiley & Sons, N. Y., 1994.  
+FARIAS, R.F. (organizador), QUÍMICA de coordenação: fundamentos e atualidades. 2. ed., rev. e ampl. 
+Campinas, SP: Átomo, 2009. 420 p.  
+COTTON, F. Albert. Solutions manual to accompany basic inorganic chemistry. 3. ed. Ne w York, EUA: 
+John Wiley & Sons, 1995. 219 p. ISBN 0471518085   
+ 
+QUÍMICA  
+Licenciatura  
+53  
+ COTTON, F.A., WILKINSON, G. e GAUS, P.L., "Basic Inorganic Chemistry", John Wiley & Sons, 3a ed., 
+1995.  
+BURROWS, Andrew (Autor). Química³: introdução à química inorgânica, orgânica e físico -química. Rio 
+de Janeiro, RJ: LTC, 2012. 3 v.  
+ 
+Nome da disciplina: Gestão e Organização do Trabalho Pedagógico  
+Código: GOTP  Carga Horária Teórica:  36,7  Carga Horária P rática: 0  
+Período: 4 º Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Organização, gestão dos processos educativos e trabalho docente. A gestão escolar democrática 
+nas políticas educacionais: concepção da gestão e organização da escola. A escola como cultura 
+organizacional: o projeto político -pedagógico coletivo e o trabalho do professor.  
+Bibliografia básica  
+LIBÂNEO, José Carlos. Organização e gestão da escola. Goiânia: Alternativa, 2001  
+PARO, Vitor Henrique. Administração escola r: introdução crítica. São Paulo: Cortez, 1999.  
+VEIGA, Ilma Passos Alencastro. Projeto político -pedagógico: uma construção possível. Campinas, SP: 
+Papirus, 1996  
+Bibliografia Complementar  
+FRANCO, Francisco Carlos. As reuniões na escola e a construção coletiva do projeto educacional. São 
+Paulo: Edições Loyola, 2010.  
+LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira e TOSCHI, MirzaSeabra. Educação escolar: políticas, 
+estrutura e organização. 12 ed. São Paulo: Cortez, 2012.  
+________Gestão e Organização do Tra balho Pedagógico  
+LUCK, Heloisa. Gestão da cultura e do clima organizacional da escola. Petrópolis: Vozes, 2010.  
+FERREIRA, Naura S.C. Gestão Democrática da Educação: atuais tendências, novos desafios. 3ª ed. São  
+Paulo: Cortez, 1998.  
+ 
+Nome da disciplina: Física II 
+Código: FIS2  Carga Horária Teórica: 73,33  Carga Horária Prática: 00  
+Período: 4º  Carga Horária Total: 73,33  Pré-requisitos: CDI1  
+Ementa: Estática e dinâmica dos fluídos. Oscilações. Movimento ondulatório. Acústica e ondas sonoras. 
+Termometria e a lei zero da Termodinâmica. Calor e a primeira lei da Termodinâmica. Teoria Cinética dos 
+gases. Gases ideais. A segunda lei da termodinâmic a. Introdução à Mecânica estatística. Gravitação 
+Universal.   Prática como componente curricul ar: 20% CHT . 
+Bibliografia Básica  
+HALLIDAY , D., Resnick, R., Walker, J. Fundamentos de Física, vol. 2, 9ª edição (LTC, RJ,2012).  
+TIPLER,  P. A., Mosca, G., Física para cientistas e engenheiros, vol. 1, 6ª edição (LTC, RJ, 2010).  
+NUSSENZVEIG , H. M. Curso de Física Básica, vol. 2, 5ª edição (Edgard Blücher Ltda, SP, 2013).  
+Bibliografia Complementar  
+SEARS & Zemansky, H. D., Young, R. A. F. Fís ica II, 12ª edição (Addison Wesley, SP, 2009).  
+RESNICK, R.; HALLIDAY, D.; KRANE, K. S. Física. vol.2, 5. ed. Rio de Janeiro( RJ: LTC, 2003).  
+HEWITT, Paul G. Física conceitual. 11ª edição (Porto Alegre, RS,  Bookman, 2011).  
+FEYNMAN, R. Lições de Física -Mecâ nica. vol.1, (Porto Alegre, RS, Bookman, 2008).  
+PIRES, Antonio S. T. Evolução das ideias da física. 2ª ed. São Paulo, SP: LF editorial, 2011.  
+ 
+Nome da disciplina: Química Analítica Quantitativa Experimental  
+Código: QAQTE  Carga Horária Teórica: 00 Carga Horária Prática: 36,7  
+Período: 4º  Carga Horária Total: 36,7 Pré-requisitos: QAQT   
+QUÍMICA  
+Licenciatura  
+ 
+54  
+ Ementa: Amostragem e preparação de amostras para análise; Análise titulométrica de neutralização, de 
+precipitação, de complexação e de óxido -redução; Análise gravimétrica . 
+Bibliografia Básica  
+SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 999 p.  
+HARRIS, D. C. Análise Química Quantitativa. Tradução da 5 a Ed. New York: W. H. Freeman and 
+Company, 2001.  
+BACCAN, N , GODINHO, O. E. S., ANDRADE, J. C., BRARONE , J. S. Fundamentos de Química 
+Analítica Quantitativa, Edgar Blucher, Campinas, 1979.  
+Bibliografia Complementar  
+VOGEL, Arthur I. Química analítica qualitativa. 5. ed. São Paulo, SP: Mestre Jou, c1981. 665 p.  
+LEITE, Flávio. Práticas de química analítica. 5. ed. Campinas, SP: Átomo, 2012.  
+ATKINS, P., Jones L. Princípios de Química: Questionando a vida moderna e o meio ambiente, 3 a edição, 
+Porto Alegre, Bookman, 2006.  
+OHLWEILER, O. A. Química Analítica quantita tiva, Editora Livros Técnicos e Científicos, SP, 1980.  
+VOGEL, Arthur Israel. Análise química quantitativa. 6. ed. Rio de Janeiro, RJ: LTC, c2002. xviii, 462 p.  
+ 
+Nome da disciplina: Didática: Teoria Pedagógica  
+Código: DID  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 4º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Conceito e fundamentos históricos –filosóficos de didática e sua relação com a teoria. Concepções 
+de educação e teorias pedagógicas. As características da instituição escolar no contexto socioeconômico 
+cultural brasileiro. As contribuições da Didática e da pesquisa para a formação de professores – concepções 
+pedagógicas; sentido social da profissão professor; a organização do trabalho doce nte – tendo em vista a 
+formação e atuação profissional d os alunos dos cursos de Licenciaturas.  
+Bibliografia Básica  
+VEIGA, Ilma Passos Alencastro (coord). Repensando a didática. Campinas: Papirus, 1989.  
+ARROYO, Miguel G. Ofício de mestre: imagens e autoima gens. Petrópolis, RJ: Vozes, 2013.  
+TARDIF, Maurice. Saberes docentes e formação profissional. Petrópolis, RJ: Vozes, 2010.  
+Bibliografia Complementar  
+CANDAU, Vera M. Da Didática fundamental ao fundamental da didática. In: ANDRÉ, Marli e OLIVEIRA, 
+Maria Rit a Neto Sales (orgs.). Alternativas no ensino da Didática. São Paulo: Papirus,1997.  
+COMÊNIO, José Amós. Didáctica Magna. Lisboa, Portugal: Fundação Calouste Gulbenkian, 1996.  
+NÓVOA, António (Org.). Vidas de Professores. Trad. Maria dos Anjos Caseiro, Manuel Figueiro Ferreira. 
+2ª Ed. Porto, Portugal: Porto Editora, 2013.  
+IMBERNÓN, Francisco. Formação docente e profissional: formar -se para a mudança e a incerteza. São 
+Paulo: Cort ez, 2011.  
+PIMENTA, S. G. Saberes pedagógicos e atividade docente. São Paulo: Cortez, 1999.  
+ 
+ 
+Nome da disciplina: Filosofia da Educação  
+Código: FFE  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 4º  Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Origem e natureza da Filosofia. A Filosofia Antiga, o problema do ser e sua implicação no processo 
+de formação do homem. A Filosofia Medieval: o problema da fé e da razão no contexto do surgimento das 
+universi dades. Princípios e conceitos éticos e políticos na educação da Idade Média.   
+ 
+QUÍMICA  
+Licenciatura  
+55  
+ Bibliografia Básica  
+TOMÁS DE AQUINO. Sobre o ensino (De Magistro). Tradução Luiz Jean Lauand. São Paulo: Martins 
+Fontes, 2001.  
+ARISTÓTELES. Ética a Nicômacos. Tradução Antonio  de Castro Caeiro. São Paulo: Atlas, 2009.  
+JAEGER, W. Paidéia – A formação do homem grego. 6. ed. São Paulo: Martins Fontes, 2013.  
+Bibliografia Complementar  
+MARROU, H. História da Educação na Antigüidade. São Paulo: EPU, 1990.  
+PLATÃO. A República.  Trad. Maria Helena da Rocha Pereira. Lisboa: Fundação Calouste Gulbenkian, 
+2001.  
+SANTO AGOSTINHO. De magistro. São Paulo: Vozes, 2009.  
+KANT, I. Sobre Pedagogia. Piracicaba: UNIMEP, 1996.  
+ROSSEAU, Jean -Jacques.  Emílio ou da educação. Tradução Roberto Leal Ferre ira.  Rio de Janeiro: Martins 
+Fontes, 2014.  
+ 
+QUINT O PERÍODO  
+Nome da disciplina: Sociologia da Educação  
+Código: PSID  Carga Horária Teórica: 36,7  Carga Horária Prática: 00  
+Período: 5 º Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Educação e teoria da prática em Bourdieu. A compreensão sociológica da educação no Brasil. Os 
+conceitos de representação e de poder, de identidade e de diferença. A Sociologia da Infância e a criança 
+como produtora de saberes e conhecimentos.  
+Bibliografia Básica  
+BOURDIEU, P.; PASSERON, J -C. A Reprodução. São Paulo: Vozes, 2008.  
+CORSARO, William A. Sociologia da Infância. Porto Alegre: Artmed, 2011.  
+RESENDE, Selmo Haroldo. Michel Foucault - O governo da Infância. Belo Horizonte: Autêntica, 2015.  
+Bibliografia Complementar  
+BOURDIEU, Pierre. Escritos de educação. São Paulo: Vozes, 2006.  
+DONZELOT, Jacques. A polícia das famílias. São Paulo: Pré -textos, 1999.  
+SARMENTO, Manuel Jacinto. Pobreza infantil. Parede: Principia, 2011.  
+DURKHEIM, E. Educação e S ociologia. Lisboa: Edições 70, 2007.  
+WEBER, M. Ciência e política: duas vocações. 12. ed. São Paulo: Cultrix, 2004.  
+ 
+Nome da disciplina: Física III  
+Código: FIS3  Carga Horária Teórica: 73,33  Carga Horária Prática: 0  
+Período: 5º  Carga Horária Total: 73,33  Pré-requisitos: FIS1, CO-REQ CDI3  
+Ementa: Carga elétrica. Força Elétrica. Lei de Coulomb. Campo Elétrico. Lei de Gauss . Potencial Elétrico. 
+Capacit ância . Corrente Elétrica. Circuitos Elétricos. Campo Magnético. Força Magnética . Lei de Ampère. 
+Lei da Indu ção de Faraday. Indutância.  Noções de corrente alternada . Equações de M axwell. Propriedades 
+magnéticas da matéria. Ondas Eletromagnéticas.  Prática como componente curricul ar: 20% CHT . 
+Bibliografia Básica  
+HALLIDAY , D., Resnick, R., Walker, J. Fundamentos de Física, vol. 3, 9ª edição (LTC, RJ,2012).  
+TIPLER , P. A., Mosca, G., Física para cientistas e engenheiros, vol. 2, 6ª edição (LTC, RJ, 2010).  
+SEARS & Zemansky, H. D., Young, R. A. F. Física III e IV, 12ª edição (Addison Wesley, SP, 2009).  
+Bibliografia Co mplementar  
+NUSSENZVEIG , H. M. Curso de Física Básica, vol. 3, 2ª edição (Edgard Blücher Ltda, SP, 2015).  
+NUSSENZVEIG, H. M. Curso de Física Básica, vol. 4, 2ª edição (Edgard Blücher Ltda, SP, 2014).  
+FEYNMAN, R. Lições de Física -Mecânica. vol. 2, (Porto Ale gre, Bookman, 2008).   
+QUÍMICA  
+Licenciatura  
+ 
+56  
+ HEWITT, Paul G. Física conceitual. 11ª edição (Porto Alegre, RS,  Bookman, 2011).  
+PIRES, Antonio S. T. Evolução das ideias da física. 2ª ed. São Paulo, SP: LF editorial, 2011.  
+ 
+ 
+Nome da disciplina: Físico -Química I  
+Código: FQ1  Carga Horária Teórica:  4  Carga Horária Prática: 0  
+Período: 5º  Carga Horária Total: 73,3 Pré-requisitos: CDI1  
+Ementa: Gases, Termodinâmica, Termoquímica e Equilíbrio Químico.  Prática como componente curricul ar: 
+25% CHT.  
+Bibliografia Básica  
+ATKINS, Peter W.; DE PAULA, Julio. Físico -química. 9. ed. Rio de Janeiro, RJ: LTC,  v.1,2012  
+CASTELLAN, Gilbert William. Fundamentos de físico -química. Rio de Janeiro, RJ: LTC, 1986.  
+LEVINE, Ira N. Físico -química. 6. ed. Rio de Janeiro, RJ: LTC, v. 1, 2012.  
+Bibliografia Complementar  
+MOORE, Walter J. Físico -química. 4. ed. São Paulo, S P: Blucher , c1976,v. 1, 2011 . 
+BALL, David W.; VICHI, Ana Maron. Físico -Química. São Paulo, SP: Cengage Learning,  v. 1. 2005.  
+ATKINS, Peter W.; JONES, Loretta. Princípios de  química: questionando a vida moderna e o meio 
+ambiente. 5. ed. Porto Alegre, RS: Bookman, 2012.  
+BROWN, Theodore L. Química: a ciência central. 9. ed. São Paulo, SP: Pearson, c2005. 2012.  
+BRAGA, João Pedro. Físico -química/ aspectos moleculares e fenomeno lógicos. Viçosa, MG: UFV, 2002. 
+265 p. ISBN 8572691197.  
+ 
+Nome da disciplina: Química Analítica Instrumental  
+Código: QAI  Carga Horária Teórica: 73,3 Carga Horária Prática: 00  
+Período: 5º  Carga Horária Total: 73,3 Pré-requisitos: QAQT  
+Ementa: Potenciometria, Condutometria, Eletrogravimetria, Coulometria, Métodos Espectrofotométricos de 
+Absorção Molecular (UV -visível), Absorção Atômica, Emissão Atômica, Fluorescência, Turbidimetria e 
+Nefelometria. Determinação de analitos em amostras comerciais empregando as técnicas de 
+Potenciométricas, Condutimétricas, Coulométricas, e os métodos Espectrofotométricos  de Absorção 
+Molecular (UV -visível), Turbidimetria e Nefelometria.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+SKOOG, Douglas A. Fundamentos de química analítica. 8. ed. São Paulo, SP: Cengage learning, c2006. 
+xvii, 999 p.  
+HARRIS, D. C. Análise Química Quantitativa. Tradução da 5 a Ed. New York: W. H. Freeman and 
+Company, 2001.  
+BACCAN, N, Godinho, O. E. S., Andrad e, J. C., Brarone, J. S. Fundamentos de Química Analítica 
+Quantitativa, Edgar Blucher, Campinas, 1979.  
+Bibliografia Complementar  
+VOGEL, Arthur I. Química analítica qualitativa. 5. ed. São Paulo, SP: Mestre Jou, c1981. 665 p.  
+LEITE, Flávio. Práticas de química analítica. 5. ed. Campinas, SP: Átomo, 2012.  
+ATKINS, P., Jones L. Princípios de Química: Questionando a vida moderna e o meio ambiente, 3 a edição, 
+Porto Alegre, Bookman, 2006.  
+OHLWEILER, O. A. Química Analítica quantita tiva, Editora Livros Técnicos e Científicos, SP, 1980.  
+VOGEL, Arthur Israel. Análise química quantitativa. 6. ed. Rio de Janeiro, RJ: LTC, c2002. xviii, 462 p.  
+  
+ 
+QUÍMICA  
+Licenciatura  
+57  
+ Nome da disciplina: Didática Aplicada ao Ensino de Química  
+Código: DIAQ  Carga Horária Teórica: 36,7 Carga Horária Prática: 00  
+Período: 5 º Carga Horária Total: 36,7 Pré-requisitos: Não há pré -requisitos  
+Ementa: Questões teórico -metodológicas acerca das pesquisas realizadas sobre o ensino de química. As 
+atividades experimentais no ensino de Química. A aprendizagem por meio de projetos  e o educar pela 
+pesquisa . Analogias no ensino de química. O lúdico no Ensino de Química. Materiais instrucionais 
+inovadores e tradicionais de Ensino de Química.  Estudo de caso , aspecto s metodológicos para o  Ensino de 
+química.  Uso de estratégia s didáticas diversificadas, com temáticas contextualizadas e interdisciplinares . 
+Bibliografia Básica  
+TARDIF, Maurice. Saberes Docentes e Formação Profissional. 17. ed. Petrópolis, RJ: Vozes, 2014.  325 p.  
+ASTOLFI, Jean -Pierre; DEVELAY, Michel. A didática das ciências. 16. ed. Campinas, SP: Papirus, 2012. 
+123 p.  
+GERALDO, Antonio  Carlos Hidalgo. Didática de ciências naturais na perspectiva histórico -crítica. 2. ed. 
+São Paulo, SP: Autores Associados, 2014. 175 p. (Coleção Formação de Professores).  
+Bibliografia Complementar  
+BRASIL. Parâmetros Curriculares Nacionais. Brasília, 1999.  
+UBINGER, Mayura M. M.; BRAATHEN, Per Christian. Ação e reação: ideias para aulas especiais de 
+química. Belo Horizonte: RHJ, 2012. 292 p.  
+CHAGAS, Aécio Pereira. Como se faz química: uma reflexão sobre a química e a atividade do químico.  3. 
+ed. Campinas, SP: Unicamp, c2008. 107 p.  
+MATEUS, Alfredo Luis. Química na cabeça. Belo Ho rizonte: UFMG, 2001. 2007 126p.  
+LEAL, Murilo Cruz. Didática da química: fundamentos e práticas para o ensino médio. Belo Horizonte: 
+Dimensão, 2009. 120 p . 
+ 
+Nome da disciplina: Estágio Supervisionado I  
+Código: ES T1 Carga Horária Teórica:  18,3 Carga Horária Prática: 61,7 
+Período: 5º Carga Horária Total: 8 0 Pré-requisitos: DID 
+Ementa:  Princípios básicos da organização do trabalho pedagógico relacionados aos aspectos legais, 
+administrativos e político -pedagógicos do contexto escolar. Inserir gradativa e sistematicamente os alunos, 
+no contexto escolar, com a finalidade de identificar as políticas educacionais relacionadas às diretrizes 
+curriculares do ensino de  Química, considerando as ações administrativas e pedagógicas da instituição, tais 
+como: trabalho docente, ges tão escolar, projeto pedagógico, reflexões sobre os principais problemas 
+enfrentados no ensino de Química/Ciência, e outras questões importantes p ara promoção da cidadania por 
+meio do conhecimento químico na  educação básica.  
+Bibliografia básica  
+FREITAS, H. C. L.O. O trabalho como princípio articulado na prática de ensino e nos estágios. 9 ed. 
+Campinas, SP: Papirus, 2012. 253 p.  
+PIMENTA, S. G. O estágio na formação de professores: unidade teoria e prática? 11 ed. São Paulo: Cortez, 
+2012.  
+PIMENTA, S. G.; LIMA, M. S. L. Estágio e Docência. 7 ed. São Paulo: Cortez, 2012.  
+Bibliografia Complementar  
+BRASIL, Lei de Diretrizes e Bases da  Educação Nacional. Lei n.º 9.394. Diário Oficial da União, n.º 248 
+de 23/dez./1996.  
+MEC; SEMTEC. Parâmetros Curriculares Nacionais. Brasília, 1999.  
+MEC; SEMTEC. PCN+ Ensino Médio: Orientações Educacionais complementares aos Parâmetros 
+Curriculares Naciona is. Ciências da natureza, matemática e suas tecnologias. Brasília, 2002.  
+MEC; SEB. Orientações curriculares para o ensino médio: Ciências da natureza, matemática e suas 
+tecnologias. Volume 2. Brasília, 2006.   
+QUÍMICA  
+Licenciatura  
+ 
+58  
+ PICONEZ, S. C. B. A prática de ensino: e o estág io supervisionado. 24. ed. Campinas, SP: Papirus, 2012. 
+128 p.  
+ 
+SEXTO PERÍODO  
+Nome da Disciplina: Educação Especial: Fundamentos e políticas  
+Código: EEFP  Carga Horária Teórica:  36,7  Carga Horária Prática: 00  
+Período: 6 º Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Fundamentos da Educação Especial e da Educação Inclusiva. Política Nacional de Educação 
+Especial na Perspectiva da Educação Inclusiva. Aspectos educacionais e pedagógicos relacionados à pessoa 
+com deficiência,  à pessoa com altas habilidades e superdotação, bem como aquela com transtornos globais 
+do desenvolvimento. Diferença entre dificuldade de aprendizagem e distúrbios de aprendizagem. Reflexões 
+sobre a construção do fracasso escolar.  
+Bibliografia Básica  
+DECHICHI, Claudia; SILVA, Lázara Cristina da. Inclusão Escolar e Educação Especial: Teoria e prática 
+na diversidade. Uberlândia: Edufu, 2008.  
+MANTOAN, Maria Teresa Eglér. INCLUSÃO ESCOLAR O QUE É? POR QUÊ? COMO FAZER? São 
+Paulo: Summus, 2015.  
+MITTLER, Pete r. Educação Inclusiva: contextos sociais. Tradução WindyzBrazão Ferreira. Porto Alegre: 
+Artmed, 2003 . 
+Bibliografia Complementar  
+CYPEL, Saul. Déficit de Atenção e Hiperatividade e as Funções Executivas: Atualização para pais, 
+professores e profissionais da  saúde. Bela Vista: Leitura Médica, 2010.  
+SOPELSA, Ortenila. Dificuldades de Aprendizagem: Resposta de um atelier pedagógico. Porto Alegre: 
+Edipucrs, 2000.  
+GLAT, Rosana. Educação Inclusiva: Cultura e Cotidiano Escolar. Rio de Janeiro: Viveiros de Castro, 2 009. 
+SAMPAIO, CT., e SAMPAIO, SMR. Educação inclusiva: o professor mediando para a vida [online]. 
+Salvador: EDUFBA, 2009, 162 p. ISBN 978 -85-232-0627 -7.  
+AIKENHEAD, G. S. Educação científica para todos. Portugal: Edições Pedago, 2009.  
+ 
+Nome da disciplina:  Física Experimental  
+Código: FE  Carga Horária Teórica: 00  Carga Horária Prática: 36,67  
+Período: 6º  Carga Horária Total: 36,67  Pré-requisitos: FIS1  
+Ementa:  Algarismos Significativos; Propagação de Erros; Gráficos; Instrumentos de Medidas; Experiências 
+de Mecânica: Cinemática e Dinâmica; Conservação de Energia; Conservação de Momento linear.  Pressão; 
+princípio de Pascal; equação da continuidade; equação de Be rnoulli; temperatura; dilatação; calor específico 
+e calor latente; máquinas térmicas; gás ideal e gás real (simulação computacional); oscilações e ondas, 
+movimento harmônico,  pêndulo,  ressonância. Leis de Kepler; análise de sistemas de muitos corpos 
+(simul ação computacional) . Processos de eletrização, campo e potencial elétrico, instrumentos de medidas 
+elétricas . Lei de Ohm. Efeito Joule. Fontes, resistores, capacitores, corrente elétrica, circuitos elétricos . 
+Campo magnético, indutores, circuitos de corrente alternada , transformadores.  
+Bibliografia Básica  
+PERUZZO, J. Experimentos de física básica: mecânica. (Livraria da Física, SP, 2012).  
+PERUZZO, J. Experimentos de física básica: termodinâmica, ondulatória e óptica. (Livraria da Física, SP, 
+2012).  
+PERUZZO, J. Experimentos de física básica: eletromagnetismo, física moderna e ciências espaciais 
+(Livraria da Física, SP,  2013).   
+ 
+QUÍMICA  
+Licenciatura  
+59  
+ Bibliografia Complementar  
+CAMPOS, A. A., Alves, E. S. e Speziali, N. L.Física Experimental Básica na Universidade, 2ª edição 
+(UFMG, 2012).  
+VALADARES, E. C. Física mais que divertida: inventos eletrizantes baseados em materiais  reciclados e de 
+baixo custo. 3 ª edição (Belo Horizonte: UFMG, 2012).  
+HALLIDAY , D., Resnick, R., Walker, J. Fundamentos de Física, vo l. 1, 2 e 3, 9ª edição  (LTC, RJ,2012).  
+HELENE, O. A. M. e Vanin, V. Tratamento estatístico de dados em física experimental, 2ª edição (ed. Edgar 
+Blücher Ltda, 1991).  
+VUOLO, J. H. Fundamentos da teoria de erros, 2ª edição (ed. Edgar Blücher Ltda, 1996).  
+ 
+Nome da disciplina: Físico -Química II  
+Código: FQ2  Carga Horária Teórica:  73,3 Carga Horária Prática: 0  
+Período: 6º  Carga Horária Total: 73,3 Pré-requisitos: FQ1 
+Ementa: Soluções; Equilíbrio Físico; Colóides; Superfícies.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+IRA, N. LEVINE, Físico -Química, Mc Graw -Hill, vol. 1 e 2, 6a ed. 2012.  
+CASTELLAN, Gilbert Willian. Fundamentos de Físico -Quimica Rio de Janeiro: LTC, 1999.  
+ATKINS, P.W., PAULA, J., Físico -Química, 8ª ed. Rio de Janeiro: LTC, vol. 01, 2008.  
+Bibliografia Complementar  
+MOORE, Walter J. Físico -química. 4. ed. São Paulo, SP: Blucher, c1976. 2011. V. 1 e 2.  
+ATKINS, Peter W.; JONES, Loretta. Princípios de química: questionando a vida moderna e o meio 
+ambiente. 5. ed. Porto Alegre, RS: Bookman , 2012.  
+BROWN, Theodore L. Química: a ciência central.  9. ed. São Paulo, SP: Pearson, c2005. 2012.  
+ARTIGOS CIENTÍFICOS: revista Química Nova, disponíveis em: http://quimicanova.sbq.org.br/ e outras.  
+BALL, David W.; VICHI, Ana Maron. Físico -Química. São P aulo, SP: Cengage Learning, 2005.  
+ 
+Nome da disciplina: Química Orgânica I  
+Código: QO1  Carga Horária Teórica:  73,3 Carga Horária Prática: 0  
+Período: 6º  Carga Horária Total: 73,3 Pré-requisitos: QG  
+Ementa: Estrutura eletrônica e ligações químicas do carbono; Intermediários de reações orgânicas; Alcanos, 
+cicloalcanos, alcenos e alcinos: nomenclatura, propriedades físicas, síntese e reações químicas; 
+Estereoquímica dos compostos orgânicos; Compostos aromáticos : aromaticidade, síntese e reações 
+químicas; Haletos de Alquila e Organometálicos – reações, síntese e propriedades físicas e químicas; 
+Álcoois e éteres - reações, síntese e propriedades físicas e químicas.  Prática como componente curricul ar: 
+25% CHT.  
+Bibliografia Básica  
+ALLINGER, N. L. Química Orgânica. 2 ed. Rio de Janeiro, RJ: LTC, 1996.  
+BRUICE, P. Y. Química Orgânica. 4 ed. São Paulo, SP: Pearson Prentice Hall, 2006.  
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. 10. ed. Rio de Janeiro, RJ: LTC, 2012.  
+Bibliografia Complementar  
+BARBOSA, L. C. A. Introdução à química orgânica. 2 ed. São Paulo, SP: Pearson Prentice Hall, 2011.  
+CAREY, F. A. Química Orgânica. 7 ed. Porto Alegre, RS: AMGH, 2011.  
+CLAYDEN, J.; GREEVES, N.; WARREN, S. Organic chemist ry. New York, EUA: Oxford University 
+Press, 2012. xxv, 1234 p.  
+McMURRY, J. Química Orgânica. 7 ed. São Paulo, SP: Cengage Learning, 2011.  
+VOLHARD, K. P. C.; SCHORE, N. E. Química orgânica: estrutura e função. 6 ed. Porto Alegre, RS: 
+Bookman. 2013.  
+  
+QUÍMICA  
+Licenciatura  
+ 
+60  
+ Nome da disciplina: Elementos de Geologia e Mineralogia  
+Código: EGM  Carga Horária Teórica: 55,0 Carga Horária Prática: 00  
+Período: 6 º Carga Horária Total: 55,0 Pré-requisitos: Não há pré -requisitos  
+Ementa:  O Planeta Terra e suas origens. Conceitos básicos de  geologia e mineralogia. Origem e classificação 
+das rochas  e seus minerais . Dinâmica externa e dinâmica interna da Terra. Mineralogia das rochas e dos 
+solos e sua importância econômica. Classificação dos minerais empregando suas propriedades físicas e 
+quím icas. Principais minerais presentes nas rochas  e suas p ropriedades  físicas e químicas.  Principais 
+minérios do Brasil e seus empregos na indústria e agricultura.  
+Bibliografia Básica  
+BRANCO, P. M. Dicionário de Mineralogia e Gemologia. 1 ed. São Paulo: Ofic ina de Textos, 2008.  
+POPP, José Henrique. Geologia Geral. 6 ed. Rio de Janeiro, RJ: LTC, c2010. 309 p.  
+TEIXEIRA, Wilson; FAIRCHILD, Thomas Rich; TOLEDO, M. Cristina Motta de; TAIOLI, Fábio. 
+Decifrando a Terra. 2 ed. São Paulo, SP: Companhia Editora Naciona l, 2009. 623 p.  
+Bibliografia Complementar  
+GOMES, C. B. Técnicas Analíticas Instrumentais à Geologia. São Paulo: Edgard Blücher: PROMINÉRIO, 
+1984.  
+GROTZINGER, J. P.; JORDAN, T. H. Para entender a Terra. 6 ed. Porto Alegre/RS: Bookman, 2013. 738 
+p. 
+LEINZ, & AMARAL, S.E. Geologia Geral. 11 ed. São Paulo: Edgard Blucher, 1980.  
+MACIEL FILHO, Carlos Leite; NUMMER, Andréa Valli. Introdução à Geologia de Engenharia. 5. ed. 
+Santa Maria, RS: UFSM, 2014. 454 p.  
+POMEROL, C. Princípios de geologia: técnicas, modelos e teorias. 14 ed. Porto Alegre/RS: Bookman, 2013. 
+1017 p.  
+ 
+Nome da disciplina: Políticas Públicas na Educação Brasileira  
+Código: PPEB  Carga Horária Teórica:  36,7  Carga Horária Prática: 0  
+Período: 6º  Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: A educação no contexto das transformações da sociedade contemporânea; a relação Estado e 
+políticas educacionais; as políticas, estrutura e organização da educação escolar no Brasil a  partir da década 
+de 1990; a regulamentação do sistema educacional e da educação básica; as políticas educacionais em 
+debate. Planos específicos de educação no Brasil. Programas e projetos educacionais no estado de Goiás. 
+Lei complementar nº 26 e Diretrize s e Bases do sistema educacional do Estado de Goiás.  
+Bibliografia Básica  
+AZEVEDO, Janete, M. L. A educação como política pública. Campinas: Autores Associados, 1997.  
+BIANCHETTI, Roberto. Modelo neoliberal e políticas educacionais. Campinas: Autores Associados, 1997.  
+LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira e TOSCHI, MirzaSeabra. Educação escolar: políticas, 
+estrutura e organização. São Paulo: Cortez, 2003.  
+Bibliografia Complementar  
+BOURDIEU, Pierre. Contrafogos: táticas para enfrentar a invasão neoliberal. Rio de Janeiro: Zahar,1998.  
+DOURADO, Luiz Fernandes (Org.). Plano Nacional de Educação (2011 -2020): avaliação e perspectivas. 
+Goiânia: Editora UFG. Autên tica, 2011.  
+PORTELA, Romualdo (Org.). Organização do ensino no Brasil: níveis e modalidades na Constituição 
+Federal e na LDB. São Paulo: Xamã, 2007.  
+SAVIANI, Dermeval. Política e educ ação no Brasil. 5 ed. São Paulo : Autores Associados, 2002.  
+FONSECA, Marí lia. Políticas Públicas Para A Qualidade Da Educação Brasileira: Entre O Utilitarismo 
+Econômico E A Responsabilidade Social, Cad. Cedes, Campinas vol. 29, n. 78, p. 153 -177, maio/ago. 2009.  
+ 
+Nome da disciplina: Estágio Supervisionado II   
+ 
+QUÍMICA  
+Licenciatura  
+61  
+ Código: EST2  Carga Horária Teórica:  18,3 Carga Horária Prática: 61,7 
+Período: 6º  Carga Horária Total: 80  Pré-requisitos: EST1  
+Ementa: Reflexão sobre a realidade educativa a partir da diversidade de situações relevantes vivenciadas 
+pelos alunos em termos de observação, de intervenção colaborativa e de propostas de ações  na escola e na 
+sala de aula . Possibilitar a interação cooperativa do aluno, na instituição escolar campo de estágios, mediante 
+a utilização de diferentes tempos e espaços de vivência; ampliar as competências requeridas para o exercício 
+da profissão, mediante articulação teórico -prática dos saberes necessários à prática docente; assumir, 
+atividades didáticas como: seminários, acompanhamento de alunos, orientação a grupos de alunos em visitas  
+técnicas , auxilio para organização e realização de feiras de conhecimento/ciências,  elaboração e aplicação 
+estudo de caso no ensino de química/ciência,  pesquisas e outras modalidades relacionadas ao trabalho 
+escolar.  
+Bibliografia Básica  
+FREITAS, H. C. L.O. O  trabalho como princípio articulado na prática de ensino e nos estágios. 9 ed. 
+Campinas, SP: Papirus, 2012. 253 p.  
+PIMENTA, S. G. O estágio na formação de professores: unidade teoria e prática? 11 ed. São Paulo: Cortez, 
+2012.  
+PIMENTA, S. G.; LIMA, M. S. L.  Estágio e Docência. 7 ed. São Paulo: Cortez, 2012.  
+Bibliografia Complementar  
+BRASIL, Lei de Diretrizes e Bases da Educação Nacional. Lei n.º 9.394. Diário Oficial da União, n.º 248 
+de 23/dez./1996.  
+MEC; SEMTEC. Parâmetros Curriculares Nacionais. Brasília, 1999.  
+MEC; SEMTEC. PCN+ Ensino Médio: Orientações Educacionais complementares aos Parâmetros 
+Curriculares Nacionais. Ciências da natureza, matemática e suas tecnologias. Brasília, 2002.  
+MEC; SEB. Orientações curriculares para o ensino médio: Ciên cias da natureza, matemática e suas 
+tecnologias. Volume 2. Brasília, 2006.  
+PICONEZ, S. C. B. A prática de ensino: e o estágio supervisionado. 24. ed. Campinas, SP: Papirus, 2012. 
+128 p.  
+ 
+SÉTIM O PERÍODO  
+Nome da Disciplina: Relações étnico -raciais e Cultura  Afro Brasileira e Indígena  
+Código: RERABI  Carga Horária Teórica:  36,7  Carga Horária Prática: 00  
+Período: 7º  Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Reflexões sobre os aspectos e características da formação cultural brasileira: história e memória 
+dos povos afro -brasileiros e indígenas. Legislações e propostas relacionadas, avanços e desafios. Conceitos 
+de raça e etnia, mestiçagem, racismo e rac ialismo, preconceito e discriminação. As diversidades culturais 
+delineadas através das singularidades na língua, na religião, nas artes e nas ciências , relacionados a asp ectos 
+materiais, transformações , aspectos cult urais e singularidades . O legado dos pov os africanos e indígenas  na 
+cultura, ciências, sociais e históricos . Políticas de Ações Afirmativas e Discriminação Positiva – a questão 
+das cotas e o ensino de química , possíveis abordagens temáticas  para educação nas relações étnico raciais e 
+indígenas.  
+Bibliografia Básica  
+SANTOS, Renato Emerson dos. Diversidade, espaço e relações étnico -raciais: o negro na geografia do 
+Brasil. 2. ed. Belo Horizonte: Ed. Gutenberg, 2009. 203 p. (Coleção Cultura negra e identidades).  
+RIBEIRO, Cristiane Maria; PEREIRA, Mariana Cunha (Org.). Educação e relações étnico -raciais: diálogos, 
+silêncios e ações. Goiânia, GO: UFG, 2015. 241 p.  
+MARQUES, Eugenia Portela Siqueira; SILVA, Wilker Solidade da (Org.). Educação, relação étnico -raciais 
+e resistência: as experiencias dos núcleos de estudos afro -brasileiros e indígenas no Brasil. Assis - SP: 
+Triunfal, 2016. 276 p.   
+QUÍMICA  
+Licenciatura  
+ 
+62  
+ Bibliografia Complementar  
+AMÂNCIO, I. África -Brasil -Àfrica: matrizes, heranças e diálogos contemporâneos. Belo Horizonte: 
+Nandy ala, 2008.  
+MOORE, C. A África que incomoda: sobre a problematização do legado africano no quotidiano brasileiro. 
+2. ed. Belo Horizonte: Nandyala, 2010.  
+NUNES, A. P. África: para desfazer estereótipos e distorções. Belo Horizontes: Nandyala, 2010.  
+BENITE , A. M. C.; SILVA, J. P.; ALVINO, A. C. B.; Ferro, Ferreiros e Forja: O Ensino de Química pela 
+Lei Nº 10.639/03. Educação Em Foco (Juiz De Fora), v. 21, p. 735, 2017.  
+SILVA, J. P.; Alvino, A. C. B.; Santos, M. A.; Santos, V. L. L.; Benite, Anna Maria Canav arro. Tem Dendê, 
+Tem Axé, Tem Química: Sobre história e cultura africana e afro -brasileira no ensino de química. QUÍMICA 
+NOVANA ESCOLA (Impresso), v. 39, p . 19-26, 2017.  
+ 
+ 
+Nome da disciplina: Físico -Química III  
+Código: FQ3  Carga Horária Teórica: 73,3 Carga Horária Prática: 0  
+Período: 7º  Carga Horária Total: 73,3  Pré-requisitos: FQ1  
+Ementa: Cinética Química; Eletroquímica; Catálise.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+IRA, N. LEVINE, Físico -Química, Mc Graw -Hill, vol. 1 e 2, 6a ed. 2012.  
+CASTELLAN, Gilbert Willian. Fundamentos de Físico -Quimica Rio de Janeiro: LTC, 1999.  
+ATKINS, P.W., PAULA, J., Físico -Química, 8ª ed. Rio de Janeiro: LTC, vol. 01, 2008.  
+Bibliografia Complementar  
+BROWN, T. L. Química a Ciência Central. Ed Pearson Education do Brasil, 9a ed., 2005.  
+ATKINS, P., Jones, L. Princípios de Química: Questionando a vida Moderna, Ed. Bookman, 3a ed. 2006.  
+MOORE, Walter Jonh, Físico -Química, 4ª ed. São Paulo: Edgard Blucher,  1976.  
+ARTIGOS CIENTÍFICOS: revista Química Nova, disponíveis em: http://qu imicanova.sbq.org.br/ e outras.  
+BALL, David W.; VICHI, Ana Maron. Físico -Química. São Paulo, SP: Cengage Learning, 2005.  
+ 
+Nome da disciplina: Físico -Química Experimental  
+Código: FQE  Carga Horária Teórica:  0  Carga Horária Prática: 55,0  
+Período: 7º  Carga Horária Total: 55,0  Pré-requisitos: FQ1, CO-REQ FQ3  
+Ementa: Termodinâmica; Equilíbrio Químico e Físico; Soluções; Colóides; Superfícies; Cinética Química; 
+Eletroquímica; Catálise . 
+Bibliografia Básica  
+RANGEL, Renato N., Práticas de físico -química, 3ª ed., Edgard Blücher, 2006.  
+CASTELLAN, Gilbert Willian. Fundamentos de Físico -Quimica Rio de Janeiro: LTC, 1999.  
+ATKINS, P.W., PAULA, J., Físico -Química, 8ª ed. Rio de Janeiro: LTC, vol. 01, 2008.  
+Bibliografia Complementar  
+IRA, N. LEVINE, Físico -Química, Mc Graw -Hill, vol. 1 e 2, 6a ed. 2012.  
+BROWN, T. L. Química a Ciência Central. Ed Pearson Education do Brasil, 9a ed., 2005.  
+ATKINS, P., Jones, L. Princípios de Química: Questionan do a vida Mod erna, Ed. Bookman, 3a ed. 2006.  
+MOORE, Walter Jonh, Físico -Química, 4ª ed. São Paulo: Edgard Blucher, 1976.  
+ARTIGOS CIENTÍFICOS: revista Química Nova, disponíveis em: http://quimicanova.sbq.org.br/ e outras.  
+ 
+Nome da disciplina: Química Orgânica II  
+Código: QO2  Carga Horária Teórica:  36,7 Carga Horária Prática: 0   
+ 
+QUÍMICA  
+Licenciatura  
+63  
+ Período: 7º Carga Horária Total: 36,7 Pré-requisitos: QO1  
+Ementa: Aldeídos e Cetonas - reações de substituição nucleofílica  acíclica, síntese e propriedades físicas e 
+químicas; Ácidos Carboxílicos e seus derivados - reações de substituição e adição nucleofílica acílica, 
+síntese e propriedades físicas e químicas; Reações de enóis, enolatos e compostos β-dicarbonílicos; Reações 
+no carbono alfa de compostos carbonilados; Reações de oxidação e redução; Compostos orgânicos 
+nitrogenados.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+ALLINGER, N. L. Química Orgânica. 2 ed. Rio de Janeiro, RJ: LTC, 1996.  
+BRUICE, P. Y. Química Orgânica. 4 ed. São Paulo, SP: Pearson Prentice Hall, 2006.  
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. 10. ed. Rio de Janeiro, RJ: LTC, 2012.  
+Bibliografia Complementar  
+BARBOSA, L. C. A. Introdução à química orgânica. 2 ed. S ão Paulo, SP: Pearson Prentice Hall, 2011.  
+CAREY, F. A. Química Orgânica. 7 ed. Porto Alegre, RS: AMGH, 2011.  
+CLAYDEN, J.; GREEVES, N.; WARREN, S. Organic chemistry. New York, EUA: Oxford University 
+Press, 2012. xxv, 1234 p.  
+McMURRY, J. Química Orgânica. 7  ed. São Paulo, SP: Cengage Learning, 2011.  
+VOLHARD, K. P. C.; SCHORE, N. E. Química orgânica: estrutura e função. 6 ed. Porto Alegre, RS: 
+Bookman. 2013.  
+ 
+Nome da disciplina: Química Orgânica Experimental  
+Código: QOE  Carga Horária Teórica:  0 Carga Horária Prática: 55,0 
+Período: 7º  Carga Horária Total: 55,0 Pré-requisitos: CO-QO2  
+Ementa: Propriedades físicas e químicas, periculosidade e toxidade de compostos orgânicos; Segurança em 
+laboratórios de química orgânica; Métodos básicos de determinação das propriedades físico -químicos de 
+compostos orgânicos; Métodos básicos de separação e purificação de compostos orgânicos; Solubilidade de 
+compostos orgânicos; Técnicas de Recristalização, destilação e extração; Cromatografia ; Identificação d os 
+principais grupos funcionais através de reações químicas específicas; Preparação e caracterização de 
+compostos orgânicos ; Síntese orgânica; Planejamento, execução e discussão de experimentos em síntese; 
+Análise, interpretação e apresentação dos resultad os obtidos em laboratório  
+Bibliografia Básica  
+ENGEL, R. G. et al. Química orgânica experimen tal: técnicas de escala pequena . 3. ed. São Paulo, SP: 
+Cengage Learning, 2013, 1010 p.  
+MARQUES, J. A.; BORGES, C. P. F. Práticas de química orgânica. 2. ed. Campin as, SP: Átomo, 2012. 232 
+p. 
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. 10. ed. Rio de Janeiro, RJ: LTC, 2012.  
+Bibliografia Complementar  
+BARBOSA, L. C. A. Introdução à química orgânica. 2 ed. São Paulo, SP: Pearson Prentice Hall, 2011.  
+BRUICE, P. Y. Química Orgânica. 4 ed. São Paulo, SP: Pearson Prentice Hall, 2006.  
+CONSTANTINO, M. G.; SILVA, G. V. J.; DONATE, P. M. Fundamentos de química experimental. 2. ed. 
+São Paulo, SP: Edusp, 2011.  
+MANO, E. B.; SEABRA, A. P. Práticas de química orgânica. 3. ed. São Paulo, SP: Edgard Blucher, 1987. 
+245p.  
+OLIV EIRA, F. P. ; TRINDADE, D. F.; BISPO, J. G.; BANUTH, G. S. L.; OLIVEIRA, F. P. Química básica 
+experimental. 5. ed. São Paulo, SP: Ícone, 2013.  
+ 
+Nome da Disciplina: Educação Especial e educação inclusiva no ensino de Química  
+Código: EEIEQ  Carga Horária Teórica:  36,7  Carga Horária Prática: 00  
+Período: 7º  Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos   
+QUÍMICA  
+Licenciatura  
+ 
+64  
+ Ementa: Refletir sobre as dificuldades específicas  e empecilhos   a aprendizagem em ciências/química 
+requeridas n ecessidades educacionais espec íficas (NEE)  em salas regulare s, refletir sobre as necessidades 
+materiais e epistemológicas e tentar aliar metodologicamente propostas de mediações para o ensino de 
+conceitos químicos e desenvolver estratégias que auxiliem a aprendizagem e permanência pela mediação 
+com produção de materiais e modelos, recursos psicopedagógicos  e metodológicos orientados para  a 
+promoção de  aprendizagens ma is  significativa s. Propostas de aulas e materiais alternativos para alunos 
+com deficiência auditiva,  visual  e out ras NEE . 
+Bibliografia Básica  
+CARNEIRO, Moaci Alves. O acesso de alunos com deficiência às escolas e classes comuns: possibilidades 
+e limitaçõe s. 2. ed. Petrópolis,  RJ: Vozes, 2008. 175 p.  
+MANTOAN, Maria Teresa Eglér (Org.). O desafio das diferenças nas escolas. 4. ed. Petrópolis, RJ: Vozes, 
+2011. 152 p.  
+SKLIAR, Carlos (Org.). Atualidade da educação bilíngüe para surdos = Actualidad de la educación bilingüe 
+para sordos: processos e projetos pedagógicos. 4. ed. Porto Alegre, RS: Mediação, 2013. 270 p. v.1.  
+Bibliografia Complementar  
+MELO, Francisco Ricardo Lins Vieira de. O aluno com deficiência física na escola regular: condições de 
+acesso e permanência. Natal, RN: EDUFRN, 2010. 170 p.  
+BRASIL. Ministério da Educação; Secretaria da Educação Básica; Secretaria de Educação Continuada, 
+Alfabetização e Inclusão; Secretaria de Educação Profissional e Tecnológica; Conselho Nacional de 
+Educação.  Diretrizes Curriculares Nacionais da Educação Básica. Brasília, DF: MEC, 2013. 562 p.  
+OLIVEIRA, A. P.;  Benite, Anna M. Canavarro. Intervenção pedagógica no ensino de ciências para surdos: 
+sobre o conceito de substância (simples e composta). Experiências Em Ensino De Ciências (UFRGS), v. 12, 
+p. 76 -94, 2017.  
+OLIVEIRA, Walquíria Dutra De ; Benite, Anna Maria Canavarro . Aulas de ciências para surdos: estudos 
+sobre a produção do discurso de intérpretes de LIBRAS e professores de ciências. Ciência & Educação, v . 
+21, p. 457, 2015 . 
+BENITE, A. M. C. ; Batista, M. A. R. S; Silva, L. D. ; Benite, Claudio R Machado  . O Diário Virtual 
+Coletivo: Um Recurso para Investigação dos Saberes Docentes Mobilizados na Formação de Professores de 
+Química de Deficientes Visuais. Química Nova na Escola. 36, p. 61 -70, 2014.  
+ 
+Nome da Disciplina: TC I – Elaboração de Projetos  
+Código: TC1  Carga Horária Teó rica: 18,3 Carga Horária Prática: 00  
+Período: 7º  Carga Horária Total: 18,3  Pré-requisitos: MC  
+Ementa: Elaboração  de um projeto sob orientação de um professor orientador . Concepção e definição do 
+tema de pesquisa;  metodologia da pesquisa; algumas abordagens;  a pesquisa bibliográfica;  pesquisa 
+participante, pesquisa -ação, estudo de caso; pesquisa fenomenológica,  etc; Definição  do cronograma de 
+execução , das técnicas a serem e mpregadas (computacionais ou em laboratório), do orçam ento; Início da 
+execução: ex perimentos ou ensaios iniciais. Pesquisa bibliográfica , objetivo e metodologia para a realização  
+do Trabalho  de Curso proposto.  
+Bibliografia Básica  
+LAKATOS, E. M.; MARCONI, M. de A. Fundamentos de metodologia científica. 6. ed. São Paulo: Atlas, 
+2007.  
+SEVERINO, A. J. Metodologia do trabalho científico. 22 a ed. São Paulo: Cortez, 2002.  
+ANDRADE, M. M. de. Introdução à metodologia do tra balho científico: Elaboração de trabalhos na 
+graduação. 10 a ed. São Paulo: Atlas, 2010.  
+Bibliografia Complementar  
+MEDEIROS, J. B. Redação científica: A pratica de fich amentos, resumos, resenhas. São Paulo: Atlas, 
+2010.   
+ 
+QUÍMICA  
+Licenciatura  
+65  
+ FAZENDA, I. Metodologia da Pesquisa Científica. São Paulo: Cortez.  
+ECO, H. Como se faz uma tese. São Paulo: Perspectiva.  
+FRANCA, J. L.; VASCONCELLOS, A. C. Manual para normalização de pub licações técnico -científica. 8 
+a ed. Belo Horizonte: UFMG, 2009.  
+GONCALVES, H. de A. Manual projetos de pesquisa científica: inclui exercício prático. São Paulo: 
+Avercamp, 2003.  
+ 
+ 
+Nome da disciplina: Estágio Supervisionado III  
+Código: EST3  Carga Horária Teórica:  18,3 Carga Horária Prática: 101,7 
+Período: 7º  Carga Horária Total: 120  Pré-requisitos: EST2  
+Ementa:  Estudos sobre o papel do professor  e o planejamento de situações de ensino contextualizadas; 
+refletir sobre a docência no ensino de química , o espaço para a regência; as propostas de ensino e as ações 
+pertinentes para uma mediação efetiva das situações de ensino para aprendizagem. Estabele cimento de 
+parcerias colaborativas para a aprendizagem, nas quais  alunos e professores da escola campo de estágio 
+participe m e compartilhem experiências, contribuindo para a reflexão e formação docente em 
+química/ciências . Proporcionar a interação sistemát ica com as escolas do sistema de educação básica, que 
+permita m ao estagiário , o desenvolvimento de projetos de ensino e pesquisa , envolvendo conceitos 
+científicos de forma interdisciplinar ; reconhecer que para alcançar a autonomia docente é preciso planeja r, 
+negociar situações e estabelecer parcerias com a comunidade escolar; desenvolvimento  e aplicação de 
+projetos que conciliem aspectos e critérios metodológicos para a promoção de uma aprendizagem 
+significativa. Conhecimento epistemológico e estabeleciment o de relações pertinentes entre o conhecimento 
+químico e científico  nas mais diversas áreas. Refletir sobre os interrogantes capitais e suas implicações no 
+desenvolvimento de projetos temáticos para o ensino de ciências/química.  
+Bibliografia Básica  
+FAZENDA, Ivani C. O papel do estágio nos cursos de formação de professores. In: PICONEZ, S. (coord.) 
+A prática de ensino e o estágio supervisionado. Campinas: Papirus, 1991.  
+LIBÂNEO, José Carlos. Adeus professor, adeus professora?: novas exigências educaci onais e profissão 
+docente. 13. ed. São Paulo, SP: Cortez, 2011 102 p. (Questões da nossa época; 2)  
+BARBOSA, Elyana; BULCÃO, Marly. Bachelard: pedagogia da razão, pedagogia da imaginação. 2. ed. 
+Petrópolis, RJ: Vozes, 2011. 102 p.  
+Bibliografia Complementar  
+BRASIL, Secretaria de Educação Fundamental. Parâmetros Curriculares Nacionais. Ciências Naturais. 
+Brasília: MEC/SEF, 1998.  
+FAZENDA I. C. A. Integração e interdisciplinaridade no ensino brasileiro: efetividade ou ideologia? São 
+Paulo, Loyola, 1993.  
+PIMENTA, Selma Garrido; LIMA, Maria Socorro Lucena. Estágio e docência. 7. ed. São Paulo, SP: 
+Cortez, 2012. 296 p. (Docência em formação Saberes pedagógicos).  
+BRASIL, MINISTÉRIO DA EDUCAÇÃO, SECRETARIA DE EDUCAÇÃO MÉDIA E 
+TECNOLÓGICA. Parâmetros curricular es nacionais: ensino médio / Ministério da Educação. Secretaria de 
+Educação Média e Tecnológica. - Brasília : Ministério da Educação, 1999. Relações étnico -raciais e Cultura 
+Afro Brasileira e Indígena  
+CARVALHO, A. M. P. BARROS, M. A.; GONÇALVES, M. E. R.; RE Y, R. C.; VANUCCHI, A. I. (1998). 
+Ciências no Ensino Fundamental: o conhecimento físico. São Paulo: Scipione, 1998.  
+ 
+OITAVO PERÍODO  
+Nome da disciplina: CTSA no Ensino de Química   
+QUÍMICA  
+Licenciatura  
+ 
+66  
+ Código: CTSAQ  Carga Horária Teórica: 36,7  Carga Horária Prática: 00  
+Período: 8 º Carga Horária Total: 36,7  Pré-requisitos: Não há pré -requisitos  
+Ementa: Abordagens C -T-S-A (Ciência -Tecnologia – Sociedade – Ambiente) no ensino de ciências: 
+origens, fundamentação, diversidade e identidade. Visões e representações sobre ciências, tecnologia, 
+sociedade, ambiente e suas relações. Importância da Educação Científica na sociedade atual. Tendências 
+das pesquisas sobre ensino por CTSA em Química. A abordagem CTSA nos currículos oficiais. Tensões 
+nos currículos CTS, dificuldades e possibilidades de implementação prática. Análise e produção de materiais 
+e recursos segundo abordagens CTSA.  Experimentação com abordagem CTSA.  Abordagem de temas 
+sociais  e questões sócio científicas (QSC) no ensino de química . 
+Bibliografia Básica  
+BACHE LARD, G. (1996). A formação do espírito científico. Rio de Janeiro: Contraponto.  
+BRASIL. PCN: Ciências da Natureza, Matemática e suas Tecnologias. Brasília: Secretaria do Ensino 
+Médio/MEC,1999.  
+CACHAPUZ, A. PRAIA, J. e JORGE, M. Ciência, Educação em Ciênci as e Ensino de Ciências. Lisboa: 
+Instituto de Inovação Educacional, 2002.  
+Bibliografia Complementar  
+FREIRE, Paulo. Pedagogia da Autonomia: Saberes necessários à Pratica Educativa. São Paulo: Paz e Terra, 
+1997.  
+SANTOS, Wildson P., AULER, Décio (org.). CTS e educação científica: desafios, tendências e resultados 
+de pesquisa. Editora da UNB, 2011.  
+AULER, D. Enfoques Ciência -Tecnologia -Sociedade: pressupostos para o contexto brasileiro. Ciência e 
+Ensino, v. 1, n. especial, 2007.  
+SANTOS, W. L. P. Contextualização no ensino de ciências por meio de temas CTS em uma perspectiva 
+crítica. Ciência e Ensino, v.1, n. especial, 2007.  
+BAZZO, W. A. Ciência, Tecnologia e Sociedade e o Contexto da Educação Tecnológica. Florianópolis: 
+Editora da UFSC, 1ª edição,  1998.  
+ 
+Nome da disciplina: Análise Orgânica  
+Código: AO  Carga Horária Teórica:  55,0 Carga Horária Prática: 0  
+Período: 8º  Carga Horária Total: 55,0 Pré-requisitos: QO2 
+Ementa: Espectrometria de massas; Espectroscopia no Infravermelho (IV); Espectroscopia na região do 
+ultravioleta -visível; Espectrometria de Ressonância Magnética Nuclear de 1H e 13C. Prática como 
+componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+PAVIA, D. L. et al. Introdução à Espectroscopia. São Paulo, SP: Cengage Learning, 2010.  
+SILVERSTEIN, R. M. et al. Identificação Espectrométrica de Compostos Orgânicos. 7 ed.  Rio de Janeiro, 
+RJ: LTC, 2006.  
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica . 10. ed. Rio de Janeiro, RJ: LTC, 2012.  
+Bibliografia Complementar  
+ALLINGER, N. L. Química Orgânica. 2 ed. Rio de Janeiro, RJ: LTC, 1996.  
+BARBOSA, L. C. A. Introdução à química orgânica. 2 ed. São Paulo, SP: Pearson Prentice Hall, 2011.  
+BRUICE, P. Y. Quím ica Orgânica. 4 ed. São Paulo, SP: Pearson Prentice Hall, 2006.  
+CAREY, F. A. Química Orgânica. 7 ed. Porto Alegre, RS: AMGH, 2011.  
+McMURRY, J. Química Orgânica. 7 ed. São Paulo, SP: Cengage Learning, 2011.  
+ 
+Nome da disciplina: Química Ambiental  
+Código: QAMB  Carga Horária Teórica:  73,3 Carga Horária Prática: 0  
+Período: 8º  Carga Horária Total: 73,3 Pré-requisitos: QG   
+ 
+QUÍMICA  
+Licenciatura  
+67  
+ Ementa: Introdução à Química Ambiental. Química dos solos, das águas e da atmosfera. Poluição da 
+atmosfera urbana: Poluição ambiental: prevenção e tratamento. Nutrientes e produtividade primária. 
+Tratamento de efluentes. O lixo: aterros e tratamento de resíduos. Programas de educação ambiental para o 
+ensino médio. Química verde.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia B ásica  
+BAIRD, C. Química Ambiental, Artmed Editora S.A., Porto Alegre, 2002;  
+SPIRO, Thomas G.; STIGLIANI, William M. Química ambiental. 2. ed. São Paulo, SP: Pearso n, 2009. xiv, 
+334 p.  
+ROCHA, Julio Cesar; ROSA, André Henrique; CARDOSO, Arnaldo Alves. Intro dução à química 
+ambiental. 2. ed. Porto Alegre, RS: Bookman , 2009. 256 p.  
+Bibliografia Complementar  
+GIRARD, James. Princípios de química ambiental. 2. ed. Rio de Janeiro, RJ: LTC, 2013.  xix, 415 p.  
+LENZI, Ervim; FAVERO, Luzia Otilia Bortotti. Introdução à  química da atmosfera: ciência, vida e 
+sobrevivência. Rio de Janeiro, RJ: LTC, 2009 . xix, 465p.  
+LENZI, Ervim; FAVERO, Luzia Otilia Bortotti; LUCHESE, Eduardo Bernardi. Introdução à química da 
+água: ciência, vida e sobrevivênvia. Rio de Janeiro, RJ: LTC, 2009. 604 p.  
+BROWN, Theodore L. Química: a ciência central. 9. ed. São Paulo, SP: Pearson, c2005. 2012 xviii, 972 p.  
+BRANCO, Samuel Murgel. Natureza e agroquímicos. 2. ed. São Paul o, SP: Moderna, 1990. 72 p.  
+ 
+Nome da disciplina: Bioquímica  
+Código: BQ  Carga Horária Teórica: 73,3 Carga Horária Prática: 0  
+Período: 8º  Carga Horária Total: 73,3 Pré-requisitos: QG 
+Ementa: Aminoácidos, peptídeos e proteínas; Enzimas; Carboidratos; Ácidos nucléicos; Lipídios. 
+Vitaminas.  Prática como componente curricul ar: 25% CHT.  
+Bibliografia Básica  
+NELSON, D.L. & COX, M.M. Lehninger: Princípios de Bioquímica de Lehninger. 5.ed., São Paulo: 
+Sarvier, 2009.  
+CAMPBELL, M. K. Bioquímica. 3. ed. Porto Alegre: Artmed, 2000.  
+CHAMPE, P. C. Bioquímica ilustrada. 3. ed. Porto Alegre : Artmed, 2006.  
+Bibliografia Complementar  
+MARZZOCO, A. & TORRES, B.B. Bioquímica básica. 2.ed., Rio de Janeiro: Guanabara Koogan, 1999.  
+HARVEY, Richard A. Bioquímica ilustrada. 5. ed. Porto Alegre, RS: Artmed, 2012.  
+STRYER, L. Bioquímica. 3.ed. Rio de Ja neiro: Guanabara Koogan, 1992 . 
+VOET, Donald; VOET, Judith G. Bioquímica. São Paulo, SP: Artmed, 2006.  
+BERG, Jeremy Mark. Bioquímica. 6. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2008.  
+ 
+Nome da Disciplina: TC II – Desenvolvimento de Projetos  
+Código: TC2  Carga Horária Teó rica: 18,3 Carga Horária Prática: 00  
+Período: 8 º Carga Horária Total: 18,3  Pré-requisitos: TC1  
+Ementa: A disciplina tem como objetivo dar continuidade a disciplina de Elaboração de Projetos,  
+executando o projeto apresentado nesta disciplina e aplic ando a metodologia proposta com base na pesquisa 
+bibliográfica e no estudo e aplicação da s técnicas a serem utilizadas e ajustes no projeto proposto. A 
+disciplina compreende reuniões  periódi cas de acompanhamento e supervisão entre o professor orientado r e 
+as equipes. E ntrega de relatório com resultados obtidos e os ajustes realizados , seguidos de defesa ora l do 
+relatório de Trabalho de C urso.  
+Bibliografia Básica  
+LAKATOS, E. M.; MARCONI, M. de A. Fundamentos de metodologia científica.  6. ed. São Paulo: Atlas, 
+2007.  
+SEVERINO, A. J. Metodologia do trabalho científico. 22 a ed. São Paulo: Cortez, 2002.   
+QUÍMICA  
+Licenciatura  
+ 
+68  
+ ANDRADE, M. M. de. Introdução à metodologia do tra balho científico: Elaboração de trabalhos na 
+graduação. 10 a ed. São Paulo: Atlas, 2010.  
+Bibliografia Complementar  
+MEDEIROS, J. B. Redação científica: A prá tica de fich amentos, resumos, resenhas. São Paulo: Atlas, 
+2010.  
+FAZENDA, I. Metodologia da Pesquisa Científica. São Paulo: Cortez.  
+ECO, H. Como se faz uma tese. São Paulo: Perspectiva.  
+FRANCA, J. L.; VASCONCELLOS, A. C. Manual para normalização de pub licações técnico -científica. 8 
+a ed. Belo Horizonte: UFMG, 2009.  
+GONCALVES, H. de A. Manual projetos de pesquisa científica: inclui exercício prático. São Paulo: 
+Avercamp, 2003.  
+ 
+ 
+ 
+Nome da disciplina: Estágio Supervisionado IV  
+Código: EST4  Carga Horária Teórica:  18,3 Carga Horária Prática: 101,7 
+Período: 8º  Carga Horária Total: 120  Pré-requisitos: EST3  
+Ementa: Princípios da vida escolar e o exercício da docência  em química,  tendo a instituição escolar  e as 
+relações em sala de aula  como principal  foco de interesse. Planejar e desenvolver atividades relevantes para 
+a o desenvolvimento de propostas de ensino de química, através  da docência  em química  na realidade 
+educacional   na região, em Goiás, no Brasil e no mundo. Analisar alternativas  e se for o caso promover 
+adequações a propostas de ensino, aos contextos e interesses educacionais que favoreçam melhorias na 
+formação por meio de conceitos em química básica abordados por me io de projetos temáticos; considerando 
+aspectos da linguagem, importância da dialogia e de recursos materiais e/ou  estratégias pedagógicas para o 
+desenvolvimento  ou adaptações das ações planejadas. Refletir sobre os conhecimentos e  saberes docentes 
+neces sários para atuação profissional autônoma , considerando  na ação  e reflexão da prática pedagógica no 
+ensino de química de forma contextualizada e interdisciplinar.  
+Bibliografia Básica  
+FAZENDA, Ivani C. O papel do estágio nos cursos de formação de professores. In: PICONEZ, S. (coord.) 
+A prática de ensino e o estágio supervisionado. Campinas: Papirus, 1991.  
+MARQUES, Jacqueline Aparecida; BORGES, Christiane Philippini Ferreira. Práticas de química orgânica. 
+2. ed. Campinas, SP: Átomo, 2012. 232 p.  
+CAMPOS, Casemiro de Medeiros. Saberes docentes e autonomia dos professores. 4. ed. Petrópolis, RJ: 
+Vozes, 2007. 102 p.  
+Bibliografia Complementar  
+BRASIL, Secretaria de Educação Fundamental. Parâmetros Curriculares Nacionais. Ciências Naturais. 
+Brasília: ME C/SEF, 1998.  
+FAZENDA I. C. A. Integração e interdisciplinaridade no ensino brasileiro: efetividade ou ideologia? São 
+Paulo, Loyola, 1993.  
+BRASIL, MINISTÉRIO DA EDUCAÇÃO, SECRETARIA DE EDUCAÇÃO MÉDIA E 
+TECNOLÓGICA. Parâmetros curriculares nacionais: ensino médio / Ministério da Educação. 4. Secretaria 
+de Educação Média e Tecnológica. - Brasília: Ministério da Educação, 1999.  
+BARBOSA, Elyana; BULCÃO, Marly. Bachelard: pedagogia da razão, pedagogia da imaginação. 2. ed. 
+Petrópolis, RJ: Vozes, 2011. 102 p.  
+CARV ALHO, A. M. P. BARROS, M. A.; GONÇALVES, M. E. R.; REY, R. C.; VANUCCHI, A. I. (1998). 
+Ciências no Ensino Fundamental: o conhecimento físico. São Paulo: Scipione, 1998.  
+GAMBOA, Silvio Sánchez. Projetos de pesquisa, fundamentos lógicos: a dialética entre pe rguntas e 
+respostas. Chapecó: Argos, 2013.  
+ 
